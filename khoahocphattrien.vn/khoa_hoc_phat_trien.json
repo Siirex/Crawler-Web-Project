@@ -1,0 +1,16 @@
+{
+  "url": "https://khoahocphattrien.vn",
+  "number_of_page": 4,
+  "css_title": "h1",
+  "css_body": "div.td-post-content div div",
+  "css_time": "div.td-post-date",
+  "css_author": "div.td-post-author-name",
+  "directory":"F:/@Study/@Social Learning/New folder/@WORDTRAINING/bt/BT END/khoahocphattrien/",
+  "css_links": "div.td-block-span6 h3 a",
+  "categories": ["https://khoahocphattrien.vn/p1c882/tin-tuc/trang-{}.htm", 
+    "https://khoahocphattrien.vn/p1c785/chinh-sach/trang-{}.htm",
+    "https://khoahocphattrien.vn/p0c160/khoa-hoc/trang-{}.htm", 
+    "https://khoahocphattrien.vn/p1c879/kham-pha/trang-{}.htm", 
+    "https://khoahocphattrien.vn/p1c784/songkhoe/trang-{}.htm", 
+    "https://khoahocphattrien.vn/p1c937/dia-phuong/trang-{}.htm"]
+  }

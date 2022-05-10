@@ -1,0 +1,14 @@
+{
+        "num":5,
+        "cate_link": "https://www.webtretho.com/thinh-hanh/covid19?page={}",
+        "links_xpath": "//div[@class='flex__1']//div//a//@href",
+        "title_xpath": "//h1[@class='text-wrap text-bold text-primary mt__10 mb__5 font-size__22']//text()", 
+        "content_xpath": "//div[@id='post-content']//text()",
+        "image_xpath": "//picture//img//@src",
+        "cate_css": "div.d-flex.w-desc-35x a",
+        "time_xpath": "//meta[23]/@content",
+        "view_xpath": "//div[@class='flex__1']//div//div//span[1]",
+        "cmt_xpath": "//div[@class='flex__1']//div//div//span[3]",
+        "author_css": "div.d-flex.w-desc-35x div div span:nth-child(2)",
+        "link_domain": "https://webtretho.com"
+}

@@ -1,0 +1,1368 @@
+		
+                Nghiên cứu ứng dụng bác sỹ cây trồng (AI GreenDoctor) quản lý việc chăm sóc cây nhãn theo hướng sản xuất nông nghiệp thông minh trên địa bàn tỉnh Hưng Yên
+
+						
+                    28/04/2022 10:47
+                
+
+
+	
+    
+Ngày 20/4/2022 tại Hưng Yên, Sở KH&CN tỉnh Hưng Yên và Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế (Trung tâm) tổ chức thảo luận ký kết hợp đồng thực hiện nhiệm vụ KH&CN “Nghiên cứu ứng dụng bác sỹ cây trồng (AI GreenDoctor) quản lý việc chăm sóc cây nhãn theo hướng sản xuất nông nghiệp thông minh trên địa bàn tỉnh Hưng Yên”.Tham dự buổi thảo luận ký kết hợp đồng, phía cơ quan quản lý nhiệm vụ KH&CN có ông Trần Tùng Chuẩn, Giám đốc Sở; lãnh đạo công chức Phòng Quản lý Khoa học và Văn phòng Sở KH&CN tỉnh Hưng Yên. Về phía cơ quan chủ trì nhiệm vụ có bà Bùi Thị Huy Hợp- Phó Giám đốc phụ trách Trung tâm; đại diện phòng ban Trung tâm và thành viên chính thực hiện nhiệm vụ.Từ năm 2019, chuyên gia của Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế đã khởi xướng và cùng các chuyên gia đến từ Trung tâm Sinh học nông nghiệp quốc tế (CABI), Công ty Phần mềm BOM và một số đơn vị... tổ chức nghiên cứu và phát triển ứng dụng Bác sỹ cây trồng- AI GreenDoctor tích hợp công nghệ trí thông minh nhân tạo (AI), Dữ liệu lớn (Big data) và công nghệ Kết nối thời gian thực (WebRTC) với mục tiêu đồng hành cùng nhà nông trong sản xuất nông nghiệp. Ứng dụng này giúp nông dân xác định và quản lý sâu bệnh đe dọa cây trồng, sinh kế và an ninh lương thực của địa phương, khu vực và quốc gia. Để phát triển và phát huy tác dụng của Ứng dụng này, cần có sự đầu tư lâu dài và bài bản cùng sự chung tay góp sức/ nguồn lực đến từ nhiều tổ chức/ cá nhân, đặc biệt là sự vào cuộc sớm từ cấp chính quyền địa phương.Từ những thành công ban đầu, qua tìm hiểu nắm bắt nhu cầu và tình hình sản xuất nông nghiệp tại địa bàn tỉnh Hưng Yên, nhóm nghiên cứu đề xuất nhiệm vụ: “Nghiên cứu ứng dụng bác sỹ cây trồng (AI GreenDoctor) quản lý việc chăm sóc cây nhãn theo hướng sản xuất nông nghiệp thông minh trên địa bàn tỉnh Hưng Yên”.Việc hợp tác KH&CN giữa Sở KH&CN Hưng Yên với Trung tâm (đơn vị chủ trì thực hiện nhiệm vụ) có ý nghĩa quan trọng, góp phần thúc đẩy hoạt động nghiên cứu ứng dụng công nghệ tiên tiến vào sản xuất nông nghiệp tại địa bàn tỉnh Hưng Yên được kỳ vọng không những đem lại hiệu quả thiết thực trong các lĩnh vực KH&CN nông nghiệp trên đại bàn tỉnh, đóng góp cho sự phát triển đời sống nông dân, nông thôn phục vụ mục tiêu phát triển kinh tế - xã hội, bảo vệ môi trường của tỉnh mà còn mở ra hướng mới cho việc ứng dụng công nghệ đặc trưng của kỷ nguyên 4.0, chuyển đổi số cũng như hội nhập KH&CN của tỉnh trong thời gian tới.Thay mặt Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế, bà Bùi Thị Huy Hợp- Phó Giám đốc phụ trách Trung tâm cảm ơn Lãnh đạo Sở và các thành viên hội đồng thẩm định nhiệm vụ đã phối hợp và tạo điều kiện cho công tác nghiên cứu phát triển của Trung tâm trên địa bàn tỉnh Hưng Yên. Trung tâm sẽ đảm bảo triển khai nhiệm vụ theo đúng mục tiêu, nội dung hợp đồng và thuyết minh của nhiệm vụ đã ký giữa hai bên. Trung tâm mong muốn trong thời gian tới tiếp tục nhận được sự hỗ trợ của Sở trong việc thực hiện các nhiệm vụ KH&CN mới mà Trung tâm có thế mạnh phù hợp với nhu cầu và lợi ích phát triển của tỉnh Hưng Yên.Tham dự buổi thảo luận ký kết hợp đồng, phía cơ quan quản lý nhiệm vụ KH&CN có ông Trần Tùng Chuẩn, Giám đốc Sở; lãnh đạo công chức Phòng Quản lý Khoa học và Văn phòng Sở KH&CN tỉnh Hưng Yên. Về phía cơ quan chủ trì nhiệm vụ có bà Bùi Thị Huy Hợp- Phó Giám đốc phụ trách Trung tâm; đại diện phòng ban Trung tâm và thành viên chính thực hiện nhiệm vụ.Từ năm 2019, chuyên gia của Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế đã khởi xướng và cùng các chuyên gia đến từ Trung tâm Sinh học nông nghiệp quốc tế (CABI), Công ty Phần mềm BOM và một số đơn vị... tổ chức nghiên cứu và phát triển ứng dụng Bác sỹ cây trồng- AI GreenDoctor tích hợp công nghệ trí thông minh nhân tạo (AI), Dữ liệu lớn (Big data) và công nghệ Kết nối thời gian thực (WebRTC) với mục tiêu đồng hành cùng nhà nông trong sản xuất nông nghiệp. Ứng dụng này giúp nông dân xác định và quản lý sâu bệnh đe dọa cây trồng, sinh kế và an ninh lương thực của địa phương, khu vực và quốc gia. Để phát triển và phát huy tác dụng của Ứng dụng này, cần có sự đầu tư lâu dài và bài bản cùng sự chung tay góp sức/ nguồn lực đến từ nhiều tổ chức/ cá nhân, đặc biệt là sự vào cuộc sớm từ cấp chính quyền địa phương.Từ những thành công ban đầu, qua tìm hiểu nắm bắt nhu cầu và tình hình sản xuất nông nghiệp tại địa bàn tỉnh Hưng Yên, nhóm nghiên cứu đề xuất nhiệm vụ: “Nghiên cứu ứng dụng bác sỹ cây trồng (AI GreenDoctor) quản lý việc chăm sóc cây nhãn theo hướng sản xuất nông nghiệp thông minh trên địa bàn tỉnh Hưng Yên”.Việc hợp tác KH&CN giữa Sở KH&CN Hưng Yên với Trung tâm (đơn vị chủ trì thực hiện nhiệm vụ) có ý nghĩa quan trọng, góp phần thúc đẩy hoạt động nghiên cứu ứng dụng công nghệ tiên tiến vào sản xuất nông nghiệp tại địa bàn tỉnh Hưng Yên được kỳ vọng không những đem lại hiệu quả thiết thực trong các lĩnh vực KH&CN nông nghiệp trên đại bàn tỉnh, đóng góp cho sự phát triển đời sống nông dân, nông thôn phục vụ mục tiêu phát triển kinh tế - xã hội, bảo vệ môi trường của tỉnh mà còn mở ra hướng mới cho việc ứng dụng công nghệ đặc trưng của kỷ nguyên 4.0, chuyển đổi số cũng như hội nhập KH&CN của tỉnh trong thời gian tới.Thay mặt Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế, bà Bùi Thị Huy Hợp- Phó Giám đốc phụ trách Trung tâm cảm ơn Lãnh đạo Sở và các thành viên hội đồng thẩm định nhiệm vụ đã phối hợp và tạo điều kiện cho công tác nghiên cứu phát triển của Trung tâm trên địa bàn tỉnh Hưng Yên. Trung tâm sẽ đảm bảo triển khai nhiệm vụ theo đúng mục tiêu, nội dung hợp đồng và thuyết minh của nhiệm vụ đã ký giữa hai bên. Trung tâm mong muốn trong thời gian tới tiếp tục nhận được sự hỗ trợ của Sở trong việc thực hiện các nhiệm vụ KH&CN mới mà Trung tâm có thế mạnh phù hợp với nhu cầu và lợi ích phát triển của tỉnh Hưng Yên.
+    
+
+						Trung tâm Nghiên cứu và Phát triển hội nhập KH&CN quốc tế
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Người dân, doanh nghiệp dùng dịch vụ Chính phủ số được hỗ trợ bảo vệ thông tin
+
+						
+                    26/04/2022 15:18
+                
+
+
+	
+    
+Dự án “Xây dựng hệ thống hỗ trợ giám sát, điều hành an toàn, an ninh mạng phục vụ Chính phủ điện tử” đã được Bộ TT&TT phê duyệt, với mục tiêu nâng cao năng lực kỹ thuật cho Trung tâm Giám sát an toàn không gian mạng quốc gia (Trung tâm NCSC) thuộc Cục An toàn thông tin trong việc quản lý hoạt động giám sát an toàn thông tin trên toàn quốc.Phát huy vai trò quản lý nhà nước về giám sát an toàn thông tin của Cục An toàn thông tin thông qua việc quản lý tổng thể và có báo cáo chính xác, khách quan về thực trạng an toàn thông tin trên không gian mạng Việt Nam.Dự án cũng nhằm nâng cao năng lực thực thi pháp luật của Cục An toàn thông tin và đơn vị chuyên trách trên cả nước, giám sát an toàn thông tin tổng thể và phát hiện, cảnh báo sớm nguy cơ mất an toàn thông tin, các mối đe dọa đối với hệ thống Chính phủ điện tử, hạ tầng số; hỗ trợ các bộ, ngành, địa phương bảo đảm an toàn thông tin với các hệ thống thông tin phục vụ Chính phủ/chính quyền điện tử.Cùng với đó, cho phép các bộ, ngành, địa phương thực hiện kết nối, chia sẻ thông tin với Trung tâm NCSC. Từ đó, hỗ trợ các cơ quan đang triển khai ứng dụng Chính phủ điện tử phục vụ người dân và doanh nghiệp được giám sát và bảo vệ chống lại các cuộc tấn công mạng.Qua việc kết nối, chia sẻ thông tin giữa bộ, ngành, địa phương với Trung tâm NCSC, các đơn vị đang triển khai ứng dụng Chính phủ điện tử được giám sát và bảo vệ. (Ảnh minh họa)Qua việc kết nối, chia sẻ thông tin giữa bộ, ngành, địa phương với Trung tâm NCSC, các đơn vị đang triển khai ứng dụng Chính phủ điện tử được giám sát và bảo vệ. (Ảnh minh họa)Tại quyết định phê duyệt dự án, Bộ TT&TT cũng nêu rõ các chỉ tiêu cụ thể: 100% các dịch vụ công trực tuyến trên toàn quốc được giám sát đảm bảo an toàn, an ninh mạng; 100% người dân, doanh nghiệp sử dụng dịch vụ Chính phủ số được hỗ trợ, bảo vệ thông tin cá nhân, tổ chức; 100% các cơ quan, các nhà mạng, doanh nghiệp cung cấp dịch vụ Chính phủ số tham gia phối hợp điều hành an toàn, an ninh mạng, bảo đảm an toàn thông tin mạng.100% các hệ thống cung cấp ứng dụng, dịch vụ số tại các cơ quan, các nhà mạng, các doanh nghiệp được kết nối trao đổi thông tin với hệ thống của Cục An toàn thông tin phục vụ giám sát, điều hành an toàn, an ninh mạng. Đồng thời, giảm thiểu 50% số cuộc tấn công vào các hệ thống Chính phủ điện tử.Trước đó, hồi đầu năm nay, trên cơ sở đánh giá những hạn chế, đại diện lãnh đạo Cục An toàn thông tin, Bộ TT&TT đã xác định 3 nhóm nhiệm vụ trọng tâm sẽ được tập trung triển khai để bảo vệ người dân, doanh nghiệp và các cơ quan, tổ chức nhà nước.Cụ thể, để bảo vệ các cơ quan, tổ chức nhà nước, Bộ TT&TT sẽ phát triển Hệ thống giám sát, điều hành an toàn thông tin mạng tập trung, kết nối, phân tích dữ liệu, chia sẻ thông tin rủi ro an toàn thông tin với 100 SOC (Trung tâm giám sát, điều hành an toàn thông tin mạng – PV) của bộ, ngành, địa phương. Hệ thống sẽ dự báo sớm nguy cơ rủi ro, giúp các bộ, ngành, địa phương ngăn chặn, xử lý kịp thời sự cố an toàn thông tin.Bên cạnh đó, Bộ TT&TT cũng phát triển nền tảng rà quét lỗ hổng bảo mật, cảnh báo sớm các ứng dụng Chính phủ điện tử của các bộ, ngành, địa phương.Đại diện Cục An toàn thông tin chỉ rõ, các cơ quan, tổ chức cần thực hiện phương án bảo đảm an toàn hệ thống thông tin theo cấp độ. Hoạt động này đã được luật định. Và cần được triển khai toàn trình, qua tất cả các bước từ thiết kế, thử nghiệm, xây dựng, vận hành và hủy bỏ hệ thống.Các cơ quan, tổ chức nhà nước cần diễn tập thực chiến bảo đảm an toàn thông tin mạng. Các cuộc diễn tập phải được chuẩn bị bài bản, sẵn sàng phương án bảo đảm hệ thống được an toàn và phối hợp với Cục An toàn thông tin để đánh giá hiệu quả, hỗ trợ ứng cứu sự cố.“Để các bộ, ngành, địa phương nhận định được mức độ đáp ứng, sẵn sàng của mình trong hoạt động bảo đảm an toàn thông tin. Bộ TT&TT sẽ tiếp tục cải tiến và tổ chức đánh giá, xếp hạng mức độ an toàn thông tin của các cơ quan, tổ chức, doanh nghiệp nhà nước và các tổ chức, doanh nghiệp hoạt động trong các lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin”, đại diện Cục An toàn thông tin cho biết thêm.
+    
+
+						Theo Ictnews
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM đặt hàng thực hiện các nhiệm vụ KH&CN
+
+						
+                    20/04/2022 15:22
+                
+
+
+	
+    
+Trong đó, 18 nhiệm vụ được các sở ngành đặt hàng như Nghiên cứu sản xuất giống cá dứa nhân tạo từ nguồn cá dứa bố mẹ trên địa bàn huyện Cần Giờ (UBND huyện Cần Giờ); Nghiên cứu xác định trữ lượng nguồn lợi thủy sản vùng ven bờ và vùng lộng TPHCM (Sở Nông nghiệp và Phát triển nông thôn); Nghiên cứu chọn tạo giống vi sinh vật mới bằng phương pháp chiếu xạ kết hợp phân tử; Thúc đẩy chuyển dổi sử dụng công nghệ sạch, công nghệ mới trong sản xuất công nghiệp (UBND TPHCM);…Ngoài ra, Sở KH&CN TPHCM cũng mời các tổ chức, đơn vị tham gia đăng ký thực hiện các nhiệm vụ theo định hướng nghiên cứu thuộc 5 chương trình được định hướng nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo giai đoạn 2021-2025, ở các lĩnh vực Đô thị thông minh và chuyển đổi số; Công nghiệp; Bảo vệ và chăm sóc sức khỏe; Nông nghiệp công nghệ cao; Quản lý và phát triển đô thị.Đối tượng đăng ký tham gia thực hiện các nhiệm vụ là tổ chức, doanh nghiệp KH&CN, trường, viện, tổ chức có chức năng nghiên cứu KH&CN Riêng đối với nhiệm vụ theo hình thức đề án khoa học, tổ chức chủ trì có thể là các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội.TPHCM hỗ trợ tối đa 100% kinh phí cho các nhiệm vụ KH&CN Ảnh: InternetTPHCM hỗ trợ tối đa 100% kinh phí cho các nhiệm vụ KH&CN Ảnh: InternetTPHCM hỗ trợ tối đa 100% kinh phí cho các nhiệm vụ KH&CN Ảnh: InternetCác sản phẩm của nhiệm vụ cần đáp ứng được một số tiêu chí như có khả năng giải quyết được vấn đề của Thành phố, phạm vi ứng dụng rộng rãi, mang tính đột phá so với sản phẩm cùng loại hoặc có tiềm năng phát triển, phù hợp với kế hoạch kinh phí.Các nhiệm vụ thuộc 5 chương trình nói trên sẽ được cấp 100% tổng kinh phí thực hiện. Đối với các nhiệm vụ được đặt hàng, được cấp 100% tổng kinh phí thực hiện nếu đạt điểm đánh giá từ 80/100 trở lên.Ngoài ra, Sở KH&CN TPHCM cũng sẽ xem xét hỗ trợ kinh phí tối đa đến 30% tổng kinh phí thực hiện đối với các nhiệm vụ nghiên cứu khoa học, phát triển công nghệ phục vụ doanh nghiệp (hỗ trợ tạo ra sản phẩm mới hoặc nâng cao năng suất, chất lượng, sức cạnh tranh).Thông tin chi tiết tại https://dost.hochiminhcity.gov.vn/
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Tìm giải pháp hỗ trợ doanh nghiệp đổi mới sáng tạo
+
+						
+                    19/04/2022 13:25
+                
+
+
+	
+    
+Hội thảo đã thu hút đại diện từ hơn 50 doanh nghiệp, cùng một số viện nghiên cứu, trường đại học, sở ban ngành tại TPHCM và các địa phương phía Nam.Tại Hội thảo, các đại biểu và doanh nghiệp được giới thiệu, chia sẻ về các chính sách hỗ trợ đổi mới sáng tạo, phát triển công nghệ, thúc đẩy phát triển doanh nghiệp KH&CN; giải pháp triển khai chuyển đổi số bán hàng hiệu quả; cách thức quản trị tài sản trí tuệ, phát triển và khai thác phương thức nhượng quyền thương hiệu; ứng dụng chuyển đổi số vào mô hình sản xuất kinh doanh cho doanh nghiệp; xu hướng kinh tế số trong phát triển năng lực doanh nghiệp và hội nhập quốc tế;...Ông Nguyễn Mạnh Cường, Phó Cục trưởng Cục CTPN chia sẻ tại Hội thảo. Ảnh: KAÔng Nguyễn Mạnh Cường, Phó Cục trưởng Cục CTPN chia sẻ tại Hội thảo. Ảnh: KAÔng Nguyễn Mạnh Cường, Phó Cục trưởng Cục CTPN chia sẻ tại Hội thảo. Ảnh: KATrong đó, để đổi mới công nghệ, doanh nghiệp có thể tự đầu tư nghiên cứu; nghiên cứu có sự phối hợp với các viện nghiên cứu, các trường đại học; hoặc nhận chuyển giao công nghệ hay tham gia các chương trình của nhà nước. Các nguồn hỗ trợ từ nhà nước mà doanh nghiệp có thể tham gia như chương trình nghiên cứu cấp Bộ KH&CN, Quỹ Phát triển KH&CN quốc gia (Nafotes), Quỹ Đổi mới công nghệ quốc gia, chương trình nghiên cứu cấp Bộ Công Thương/cấp tỉnh/thành phố,…Theo ông Nguyễn Mạnh Cường, Phó Cục trưởng phụ trách Cục Công tác phía Nam Bộ KH&CN, tốc độ đổi mới công nghệ của doanh nghiệp hiện còn rất chậm, vì vậy, trong thời gian tới, Cục Công tác phía Nam sẽ lấy doanh nghiệp làm trung tâm, tìm nhiều giải pháp giúp doanh nghiệp sẵn sàng đổi mới công nghệ.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Yên Bái ban hành bộ chỉ tiêu đánh giá chuyển đổi số tỉnh
+
+						
+                    19/04/2022 10:23
+                
+
+
+	
+    
+UBND tỉnh Yên Bái vừa ban hành bộ chỉ tiêu đánh giá chuyển đổi số tỉnh. Bộ chỉ tiêu này được sử dụng phục vụ công tác chỉ đạo, điều hành của UBND tỉnh.Theo đó, có 23 tiêu chí đánh giá chính quyền số, trong đó có: Tỷ lệ thủ tục hành chính đủ điều kiện theo quy định được cung cấp dưới hình thức dịch vụ công trực tuyến mức 4 và được cung cấp trên nhiều phương tiện truy cập khác nhau, bao gồm cả thiết bị di động; Tỷ lệ các giao dịch trên Cổng dịch vụ công tỉnh và hệ thống thông tin một cửa điện tử cấp tỉnh, huyện, xã được xác thực điện tử; Tỷ lệ hồ sơ giải quyết theo dịch vụ công trực tuyến mức 3, 4 trên tổng số hồ sơ; Tỷ lệ người dân, doanh nghiệp hài lòng về việc giải quyết thủ tục hành chính đạt tối thiểu; Tỷ lệ hồ sơ công việc được xử lý trên môi trường mạng (trừ hồ sơ công việc thuộc phạm vi bí mật nhà nước);Tỷ lệ cơ quan nhà nước cấp tỉnh tham gia mở dữ liệu và cung cấp dữ liệu mở phục vụ phát triển Chính phủ số, kinh tế số, xã hội số; Tỷ lệ công chức được gắn định danh số trong xử lý công việc; Tỷ lệ cơ quan nhà nước có nền tảng phân tích, xử lý dữ liệu tổng hợp tập trung, có ứng dụng trí tuệ nhân tạo để tối ưu hóa hoạt động; Tỷ lệ báo cáo của các cơ quan hành chính nhà nước được thực hiện trực tuyến...Tỉnh Yên Bái sẽ thực hiện đánh giá mức độ chuyển đổi số trên địa bàn tỉnh theo 38 tiêu chí về chính quyền số, kinh tế số, xã hội số. (Ảnh minh họa)Tỉnh Yên Bái sẽ thực hiện đánh giá mức độ chuyển đổi số trên địa bàn tỉnh theo 38 tiêu chí về chính quyền số, kinh tế số, xã hội số. (Ảnh minh họa)Sáu chỉ tiêu đánh giá kinh tế số gồm: Phấn đấu kinh tế số chiếm 20% GRDP; Năng suất lao động; Tỷ lệ doanh nghiệp nhỏ và vừa sử dụng nền tảng số; Tỷ lệ doanh nghiệp sử dụng hóa đơn điện tử; Tỷ lệ doanh nghiệp sử dụng hợp đồng điện tử; Tỷ trọng doanh thu thương mại điện tử trong tổng mức bán lẻ.Về xã hội số, 11 chỉ tiêu đánh giá lĩnh vực này là: Tỷ lệ tổ chức sử dụng phương tiện thanh toán không dùng tiền mặt qua các kênh thanh toán điện tử; Tỷ lệ cơ sở giáo dục trên địa bàn đô thị/ ngoài đô thị chấp nhận thanh toán học phí bằng phương thức thanh toán không dùng tiền mặt; Tỷ lệ cơ sở khám, chữa bệnh trên địa bàn đô thị/ ngoài đô thị chấp nhận thanh toán dịch vụ y tế bằng phương thức thanh toán không dùng tiền mặt;Tỷ lệ hộ gia đình sử dụng dịch vụ Internet đường truyền băng rộng cáp quang; Tỷ lệ phổ cập dịch vụ mạng di động 4G và điện thoại di động thông minh, từng bước phát triển mạng di động 5G; Tỷ lệ người dân sử dụng dịch vụ di động bằng thiết bị thông minh; Tỷ lệ người dân dùng điện thoại, thiết bị thông minh được tiếp cận, sử dụng các dịch vụ chính quyền điện tử, đô thị thông minh; Tỷ lệ người dân trưởng thành sử dụng dịch vụ thanh toán điện tử; Tỷ lệ cơ sở giáo dục các cấp từ tiểu học đến trung học phổ thông có tổ chức các hoạt động giáo dục STEM/ STEAM và kỹ năng số.Để tổ chức triển khai, UBND tỉnh Yên Bái giao Sở TT&TT xây dựng nền tảng số phục vụ việc tổng hợp, phân tích, đánh giá, hiển thị số liệu chuyển đổi số tỉnh Yên Bái, phục vụ công tác chỉ đạo, điều hành của UBND, Chủ tịch UBND tỉnh và Lãnh đạo UBND tỉnh.Sở TT&TT Yên Bái cũng có trách nhiệm hướng dẫn các sở, ngành, địa phương cung cấp thông tin số liệu có liên quan; thực hiện chia sẻ số liệu cho các cơ quan, đơn vị liên quan khi cần thiết.Đối với các sở, ban, ngành, địa phương, UBND tỉnh Yên Bái yêu cầu theo chức năng, nhiệm vụ, có trách nhiệm thực hiện các chỉ tiêu; cung cấp thông tin, số liệu theo kỳ báo cáo tại biểu Chỉ tiêu đánh giá chuyển đổi số tỉnh Yên Bái.
+    
+
+						Theo Ictnews
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: 6 chương trình KH&CN giai đoạn 2021 - 2025
+
+						
+                    14/04/2022 15:18
+                
+
+
+	
+    
+Cụ thể, lĩnh vực đô thị thông minh và chuyển đổi số, tập trung nghiên cứu ứng dụng các giải pháp để quản trị, điều hành xã hội và phát triển các nền tảng số trong lĩnh vực y tế, giáo dục và các lĩnh vực khác. Các lĩnh vực ưu tiên: công nghệ trí tuệ nhân tạo (AI), chuỗi khối (Blockchain), dữ liệu lớn (Big data), vạn vật kết nối (Internet of Things); robotic, điện toán đám mây, tính toán hiệu năng cao, công nghệ an ninh mạng thông minh,…Lĩnh vực công nghiệp, hỗ trợ các ngành công nghiệp đổi mới công nghệ, đổi mới sản phẩm, đặc biệt là nhóm sản phẩm công nghiệp chủ lực và nhóm sản phẩm tiềm năng của thành phố. Các công nghệ ưu tiên: in và vật liệu in 3D; robot tự hành; vật liệu, thiết bị nano; công nghệ hệ thống vi cơ điện tử (MEMS); thiết kế, chế tạo linh kiện, vi mạch điện tử tích hợp; lưới điện thông minh; máy nông nghiệp tiên tiến; cảm biến sinh học; tổng hợp nhiên liệu sinh học tiên tiến;…Thành phố ưu tiên hỗ trợ doanh nghiệp đổi mới công nghệ  Ảnh: InternetThành phố ưu tiên hỗ trợ doanh nghiệp đổi mới công nghệ  Ảnh: InternetThành phố ưu tiên hỗ trợ doanh nghiệp đổi mới công nghệ  Ảnh: InternetChương trình bảo về và chăm sóc sức khỏe nhằm phát triển và ứng dụng các kỹ thuật, giải pháp, quy trình KH&CN tiên tiến trong lĩnh vực y - dược; tạo ra các sản phẩm để nâng cao chất lượng dự phòng, chẩn đoán, điều trị và nâng cao sức khỏe và phòng chống dịch COVID-19. Các kỹ thuật, công nghệ ưu tiên: y học tái tạo và kỹ thuật tạo mô, thần kinh, tế bào gốc, enzyme, tin sinh học, giải trình tự gen thế hệ mới, phân tích và chẩn đoán phân tử, chiết hoạt chất dược liệu, bào chế dược phẩm, thực phẩm chức năng, điều chế và sản xuất các loại vắc xin, sinh phẩm y tế và sinh phẩm chẩn đoán thế hệ mới,…Các công nghệ và lĩnh vực ưu tiên trong nông nghiệp công nghệ cao gồm: nuôi trồng, canh tác, bảo quản, chế biến nông sản; chọn tạo giống cây, giống con; nông nghiệp chính xác; bào chế kháng thể, vắc-xin, chế phẩm sinh học; sản xuất các loại phân bón, thuốc bảo vệ thực vật, thuốc điều hòa sinh trưởng cho cây trồng; canh tác không dùng đất quy mô công nghiệp;…Ô nhiễm khói bụi tại TPHCM  Ảnh: InternetÔ nhiễm khói bụi tại TPHCM  Ảnh: InternetÔ nhiễm khói bụi tại TPHCM  Ảnh: InternetChương trình quản lý và phát triển đô thị, tập trung nghiên cứu các mô hình, giải pháp tạo ra động lực mới cho phục hồi và tăng trưởng kinh tế thành phố. Các lĩnh vực ưu tiên: đổi mới cơ chế, chính sách, dịch vụ công, mô hình tổ chức quản lý, cải cách thủ tục hành chính; phát triển kinh tế số, kinh tế chia sẻ, kinh tế tuần hoàn và kinh tế du lịch; giáo dục và đào tạo nguồn nhân lực chất lượng cao, nguồn nhân lực có trình độ quốc tế; an ninh quốc phòng, trật tự an toàn xã hội; bảo vệ môi trường;…Chương trình Vườn ươm KH&CN Trẻ nhằm hỗ trợ ươm tạo và nâng cao năng lực nghiên cứu cho các nhà khoa học trẻ, sinh viên, học sinh. Lĩnh vực ưu tiên theo định hướng của các chương trình KH&CN nêu trên.Sở KH&CN TPHCM là đơn vị chủ trì xây dựng nội dung chi tiết triển khai kế hoạch, dự toán ngân sách hừng năm để thực hiện các chương trình nói trên. Mục tiêu: giai đoạn 2021 - 2025, đầu tư từ ngân sách cho KH&CN đạt trên 2% tổng chi ngân sách thành phố, trong đó, phấn đấu nâng tỷ lệ dành cho hoạt động nghiên cứu phát triển và đổi mới sáng tạo đạt 30%. Tỷ lệ ứng dụng kết quả sau nghiệm thu của nhiệm vụ KH&CN đạt trên 70%, ứng dụng trực tiếp cho doanh nghiệp đạt 60%. Tỷ lệ doanh nghiệp khởi nghiệp đổi mới sáng tạo đạt 50% so với cả nước.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM có kế hoạch thu hút chuyên gia, nhà khoa học trong lĩnh vực kế hoạch và nông nghiệp
+
+						
+                    12/04/2022 16:22
+                
+
+
+	
+    
+Các cá nhân có đủ tiêu chuẩn chung như lý lịch rõ ràng (nếu có quốc tịch nước ngoài thì không thuộc diện cấm hoặc hạn chế nhập cảnh theo quy định của pháp luật Việt Nam); đủ sức khỏe và đủ năng lực hành vi dân sự; không thuộc đối tượng đang bị truy cứu trách nhiệm hình sự; đến thời điểm đăng ký thu hút, người tham dự phải đảm bảo sẵn sàng nhận nhiệm vụ;…Cụ thể, đối với 2 vị trí thuộc Sở Kế hoạch và Đầu tư, cần chuyên gia, nhà khoa học tư vấn về Quy hoạch và kế hoạch phát triển kinh tế - xã hội của TPHCM đến năm 2030, tầm nhìn đến năm 2045; cơ chế, chính sách hỗ trợ doanh nghiệp vừa và nhỏ, phát triển kinh tế tập thể, tư nhân.Đối với 3 vị trí thuộc Sở Nông nghiệp và Phát triển nông thôn, thu hút chuyên gia, nhà khoa học trong trong các lĩnh vực về công nghệ sinh học môi trường, thực phẩm và động vật (danh mục các vị trí thu hút và yêu cầu cụ thể tại: https://www.dost.hochiminhcity.gov.vn/).Chuyên gia, nhà khoa học nhận được nhiều hỗ trợ của TPHCM  Ảnh: InternetChuyên gia, nhà khoa học nhận được nhiều hỗ trợ của TPHCM  Ảnh: InternetChuyên gia, nhà khoa học nhận được nhiều hỗ trợ của TPHCM  Ảnh: InternetCác chuyên gia, nhà khoa học sẽ được hỗ trợ ban đầu 100 triệu đồng, hưởng phụ cấp khuyến khích 1% kinh phí mỗi công trình nghiên cứu, hỗ trợ về nhà ở, phương tiện đi lại,… theo quy định của UBND TPHCM.Hội đồng khoa học tư vấn sẽ tiếp nhận, thẩm định và đánh giá năng lực (thông qua tài liệu nộp và trao đổi trực tiếp, nghe báo cáo trình bày dự án, phương hướng thực hiện nhiệm vụ) của người tham dự.Ứng viên có thể gửi tài liệu chứng minh năng lực bằng bản giấy đến địa chỉ: Sở Khoa học và Công nghệ TPHCM, 244 đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, TPHCM hoặc nộp bản điện tử về địa chỉ email: thuhutchuyengiakhcn@tphcm.gov.vn. Thời gian tiếp nhận đăng ký thu hút đến hết ngày 13/5/2022.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Giải pháp quy hoạch và kiến trúc cho vùng ngập lụt ở TPHCM
+
+						
+                    06/04/2022 14:58
+                
+
+
+	
+    
+Nhà Bè và Cần Giờ là hai huyện của TPHCM đang chịu ảnh hưởng nặng nề bởi tình trạng nước biển dâng gây xâm nhập mặn, sạt lở đất, dẫn đến ngập lụt xảy ra thường xuyên. Làm thế nào để bảo vệ và phát triển bền vững các khu dân cư tại hai huyện này, là vấn đề quan trọng trong chương trình quản lý và phát triển đô thị của TPHCM, bởi đây là hai địa phương có tiềm năng to lớn về kinh tế.Trước thực tế đó, nhóm nghiên cứu Trường Đại học Tôn Đức Thắng đã thực hiện đề tài “Đánh giá tác động của ngập lụt do biến đổi khí hậu đến nhà ở tại khu vực Nhà Bè, Cần Giờ (TPHCM), đề xuất giải pháp quy hoạch và kiến trúc nhằm ứng phó”.Khu dân cư tại huyện Cần Giờ  Ảnh: NNCKhu dân cư tại huyện Cần Giờ  Ảnh: NNCKhu dân cư tại huyện Cần Giờ  Ảnh: NNCĐể giải quyết tình trạng ngập úng ở huyện Nhà Bè, nhóm nghiên cứu đề xuất áp dụng giải pháp sử dụng vỉa hè thẩm thấu nước kết hợp mảng xanh và hồ điều hòa tăng khả năng thoát nước cho khu dân cư, do khả năng thẩm thấu vào đất của nước mưa, lũ đối với đất đô thị chỉ bằng 1/5 so với đất cây xanh tự nhiên.Các công trình, khu đất nằm trong vùng có nguy cơ ngập lụt phải hạn chế phát triển và bắt buộc có những biện pháp phòng lụt khi cải tạo công trình. Gia tăng không gian cho mặt nước và cây xanh tự nhiên giúp giảm nguy cơ ngập lụt, tạo cảnh quan cho đô thị.Ngoài ra, cần tôn nền các cụm, tuyến dân cư, xây dựng bờ kè tại các khu vực ven sông bị ngập nặng. Trong đó, thiết kế, xây dựng bờ kè phải đáp ứng đỉnh triều 1,7m.Cấu tạo mương sinh học và tuyến thẩm thấu   Ảnh: NNCCấu tạo mương sinh học và tuyến thẩm thấu   Ảnh: NNCCấu tạo mương sinh học và tuyến thẩm thấu   Ảnh: NNCMột giải pháp khác được nhóm nghiên cứu đề xuất là tạo mương sinh học và tuyến thẩm thấu để hình thành hệ thống thu nước ngầm trong lòng đất, bên dưới những tuyến đường giao thông và không gian xanh tự nhiên. Khi bị ngập, nước tràn trên mặt đường sẽ được dẫn hướng chảy qua vỉa hè, đến một hệ thống lọc tự nhiên, hay còn gọi là mương sinh học. Mương sinh học có độ dốc nhỏ từ 1-5%, có thể bao phủ bởi các lớp cỏ cây, thảm thực vật, phân hữu cơ (xử lý chất thải gây ô nhiễm môi trường). Đáy của mỗi mương sinh học được thiết kế chứa nhiều đá và cát để tăng cường khả năng thấm hút. Khi có mưa, nước thấm qua lớp cát đá, rồi chảy xuống cống để thoát ra kênh rạch, giúp nước tiêu thoát nhanh.Đối với huyện Cần Giờ, theo TS Ngô Lê Minh, Chủ nhiệm đề tài, cần mở rộng dòng chảy của sông rạch, nạo vét tăng cường độ sâu để có thể chứa nhiều nước hơn. Các con sông, kênh rạch được mở rộng sẽ thuận theo địa hình và dòng chảy tự nhiên, giúp lượng nước lưu thông dễ dàng, thoát nước nhanh và phù hợp với cảnh quan tự nhiên chung của khu vực. Ngoài ra, một khối lượng lớn đất sau quá trình nạo vét, có thể được tận dụng để bồi đắp những khu vực đất trũng lên cao. Giải pháp này mang lại hiệu quả kép cho Cần Giờ trong việc tổ chức mô hình cư trú thích ứng nước biển dâng.Mô hình nhà sàn nổi cho cụm cư dân. Ảnh: NNCMô hình nhà sàn nổi cho cụm cư dân. Ảnh: NNCMô hình nhà sàn nổi cho cụm cư dân. Ảnh: NNCNhóm nghiên cứu cũng đề xuất mô hình phát triển quy hoạch kiến trúc nhà ở ngay bên trên mặt nước, tạo thành một mạng lưới cư trú nổi, nhường đất lại cho việc chứa nước. Mô hình bao gồm một dãy nhà kéo dài, nửa trên đất liền, nửa trên mặt nước, hoặc nằm tách bạch hoàn toàn trên mặt nước, liên kết với nhau và với đất liền thông qua hệ thống cầu phao nổi. Riêng những khu đất ở xa bờ sông, có thể xây nhà kiên cố với nền nhà được nâng cao so với mặt đường như nhà sàn, nhà chòi, nhà lõi…Đề tài nghiên cứu của nhóm tác giả đã được Sở KH&CN TPHCM nghiệm thu trong năm qua. Các giải pháp ngoài việc có thể ứng dụng và triển khai tại TPHCM, mà còn có thể áp dụng cho các tỉnh thành lân cận như Long An, Đồng Nai, Bà Rịa - Vũng Tàu,…
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                ĐH Bách Khoa TPHCM: 3 chương trình đào tạo cơ khí đạt kiểm định AQAS của Đức
+
+						
+                    04/04/2022 15:14
+                
+
+
+	
+    
+Đây là những chương trình đạt kiểm định AQAS đầu tiên ở Việt Nam, cụ thể gồm: Kỹ thuật Cơ khí (chương trình đào tạo đại trà và chất lượng cao); Kỹ thuật Cơ điện tử (chương trình đào tạo đại trà và chất lượng cao); Kỹ thuật Hệ thống Công nghiệp (chương trình đào tạo đại trà).Theo yêu cầu của tiêu chuẩn kiểm định, nội dung đào tạo phải gắn liền với thực tiễn, đáp ứng tốt các chuẩn đầu ra và yêu cầu của các bên liên quan, đặc biệt là nhà tuyển dụng và thị trường lao động. Ngoài ra, cơ sở hạ tầng giảng dạy như tài liệu học tập, trang thiết bị phòng thí nghiệm - thực hành, phương tiện dạy học, hệ thống mạng - máy tính, phương pháp giảng dạy, kiểm tra đánh giá phải được nhà trường đầu tư, nâng cấp, hiện đại hóa…Theo yêu cầu của tiêu chuẩn kiểm định, nội dung đào tạo phải gắn liền với thực tiễn, đáp ứng tốt các chuẩn đầu ra và yêu cầu của các bên liên quan, đặc biệt là nhà tuyển dụng và thị trường lao động. Ngoài ra, cơ sở hạ tầng giảng dạy như tài liệu học tập, trang thiết bị phòng thí nghiệm - thực hành, phương tiện dạy học, hệ thống mạng - máy tính, phương pháp giảng dạy, kiểm tra đánh giá phải được nhà trường đầu tư, nâng cấp, hiện đại hóa…Sinh viên học các chương trình được AQAS kiểm định, sẽ dễ dàng thực hiện trao đổi sinh viên hoặc chuyển đổi tín chỉ với các chương trình khác được AQAS kiểm định hoặc với trường đại học ở châu Âu. Đồng thời, sinh viên tốt nghiệp từ những chương trình này sẽ có nhiều thuận lợi trong việc tìm kiếm việc làm ở châu Âu và quốc tế.Sinh viên Khoa Cơ khí ĐH Bách khoa HCM   Ảnh: BKSinh viên Khoa Cơ khí ĐH Bách khoa HCM   Ảnh: BKSinh viên Khoa Cơ khí ĐH Bách khoa HCM   Ảnh: BKAQAS thực hiện kiểm định trực tuyến trường ĐH Bách khoa TPHCM từ cuối năm 2021, bằng nhiều phương pháp khách quan, đa chiều để lấy ý kiến của các đối tượng liên quan (cán bộ, giảng viên, sinh viên đang học, sinh viên đã tốt nghiệp, nhà tuyển dụng lao động...).Tính đến nay, Trường ĐH Bách Khoa TPHCM có tổng số 44 chương trình đào tạo kiểm đạt chuẩn kiểm định quốc tế, chiếm 31% tổng số chương trình đào tạo của trường. Riêng bậc đại học, có 40/64 chương trình đào tạo đã đạt chuẩn kiểm định quốc tế, chiếm tỷ lệ 62,5%.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TP Móng Cái sẵn sàng tiêm vắc-xin phòng Covid-19 cho trẻ em từ 5 đến dưới 12 tuổi
+
+						
+                    03/04/2022 17:43
+                
+
+
+	
+    
+Mới đây, Bộ Y tế đã có công văn triển khai việc tiêm vắc-xin phòng Covid-19 đồng thời tổ chức hội nghị tập huấn tiêm chủng cho trẻ từ 5 đến dưới 12 tuổi trên phạm vi toàn quốc. Theo đó, chiến dịch tiêm chủng sẽ được triển khai từ tháng 4/2022 tại trường học, các cơ sở tiêm chủng cố định, điểm lưu động, tiêm cho nhóm 11 tuổi trước, sau đó hạ thấp độ tuổi. Các địa phương triển khai cuốn chiếu theo số lượng vắc-xin được phân bổ.Tại TP Móng Cái, Ban chỉ đạo tiêm chủng vắc-xin phòng Covid-19 Thành phố đã ban hành gần 100 văn bản chỉ đạo triển khai tiêm chủng vắc-xin phòng chống dịch Covid-19 diện rộng trên địa bàn Thành phố theo sự chỉ đạo của Trung ương và Tỉnh. Đến nay, Thành phố đã hoàn thiện công tác rà soát, sàng lọc lập danh sách trẻ em từ 5 đến dưới 12 tuổi trên địa bàn tham gia tiêm chủng vắc-xin phòng Covid-19 với tổng 15.286 trẻ; trong đó nhóm trẻ ở độ tuổi mầm non là trên 2.300 trẻ, nhóm trẻ ở độ tuổi tiểu học trên 11.500 trẻ, nhóm trẻ ở độ tuổi đi học THCS dưới 12 tuổi là 1.410 trẻ. Đối tượng trẻ em từ 5 đến dưới 12 tuổi trên địa bàn thận trọng khi tham gia tiêm chủng vắc-xin phòng Covid-19 trên 3.700 trẻ. Việc rà soát, sàng lọc lập danh sách đối tượng trong độ tuổi đủ từ 5 tuổi đến dưới 12 tuổi được triển khai nhanh chóng, qua đó chuẩn bị cho công tác tiêm chủng vắc-xin phòng Covid-19 trên địa bàn Thành phố được đảm bảo.Các trường học tổ chức test nhanh cho học sinh (thời điểm tháng 11/2021)Các trường học tổ chức test nhanh cho học sinh (thời điểm tháng 11/2021)Hiện Thành phố đã chỉ đạo các xã phường phối hợp với ngành y tế, giáo dục rà soát chuẩn bị sẵn sàng đảm bảo điều kiện để triển khai tiêm chủng khi có chỉ đạo của cấp trên. Dự kiến Thành phố sẽ triển khai với trên 20 điểm tiêm được tổ chức đồng loạt, trưng dụng cơ sở sẵn có của các trường học và Bệnh viện số 1 thành phố; tiêm theo hình thức cuốn chiếu, tiêm đến đâu xong đến đó.Về nhân lực triển khai tiêm, ngành y tế Thành phố tiếp tục trưng dụng 32 đội tiêm chủng vắc-xin phòng Covid-19 gồm 128 người; thành lập 10 tổ cấp cứu của Trung tâm Y tế phục vụ tiêm chủng. Công tác tập huấn được chuẩn bị rất kỹ lưỡng, cụ thể từ khâu thăm khám sàng lọc, sơ cấp cứu, theo dõi sau tiêm, cũng như những hướng dẫn xử lý khi trẻ gặp tác dụng phụ sau tiêm...Công tác nhập số liệu tiêm chủng và điều tiết hướng dẫn đến các bàn tiêm, hướng dẫn khai báo y tế sẽ được triển khai bởi lực lượng tình nguyện viên hỗ trợ tại các điểm tiêm. Các phương án vật tư y tế, vật tư hư hao, trang thiết bị y tế, thuốc cấp cứu…phục vụ tiêm chủng được rà soát, bổ sung kịp thời. Việc bố trí địa điểm tại các trường học rất thuận lợi, đảm bảo cho công tác tiêm chủng.Bên cạnh đó, Thành phố cũng sẵn sàng các nội dung chuẩn bị trong triển khai chiến dịch tiêm chủng vắc-xin Covid-19 khi có chỉ đạo của Tỉnh, Trung ương gắn với đảm bảo công tác phòng, chống dịch Covid-19 trong tiêm chủng. Hiện nay các xã, phường tiếp tục rà soát thường xuyên, bổ sung danh sách đăng ký tiêm chủng gửi về Thành phố để bố trí tiêm đảm bảo tối đa 100% trẻ đủ điều kiện được tiêm. Mọi kế hoạch, phương án, nguồn lực và các điều kiện liên quan sẵn sàng được kích hoạt ngay sau khi có chỉ đạo của UBND tỉnh và Sở Y tế Quảng Ninh.Theo chuyên gia y tế, dù ở thời điểm hiện tại, chúng ta nhận thấy trẻ mắc Covid-19 thường diễn biến nhẹ, tuy nhiên không có nghĩa là giai đoạn sau trẻ sẽ an toàn vì phải đối mặt với rất nhiều nguy cơ khác. Do đó, trẻ nhỏ và nhất là lứa tuổi 5 đến 12 tuổi vẫn phải tiêm vắc-xin phòng Covid-19 để đảm bảo an toàn. Bên cạnh đó, việc tiêm chủng cho trẻ em còn phòng lây nhiễm cho cả gia đình, cộng đồng. Nhờ vậy tiếp tục nâng cao tỷ lệ miễn dịch cộng đồng là góp phần quan trọng vào công tác phòng, chống dịch Covid-19.Bà Hoàng Thị Xuyến, Trưởng phòng y tế Thành phố cho biết, hiện có 2 loại vắc-xin phòng Covid-19 đã được Bộ Y tế đồng ý đưa vào tiêm là vắc-xin Pfizer và vắc-xin Moderna tiêm theo liều lượng quy định; không sử dụng vắc-xin của người lớn để tiêm cho trẻ lứa tuổi này. Trong đó, đối tượng cần trì hoãn tiêm chủng là nhóm trẻ đang có bệnh cấp tính, mạn tính tiến triển như: Đang có sốt, đang có tình trạng nhiễm trùng; trong đợt điều trị của bệnh mạn tính như đang hóa trị ung thư…thì cần trì hoãn cho đến khi kết thúc; trường hợp đã mắc Covid-19 trong 3 tháng gần đây, xem xét từng cá thể, cân nhắc lợi ích, nguy cơ có thể tiêm sớm hơn ngay sau khi trẻ khỏi bệnh; trường hợp có hội chứng viêm đa cơ quan (MIS-C) thì phải hoãn đến khi trẻ hồi phục hoàn toàn, chuyển tiêm tại Bệnh viện số 1 nếu có tiêu chuẩn.Móng Cái tiêm vắc-xin cho trẻ từ đủ 12 đến dưới 18 tuổiMóng Cái tiêm vắc-xin cho trẻ từ đủ 12 đến dưới 18 tuổiThực tế vừa qua trước những “đợt sóng” lớn ảnh hưởng từ đại dịch Covid-19, tỉnh Quảng Ninh nói chung và TP Móng Cái nói riêng đã có nhiều kinh nghiệm triển khai tiêm chủng vắc-xin cho đối tượng trẻ em. Trong đó có tiêm chủng 12 loại vắc-xin cho trẻ dưới 1 tuổi trong chương trình tiêm chủng mở rộng. Mới đây, TP Móng Cái cũng đã triển khai nghiêm túc các kế hoạch tiêm chủng vắc-xin phòng Covid-19 đúng quy định cho nhóm trẻ em từ 12 đến dưới 18 tuổi, đạt khoảng 98%. Tính từ tháng 4/2021 đến nay, trên địa bàn Thành phố đã có tổng số 73.881 người từ 18 tuổi trở lên được tiêm đủ 3 mũi vắc-xin phòng Covid-19, đạt 95,53%.Từ tiền đề sẵn có, TP Móng Cái đã sẵn sàng mọi công tác chuẩn bị để tiếp tục thực hiện đợt tiêm vắc-xin phòng Covid-19 cho trẻ em từ 5 đến dưới 12 tuổi trên địa bàn. Khi được phân bổ vắc-xin, TP Móng Cái sẽ triển khai theo đúng kế hoạch. Đây được coi là “lá chắn” hữu hiệu bảo vệ trẻ em trước đại dịch, đảm bảo duy trì cho các em môi trường học tập an toàn, tích cực.Với mục tiêu để phụ huynh yên tâm công tác, thầy cô yên tâm dạy học, các con yên tâm học tập vui chơi, cơ quan quản lý nhà nước tập trung xây dựng, phát triển kinh tế xã hội, TP Móng Cái sẽ hoàn thiện công tác chuẩn bị chu đáo nhất để tổ chức triển khai đợt tiêm vắc-xin phòng Covid-19 cho trẻ đảm bảo an toàn, hiệu quả cao nhất./.
+    
+
+						Trung tâm TT&VH Móng Cái
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Hỗ trợ huấn luyện năng lực quản trị tài sản trí tuệ
+
+						
+                    31/03/2022 18:31
+                
+
+
+	
+    
+Chương trình được thực hiện nhằm thúc đẩy việc hình thành và phát triển nguồn nhân lực về quản trị tài sản trí tuệ tại các đơn vị cơ sở (doanh nghiệp, trường đại học, trung tâm nghiên cứu); đồng thời cập nhật, nâng cao kiến thức về quản trị tài sản trí tuệ.Đối tượng tham dự Chương trình gồm doanh nghiệp khởi nghiệp, doanh nghiệp vừa và nhỏ, trường đại học, viện/trung tâm nghiên cứu trên địa bàn TPHCM, các cơ quan quản lý nhà nước liên quan.Ở cấp độ chuyên viên tài sản trí tuệ, học viên tham dự chưa từng tham gia các khóa huấn luyện và nâng cao năng lực về quản trị tài sản trí tuệ do Sở KH&CN TPHCM tổ chức. Đối với cấp độ giám đốc tài sản trí tuệ, học viên tham dự đã hoàn thành cấp độ trưởng bộ phận tài sản trí tuệ thuộc Chương trình huấn luyện và nâng cao năng lực quản trị tài sản trí tuệ qua các năm.Thời lượng huấn luyện gồm 5 mô đun, mỗi mô đun gồm 10 buổi học, mỗi buổi học 180 phút. Số lượng học viên từ 30 – 50 người.Một lớp tập huấn về TSTT tại TPHCM   Ảnh: InternetMột lớp tập huấn về TSTT tại TPHCM   Ảnh: InternetMột lớp tập huấn về TSTT tại TPHCM   Ảnh: InternetĐơn vị tham gia đăng ký nhiệm vụ sẽ thực hiện tổ chức chiêu sinh phù hợp với các đối tượng tham dự; bố trí giảng viên, trợ giảng phù hợp với nội dung huấn luyện do Sở KH&CN yêu cầu; bố trí địa điểm huấn luyện tại các khu vực trung tâm của TPHCM và thời gian huấn luyện vào các buổi tối trong tuần (1 tuần từ 3-5 buổi). Đồng thời, kiểm tra, đôn đốc việc chuẩn bị tài liệu, bài giảng nhằm bảo đảm chất lượng và phù hợp với nội dung huấn luyện; tổ chức kiểm tra và đề xuất cấp giấy chứng nhận cho học viên.Để được chọn, đơn vị đăng ký thực hiện phải đáp ứng các điều kiện như có chức năng, kinh nghiệm đào tạo, huấn luyện nguồn nhân lực; có mối quan hệ chặt chẽ với mạng lưới các chuyên gia phù hợp với nội dung của Chương trình; có kinh nghiệm ít nhất 3 năm trong việc tổ chức đào tạo, huấn luyện nâng cao năng lực cho các trường đại học, viện nghiên cứu, doanh nghiệp.100% kinh phí thực hiện (cấp độ chuyên viên) và tối đa 70% kinh phí thực hiện (cấp độ giám đốc) sẽ được hỗ trợ từ ngân sách.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                ĐH Bách khoa TPHCM khởi động cuộc thi đổi mới sáng tạo lần V 
+
+						
+                    28/03/2022 14:15
+                
+
+
+	
+    
+Cuộc thi Bach khoa Innovation 2022 có chủ đề “Hội nhập – Sáng tạo – Khởi nghiệp”.Đối tượng tham gia có thể là sinh viên các trường đại học, cao đẳng tại TPHCM và các vùng lân cận; cựu sinh viên của ĐH Bách khoa TPHCM hoặc các trường thuộc khối ĐH Quốc gia TPHCM (tốt nghiệp từ 2 năm trở lại); học viên các chương trình sau đại học của ĐH Bách khoa TPHCM hoặc các trường thuộc khối ĐH Quốc gia TPHCM và các vùng lân cận. Ngoài ra, học sinh tại các trường ở TPHCM và các vùng lân cận cũng có thể tham dự. Đội dự thi phải có từ 3 - 5 thành viên, mỗi đội không được tham dự quá 2 đề tài.Cuộc thi Bach Khoa Innovation 2020  Ảnh: BKCuộc thi Bach Khoa Innovation 2020  Ảnh: BKCuộc thi Bach Khoa Innovation 2020  Ảnh: BKĐề tài, dự án đăng ký dự thi cần có tính mới, sáng tạo, tập trung giải quyết các vấn đề thiết yếu hiện tại, tương lai của xã hội hướng đến phát triển bền vững. Đề tài giải pháp kỹ thuật theo yêu cầu của doanh nghiệp. Cuộc thi khuyến khích các đề tài, dự án ứng dụng được các kiến thức, liên quan tới các chuyên ngành như khoa học và kỹ thuật máy tính, điện – điện tử, cơ khí – cơ điện tử, kỹ thuật hóa học, xây dựng, môi trường, giao thông, địa chất – dầu khí, quản lý công nghiệp, vật liệu, khoa học ứng dụng, bảo dưỡng công nghiệp…Giải thưởng gồm: 1 giải Nhất trị giá 30 triệu đồng, 2 giải Nhì trị giá 15 triệu đồng, 2 giải Ba trị giá 10 triệu đồng, và 10 giải Khuyến khích (3 triệu đồng/giải). Ngoài ra, các dự án tham gia dự thi có triển vọng còn có cơ hội thương mại hóa sản phẩm với kinh phí hỗ trợ tối đa 2 tỉ đồng/dự án.Chi tiết Cuộc thi tại https://oisp.hcmut.edu.vn/bk-innovation
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Ra mắt Cổng thông tin về chuyển đổi số
+
+						
+                    22/03/2022 17:56
+                
+
+
+	
+    
+Đó là cổng thông tin về chuyển đổi số tại địa chỉ https://chuyendoiso.hochiminhcity.gov.vn, cung cấp thông tin về các kế hoạch chuyển đổi số của Thành phố; cẩm nang chuyển đổi số; tin tức tổng hợp về chuyển đổi số của TPHCM, Việt Nam và thế giới. Đồng thời, cổng thông tin cũng cung cấp các hoạt động hợp tác, chuyển giao về chuyển đổi số; thư viện đa phương tiện liên quan về chuyển đổi số…Cổng cung cấp nhiều thông tin về chuyển đổi số của TPHCM  Ảnh: Chụp màn hìnhCổng cung cấp nhiều thông tin về chuyển đổi số của TPHCM  Ảnh: Chụp màn hìnhCổng cung cấp nhiều thông tin về chuyển đổi số của TPHCM  Ảnh: Chụp màn hìnhQua cổng thông tin chuyển đổi số, lãnh đạo Thành phố có thể nắm bắt, tiếp nhận những hiến kế của người dân, tổ chức, doanh nghiệp. Cán bộ công chức cũng sẽ kịp thời hệ thống hóa và nắm bắt các văn bản, chương trình, kế hoạch, đề án chuyển đổi số. Còn chuyên gia, người dân, tổ chức, doanh nghiệp có thể truy cập cổng thông tin để tìm kiếm các ứng dụng, các hệ thống dịch vụ công trên nền tảng số phục vụ cho công việc và cuộc sống.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Thêm giải pháp công nghệ để bảo vệ F0 
+
+						
+                    17/03/2022 14:38
+                
+
+
+	
+    
+Để hỗ trợ cho Trạm y tế trong việc tiếp nhận thông tin khai báo của F0 thuộc nhóm nguy cơ cao, Sở Y tế TPHCM đã bổ sung một tiện ích trong hoạt động chuyển đổi số quản lý F0 tại nhà, đó là gửi tin nhắn cảnh báo đến Trạm y tế ngay sau khi F0 thuộc nhóm nguy cơ cao (trên 65 tuổi không có bệnh nền, người có bệnh nền, phụ nữ mang thai,…) qua địa chỉ https://khaibaof0.tphcm.gov.vn.Cụ thể, khi F0 thuộc nhóm nguy cơ cao khai báo trực tuyến thì Trạm Y tế sẽ nhận được tin nhắn cảnh báo. Từ đó nhân viên y tế triển khai thăm khám từ xa, xem xét chỉ định thuốc Molnupiravir. Điều này giúp nhân viên y tế giảm thiểu sai sót, giúp theo dõi sát và không bỏ sót F0 thuộc nhóm nguy cơ cao cũng như kịp thời tư vấn và cung cấp thuốc điều trị hoặc chuyển viện ngay khi có chỉ định.Người dân có thể khai báo và nhận giấy hoàn thành cách ly F0 tại nhà  Ảnh: InternetNgười dân có thể khai báo và nhận giấy hoàn thành cách ly F0 tại nhà  Ảnh: InternetNgười dân có thể khai báo và nhận giấy hoàn thành cách ly F0 tại nhà  Ảnh: InternetNgoài ra, người dân khi có triệu chứng nghi mắc COVID-19, thực hiện xét nghiệm nhanh tại nhà, nếu có kết quả dương tính thì khai báo tại cùng địa chỉ https://khaibaof0.tphcm.gov.vn và được xác nhận là F0. Khi đủ thời gian cách ly, người F0 thực hiện xét nghiệm nhanh kháng nguyên tại nhà, nếu có kết quả âm tính thì gửi hình ảnh xét nghiệm vào địa chỉ trên để nhận giấy hoàn thành cách ly y tế tại nhà (gửi qua email đến người F0).Giải pháp này được chính thức triển khai từ ngày 14/3/2022, nhằm góp phần giải quyết tình hình quá tải công việc hành chính cho việc xác nhận F0 và cấp giấy hoàn thành thời gian cách ly tại nhà của địa phương.Gia đình người thuộc nhóm nguy cơ hoặc có F0 có dấu hiệu trở nặng còn có thể khai báo, nhận tư vấn qua điện thoại của y tế địa phương, tổng đài 1022 (phím 3). Bên cạnh đó, đường dây nóng của Trung tâm Kiểm soát dịch bệnh, Sở Y tế vẫn đang triển khai để nhận hỗ trợ các vấn đề về phòng chống dịch.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Trường Đại học Tài chính- Marketing hỗ trợ sinh viên 34 tỷ đồng 
+
+						
+                    11/03/2022 16:19
+                
+
+
+	
+    
+Bên cạnh đó, sinh viên còn được nhận các chế độ hỗ trợ, trợ cấp khác như: trợ cấp xã hội cho sinh viên là người dân tộc ít người; mồ côi cả cha lẫn mẹ, không nơi nương tựa, không có người đỡ đầu; sinh viên là người tàn tật, suy giảm khả năng lao động từ 41% trở lên.Sinh viên Trường Đại học Tài chính - Marketing Ảnh: InternetSinh viên Trường Đại học Tài chính - Marketing Ảnh: InternetSinh viên Trường Đại học Tài chính - Marketing Ảnh: InternetSinh viên đạt kết quả cao trong học tập và rèn luyện đều được cấp học bổng khuyến khích học tập theo mức: Khá bằng 100% học phí, giỏi bằng 110% học phí, xuất sắc bằng 120% học phí. Học bổng dành cho tân sinh viên đạt thành tích cao trong kỳ tuyển sinh vào trường trong kỳ tuyển sinh năm nay gồm 110 suất, tổng trị giá 1,5 tỉ đồng.Ngoài ra, sinh viên có hoàn cảnh khó khăn về kinh tế, vượt khó học tập sẽ được xét cấp học bổng tiếp sức đến trường tùy vào hoàn cảnh gia đình; học bổng thắp sáng ước mơ hoặc được xét hỗ trợ đến 40% - 50% học phí.Trường còn có các hỗ trợ khen thưởng đối với những sinh viên đạt thành tích xuất sắc trong nghiên cứu khoa học và trong phong trào văn hóa, văn nghệ, thể thao, tình nguyện…; khen thưởng danh hiệu sinh viên giỏi, xuất sắc toàn khóa và sinh viên đạt kết quả rèn luyện xuất sắc toàn khóa cho sinh viên tốt nghiệp đúng tiến độ hoặc vượt tiến độ; khen thưởng danh hiệu sinh viên xuất sắc nhất khoa và tuyên dương trong lễ khai giảng hằng năm.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM hỗ trợ đến 150 triệu đồng để tổ chức hội thảo khoa học
+
+						
+                    09/03/2022 18:47
+                
+
+
+	
+    
+Các đơn vị có thể tham gia chương trình này gồm: tổ chức nghiên cứu khoa học, tổ chức nghiên cứu khoa học và phát triển công nghệ; trường đại học, học viện, trường cao đẳng; tổ chức dịch vụ KH&CN; các hội khoa học kỹ thuật trên địa bàn TPHCM.Tổ chức đăng ký thực hiện sẽ nhận được kinh phí hỗ trợ từ ngân sách thành phố tối đa đến 30% tổng kinh phí thực hiện, nhưng không quá 150 triệu đồng.Một hội thảo về khởi nghiệp tại TPHCM. Ảnh: InternetMột hội thảo về khởi nghiệp tại TPHCM. Ảnh: InternetMột hội thảo về khởi nghiệp tại TPHCM. Ảnh: InternetCác hội thảo khoa học phải có nội dung phù hợp với lĩnh vực hoạt động của đơn vị tổ chức. Trong đó, ưu tiên các hội thảo có nội dung hướng đến các công nghệ và giải pháp phục vụ đô thị thông minh và chuyển đổi số; các công nghệ của cuộc cách mạng công nghiệp lần thứ tư phục vụ các ngành công nghiệp chủ lực của Thành phố; các kỹ thuật, giải pháp, quy trình KH&CN tiên tiến phục vụ bảo vệ và chăm sóc sức khỏe cộng đồng; các công nghệ phục vụ nông nghiệp; cơ chế, chính sách, mô hình phục vụ quản lý và phát triển đô thị bền vững; giải pháp phục hồi kinh tế hậu COVID-19, phòng chống COVID-19.Các tổ chức gửi hồ sơ trực tiếp tại Bộ phận tiếp nhận hồ sơ - Sở KH&CN (244 Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, TP HCM) hoặc qua đường bưu điện chậm nhất 2 tháng trước ngày khai mạc hội thảo khoa học.Đây là chương trình nhằm thúc đẩy hoạt động trao đổi học thuật, hợp tác nghiên cứu và thương mại hóa kết quả nghiên cứu khoa học và phát triển công nghệ.Đây là chương trình nhằm thúc đẩy hoạt động trao đổi học thuật, hợp tác nghiên cứu và thương mại hóa kết quả nghiên cứu khoa học và phát triển công nghệ.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nhân giống dược liệu bọ nẹt bằng phương pháp nuôi cấy mô
+
+						
+                    08/03/2022 16:10
+                
+
+
+	
+    
+Cây bọ nẹt hay còn được gọi là bọ nét, sóc dại, đom đóm thuộc họ Thầu dầu, có chứa các hợp chất thứ cấp chủ yếu như alkaloid, terpene, steroid, phenolic acid và saponin. Trong đó, các hợp chất alkaloid guanidine, alchomine, alchomindine có tính kháng khuẩn, chống viêm; còn hợp chất phenolic acid có tác dụng kháng nấm bệnh và côn trùng gây hại cho cây trồng. Do đó, cây được dùng để điều trị các bệnh như viêm khớp, kiết lị, rối loạn đường ruột, sốt rét, đau cơ, thấp khớp; hoặc trồng với mục đích xua đuổi côn trùng, thanh lọc không khí và khử mùi chuồng trại chăn nuôi.Cây bọ nẹt  Ảnh: NNCCây bọ nẹt  Ảnh: NNCCây bọ nẹt  Ảnh: NNCỞ Việt Nam, cây bọ nẹt chủ yếu mọc hoang dại ở miền Bắc và miền Trung. Hiện nay, cây bọ nẹt chủ yếu được nhân giống bằng phương pháp truyền thốnglà giâm cành ngoài tự nhiên. Cách làm này cho hệ số nhân giống thấp, tốn nhiều thời gian, cây giống không đồng đều, tỷ lệ cây giâm hom ra rễ thấp, không đáp ứng nhu cầu để phát triển vùng trồng.Để chủ động nguồn cung dược liệu bọ nẹt, Trung tâm Nghiên cứu và Phát triển Nông nghiệp Công nghệ cao TPHCM đã nghiên cứu và hoàn thiện quy trình nhân giống cây bọ nẹt invitro, cho phép sản xuất số lượng lớn cây giống có chất lượng ổn định.Cây invitro sau 2 tháng nuôi cấy trên môi trường tạo rễ  Ảnh: NNCCây invitro sau 2 tháng nuôi cấy trên môi trường tạo rễ  Ảnh: NNCCây invitro sau 2 tháng nuôi cấy trên môi trường tạo rễ  Ảnh: NNCCác vật liệu được sử dụng gồm cây bọ nẹt 1 năm tuổi, tủ cấy vô trùng, máy cất nước, nồi hấp vô trùng, máy đo pH, máy đo nhiệt độ, độ ẩm, máy đo cường độ ánh sáng,… Theo quy trình, từ cây bọ nẹt 1 năm tuổi khỏe mạnh, không bị sâu bệnh, chọn các đoạn thân bánh tẻ để cắt các đốt thân với chiều dài từ 1-1,5 cm. Sau khi làm sạch mẫu (các đốt thân), khử trùng, các đoạn thân sẽ được cấy vào môi trường khoáng WPM có bổ sung 0,2 mg/l BA, 30 g/l saccharose, 8g/l agar. Sau 20 ngày nuôi cấy, những mẫu sạch được dùng để tái sinh, tăng trưởng chồi. Khi chồi cao khoảng 1,5-2 cm sẽ tiếp tục nuôi cấy in vitro trong 60 ngày để có thể mang ra vườn ươm.Quy trình này đạt hệ số nhân 4,9 chồi/mẫu, tỷ lệ mẫu phát sinh chồi là 85%, tỷ lệ chồi tạo rễ 100%. Tỷ lệ sống của cây bọ nẹt in vitro ngoài vườn ươm đạt 100% sau 30 ngày trồng. Chi phí sản xuất 1 cây giống bọ nẹt in vitro khoảng hơn 3.000 đồng/cây, (hiện cây giâm cành theo phương pháp truyền thống có giá thị trường khoảng 7.000 đồng/cây).Trung tâm Nghiên cứu và Phát triển Nông nghiệp Công nghệ cao TPHCM có thể chuyển giao quy trình công nghệ nhân giống dược liệu bọ nẹt cho các đơn vị có nhu cầu.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Tài trợ các đến 50% kinh phí thực hiện cho các dự án hỗ trợ khởi nghiệp đổi mới sáng tạo
+
+						
+                    28/02/2022 13:16
+                
+
+
+	
+    
+Cụ thể, các dự án Hỗ trợ huấn luyện và Hỗ trợ tổ chức sự kiện kết nối đượchỗ trợ lên đến 50% kinh phí thực hiện, nhưng không vượt quá 200 triệu đồng.Nông nghiệp thông minh là một trong những lĩnh ưu tiên khi khởi nghiệp. Ảnh: InternetNông nghiệp thông minh là một trong những lĩnh ưu tiên khi khởi nghiệp. Ảnh: InternetNông nghiệp thông minh là một trong những lĩnh ưu tiên khi khởi nghiệp. Ảnh: InternetĐối với dự án Ươm tạo (hỗ trợ các cơ sở ươm tạo, trường, viện phát triển, ươm tạo các ý tưởng,… thông các hoạt động tìm kiếm, tuyển chọn, huấn luyện, hỗ trợ phát triển sản phẩm, xây dựng mô hình kinh doanh,…), đơn vị đăng ký thực hiện sẽ nhận được phần kinh phí từ nguồn ngân sách Thành phố, tối đa đến 50% tổng kinh phí thực hiện, nhưng không vượt quá 500 triệu đồng.Đối với dự án Ươm tạo, phát triển và tăng tốc cho các dự án khởi nghiệp đổi mới sáng tạo (Speedup), sẽ hỗ trợ ưu tiên các dự án KN ĐMST có những giải pháp sản phẩm, công nghệ giúp giải quyết các vấn đề của cộng đồng xã hội tại thành phố như thất nghiệp, ô nhiễm môi trường, ùn tắc giao thông, tai nạn giao thông, ngập nước, bảo vệ môi trường, giáo dục, y tế… Mỗi dự án KN ĐMST được hỗ trợ tối đa 2 tỷ đồng, thời gian hỗ trợ không quá 24 tháng và có thể xem xét hỗ trợ theo nhiều giai đoạn.Các trường, viện, cơ sở ươm tạo, hiệp hội, doanh nghiệp, tổ chức KH&CN, đơn vị sự nghiệp, tổ chức hỗ trợ KN ĐMST, cơ sở ươm tạo,… có chức năng, nhiệm vụ phù hợp và đủ năng lực để triển khai đều có thể đăng ký tham gia thực hiện các dự án.Thời gian tiếp nhận hồ sơ liên tục trong năm 2022 tại:Phòng Quản lý Công nghệ và Thị trường công nghệ - Sở KH&CN TPHCM Địa chỉ: số 244 đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3Điện thoại: 028.39320121
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Từ 21/2, Lạng Sơn từ chối thông quan với doanh nghiệp không khai báo qua nền tảng số
+
+						
+                    21/02/2022 09:39
+                
+
+
+	
+    
+Xử lý ngay các vấn đề phát sinh khi sử dụng nền tảng cửa khẩu sốNền tảng cửa khẩu số tỉnh Lạng Sơn đã được khởi động xây dựng từ tháng 7/2021 trên 2 nguyên tắc: Tuân thủ tuyệt đối các quy định nghiệp vụ của tất cả các ngành tham gia tác nghiệp tại cửa khẩu; Tối đa việc số hóa các quy trình nhằm đem lại giá trị lớn nhất cho doanh nghiệp và các cơ quan chức năng. Nền tảng cửa khẩu số đáp ứng được các yêu cầu phục vụ công tác quản lý, giảm bớt thời gian, công sức và khối lượng công việc của cơ quan Hải quan, Biên phòng và các lực lượng chức năng, doanh nghiệp xuất nhập khẩu, doanh nghiệp bến bãi, đại lý hải quan.UBND tỉnh Lạng Sơn đã đưa vào vận hành thí điểm nền tảng cửa khẩu số tại cửa khẩu quốc tế Hữu Nghị từ ngày 14/1/2022 và cửa khẩu Tân Thanh từ 10/2/2022. Tuy nhiên, theo Sở TT&TT tỉnh Lạng Sơn, thời gian qua, tình hình nhập thông tin trên nền tảng cửa khẩu còn rất thấp, nguyên nhân chính là do doanh nghiệp xuất nhập khẩu vẫn có thể sử dụng 1 trong 2 phương thức là khai báo thông tin trên nền tảng cửa khẩu số hoặc thực hiện kê khai theo quy trình cũ.Vì thế, tại cuộc họp về triển khai nền tảng cửa khẩu số vào ngày 18/2, Chủ tịch UBND tỉnh Lạng Sơn Hồ Tiến Thiệu đã chỉ đạo: Kể từ ngày 21/2, yêu cầu tất cả các cơ quan, đơn vị, lực lượng chức năng, đại lý hải quan, doanh nghiệp xuất nhập khẩu, doanh nghiệp bến bãi thống nhất sử dụng nền tảng cửa khẩu số để khai báo và xử lý thông tin trực tuyến khi thực hiện hoạt động xuất nhập khẩu qua cửa khẩu quốc tế Hữu Nghị và cửa khẩu Tân Thanh (bao gồm cả xe hàng đã vào bến bãi cửa khẩu). Các cơ quan, đơn vị, lực lượng chức năng tại cửa khẩu cần thực hiện nghiêm túc chủ trương này, không tiếp nhận xử lý đối với doanh nghiệp xuất khẩu không khai báo trực tuyến trên nền tảng cửa khẩu số.Cũng để phát huy tối đa hiệu quả nền tảng cửa khẩu số, Chủ tịch UBND tỉnh Lạng Sơn Hồ Tiến Thiệu đã giao nhiệm vụ và yêu cầu các cơ quan, đơn vị, lực lượng chức năng hoạt động tại khu vực cửa khẩu phải phối hợp chặt chẽ để xử lý kịp thời những vướng mắc phát sinh; đề xuất những giải pháp cần thiết để bảo đảm việc triển khai Nền tảng cửa khẩu số đạt hiệu quả cao.Trong đó, Sở TT&TT được giao chủ trì, phối hợp với Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn, Viễn thông Lạng Sơn bố trí đầy đủ lực lượng hỗ trợ, hướng dẫn các cơ quan, đơn vị, lực lượng chức năng, doanh nghiệp xuất nhập khẩu, đại lý hải quan tại khu vực cửa khẩu Hữu Nghị và Tân Thanh, sẵn sàng xử lý ngay những vấn đề phát sinh khi sử dụng nền tảng cửa khẩu số, đảm bảo không làm ảnh hưởng đến hoạt động xuất nhập khẩu.Chỉ đạo đẩy mạnh công tác tuyên truyền, hướng dẫn các cơ quan, doanh nghiệp, tổ chức, cá nhân liên quan đến hoạt động xuất nhập khẩu biết, sử dụng nền tảng cửa khẩu số bằng nhiều hình thức đa dạng, phong phú, phù hợp với từng đối tượng cụ thể.Đồng thời, chủ trì, phối hợp với Viễn thông Lạng Sơn, các cơ quan liên quan tiếp tục hoàn thiện các tính năng của nền tảng cửa khẩu số, bảo đảm tuân thủ đúng quy định của pháp luật, phù hợp với tình hình thực tế, tránh gây chồng chéo, phát sinh thêm thủ tục hành chính trong quản lý hàng hóa xuất nhập khẩu.Vướng mắc ở đâu xử lý ngay ở đó, không để ách tắc hoạt động xuất nhập khẩu.Sẽ lắp máy tính kết nối camera AI tại bãi trung chuyển, khu phi thuế quanBan quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn được giao làm đầu mối chủ trì, phối hợp giữa các lực lượng chức năng xử lý kịp thời các vướng mắc phát sinh trong quá trình triển khai thí điểm nền tảng cửa khẩu số.Ban quản lý cũng có trách nhiệm tham mưu, đề xuất đầu tư lắp đặt hệ thống barie tự động gắn với hệ thống camera nhận dạng xe và thùng container để đồng bộ khi lắp đặt hệ thống barier tự động tại cửa khẩu quốc tế Hữu Nghị và cửa khẩu Tân Thanh; rà soát quy hoạch, bố trí địa điểm để Tổng cục Hải quan lắp đặt cân điện tử, máy soi container và các thiết bị kỹ thuật khác phục vụ công tác quản lý hàng hóa xuất nhập khẩu.Bộ Chỉ huy Bộ đội Biên Phòng tỉnh Lạng Sơn chỉ đạo các đồn Biên phòng cửa khẩu Hữu Nghị, Tân Thanh bố trí tổ liên ngành tại các cổng B1, B2 ở 2 khu vực cửa khẩu để kiểm tra các xe không khai báo thông tin tại cửa khẩu; điều phối các phương tiện vào bãi tạm để doanh nghiệp xuất nhập khẩu khai báo trực tuyến trên nền tảng cửa khẩu số.Cùng với đó, kiểm tra, xác nhận xe ra khỏi khu phi thuế quan; yêu cầu tất cả doanh nghiệp xuất nhập khẩu khai báo thông tin trên nền tảng cửa khẩu số trước khi ra khỏi khu phi thuế quan, nếu không khai báo thông tin trên Nền tảng cửa khẩu số không cho xe ra khỏi khu phi thuế quan.Lãnh đạo UBND tỉnh Lạng Sơn cũng yêu cầu Viễn thông Lạng Sơn triển khai lắp đặt máy tính kết nối camera AI tại bãi trung chuyển cửa khẩu quốc tế Hữu Nghị và khu phi thuế quan tại cửa khẩu Tân Thanh, bàn giao hướng dẫn sử dụng nền tảng cửa khẩu số cho cán bộ tại bãi khu trung chuyển và khu phi thuế quan.
+    
+
+						Theo Ictnews
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nghiệm thu đề tài “Nghiên cứu, ứng dụng tiến bộ kỹ thuật, phục tráng và phát triển giống Mít bản địa tại huyện Hữu Lũng”
+
+						
+                    21/02/2022 09:36
+                
+
+
+	
+    
+Toàn cảnh hội nghịTrong thời gian từ tháng 11 năm 2018 đến tháng 10 năm 2021, đề tài đã tiến hành điều tra, đánh giá hiện trạng sản xuất mít tại huyện Hữu Lũng, tỉnh Lạng Sơn. Đề tài đã tiến hành việc tuyển chọn được 30 cây mít ưu tú và từ đó chọn ra 15 cây mít có năng suất cao, chất lượng tốt ít sâu bệnh, đã lập hồ sơ để trình Sở Nông nghiệp và Phát triển Nông thôn tỉnh Lạng Sơn thẩm định, công nhận cây đầu dòng.Đề tài đã nghiên cứu hoàn thiện được 2 quy trình sản xuất mít đặc sản bản địa bao gồm: quy trình nhân giống mít và quy trình thâm canh tổng hợp mít bản địa áp dụng cho huyện Hữu Lũng và các địa phương có điều kiện tương tự.Đề tài đã xây dựng thành công 4 mô hình bao gồm: Mô hình vườn giống gốc (quy mô 1ha); mô hình vườn nhân giống mít với quy mô 0,3 ha; mô hình trồng mới mít bản địa với quy mô 10ha; mô hình thâm canh mít theo hướng sản xuất hàng hóa trong thời kì kinh doanh với quy mô 5ha.Đề tài đã tổ chức tập huấn kĩ thuật nâng cao năng lực sản xuất mít cho 100 lượt người và tổ chức thành công 01 hội thảo khoa học về phát triển bền vững mít bản địa tại Hữu Lũng.Đề tài Nghiên cứu, ứng dụng tiến bộ kỹ thuật, phục tráng và phát triển giống Mít bản địa tại huyện Hữu Lũng là công trình có giá trị khoa học và thực tiễn cao, góp phần bảo tồn và phát triển bền vững vùng mít bản địa, đặc sản và nâng cao năng lực sản xuất mít hàng hóa cho người dân huyện Hữu Lũng tỉnh Lạng Sơn.Toàn cảnh hội nghịToàn cảnh hội nghịTrong thời gian từ tháng 11 năm 2018 đến tháng 10 năm 2021, đề tài đã tiến hành điều tra, đánh giá hiện trạng sản xuất mít tại huyện Hữu Lũng, tỉnh Lạng Sơn. Đề tài đã tiến hành việc tuyển chọn được 30 cây mít ưu tú và từ đó chọn ra 15 cây mít có năng suất cao, chất lượng tốt ít sâu bệnh, đã lập hồ sơ để trình Sở Nông nghiệp và Phát triển Nông thôn tỉnh Lạng Sơn thẩm định, công nhận cây đầu dòng.Đề tài đã nghiên cứu hoàn thiện được 2 quy trình sản xuất mít đặc sản bản địa bao gồm: quy trình nhân giống mít và quy trình thâm canh tổng hợp mít bản địa áp dụng cho huyện Hữu Lũng và các địa phương có điều kiện tương tự.Đề tài đã xây dựng thành công 4 mô hình bao gồm: Mô hình vườn giống gốc (quy mô 1ha); mô hình vườn nhân giống mít với quy mô 0,3 ha; mô hình trồng mới mít bản địa với quy mô 10ha; mô hình thâm canh mít theo hướng sản xuất hàng hóa trong thời kì kinh doanh với quy mô 5ha.Đề tài đã tổ chức tập huấn kĩ thuật nâng cao năng lực sản xuất mít cho 100 lượt người và tổ chức thành công 01 hội thảo khoa học về phát triển bền vững mít bản địa tại Hữu Lũng.Đề tài Nghiên cứu, ứng dụng tiến bộ kỹ thuật, phục tráng và phát triển giống Mít bản địa tại huyện Hữu Lũng là công trình có giá trị khoa học và thực tiễn cao, góp phần bảo tồn và phát triển bền vững vùng mít bản địa, đặc sản và nâng cao năng lực sản xuất mít hàng hóa cho người dân huyện Hữu Lũng tỉnh Lạng Sơn.
+    
+
+						Viện Nghiên cứu và Phát triển Vùng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Đánh giá tác động và xây dựng giải pháp thích ứng với biến đổi khí hậu 
+
+						
+                    18/02/2022 14:09
+                
+
+
+	
+    
+TPHCM là một trong 10 thành phố hàng đầu trên thế giới có thể bị ảnh hưởng nghiêm trọng nhất bởi BĐKH, xếp thứ 5 về số dân có thể bị ảnh hưởng của BĐKH vào năm 2070. Tính dễ bị tổn thương do BĐKH của TPHCM là mối lo ngại đặc biệt vì nó ảnh hưởng lớn đến sự phát triển của Việt Nam, khi thành phố này đóng góp tới 23% GDP và 20% tổng vốn đầu tư nước ngoài trực tiếp.Trong bối cảnh đó, nhóm tác giả Viện Nhiệt đới môi trường đã nghiên cứu tác động của biến đổi khí hậu tới phân bố dân cư, phát triển cơ sở hạ tầng cấp nước sạch, vệ sinh môi trường vì đây là 3 yếu tố quan hệ chặt chẽ với nhau và ảnh hưởng quyết định đến phát triển an sinh, kinh tế, xã hội. Nghiên cứu đã xây dựng các kịch bản phát đến năm 2030 và 2050.Dân số tăng cao gây áp lực đối với sự phát triển KT - XH của TPHCM  Ảnh: InternetDân số tăng cao gây áp lực đối với sự phát triển KT - XH của TPHCM  Ảnh: InternetDân số tăng cao gây áp lực đối với sự phát triển KT - XH của TPHCM  Ảnh: InternetTheo đó, dự báo dân số ở các quận nội thành mới (2, 7, 9, 12, Bình Tân, Thủ Đức) và các huyện ngoại thành (Bình Chánh, Củ Chi, Hóc Môn, Nhà Bè) tiếp tục tăng. Đến năm 2030 sẽ chiếm khoảng 62,60% (gần 7 triệu người) và đến năm 2050 sẽ chiếm khoảng 72,92% (gần 10 triệu người). Trong khi đó, dân số ở các quận nội thành có xu hướng tăng rất chậm hoặc giảm. Đến năm 2050, dân số các quận nội thành cũ chỉ chiếm khoảng 27,08% dân số thành phố. Tổng dân số TPHCM (trừ huyện Cần Giờ) đến năm 2030 vào khoảng 11 triệu người và đến năm 2050 vào khoảng 13 triệu người, chỉ tăng 19,3% so với năm 2030. Sự tăng dân số sẽ gây áp lực đối với hạ tầng cấp nước sạch và vệ sinh môi trường ngày càng tăng, nhất là trong điều kiện chịu tác động do BĐKH.Nghiên cứu còn cho thấy, đến năm 2030, tổng nhu cầu sử dụng nước của TPHCM khoảng 3 triệu m3/ngày (tăng 46,4% so với hiện nay), đến năm 2050 nhu cầu sử dụng nước khoảng hơn 4 triệu m3/ngày (tăng 28,6% so với năm 2030). Tỷ lệ tăng nhu cầu sử dụng nước trong giai đoạn 2030-2050 giảm so với giai đoạn 2020-2030 là do mức độ tăng dân số trong giai đoạn này thấp và đã thực hiện các giải pháp hạ tỷ lệ thất thoát nước. Áp lực về vệ sinh môi trường cũng có xu hướng chuyển dịch về các quận nội thành mới và các huyện ngoại thành do sự gia tăng dân số và sự quy hoạch, phát triển cơ sở hạ tầng về vệ sinh môi trường là chưa theo kịp tốc độ gia tăng dân số và tốc độ đô thị hóa.Xây dựng bản đồ tổn thương khí hậu năm 2030  Ảnh: NNCXây dựng bản đồ tổn thương khí hậu năm 2030  Ảnh: NNCXây dựng bản đồ tổn thương khí hậu năm 2030  Ảnh: NNCNhóm đề xuất, Thành phố cần lồng ghép các yếu tố BĐKH vào các quy hoạch (phát triển kinh tế - xã hội, chung, ngành..), đặc biệt chú trọng vấn đề tăng diện tích mặt nước và mảng xanh đô thị; phòng chống và giảm thiệt hại của ngập lụt. Đồng thời, nâng cao hiệu quả sử dụng năng lượng trong quá trình xử lý và phân phối nước; tăng cường khả năng chống chịu của mạng lưới cấp nước trước các điều kiện thời tiết khắc nghiệt….Đối với lĩnh vực vệ sinh môi trường, cần giảm áp lực chất thải cho mỗi địa phương bằng giải pháp tăng năng lực thu gom và xử lý chất thải. Ngoài ra, cần tiếp tục hoàn thiện cơ chế, chính sách, tạo khung pháp lý để khuyến khích và tạo điều kiện pháp lý thuận lợi cho các dự án liên quan đến quy hoạch đô thị, dự án giảm phát thải khí nhà kính, thu hồi khí thải và các dự án hỗ trợ tăng cường năng lực thích nghi với BĐKH cho các khu vực dễ bị tổn thương.Theo nhóm tác giả, các giải pháp cần được thực hiện trong tương lai gần (khoảng năm 2030-2035) vì nếu chậm, sẽ không đáp ứng được thực tiễn BĐKH.Đề tài nghiên cứu của nhóm tác giả đã được Sở KH&CN TPHCM nghiệm thu.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                TPHCM: Nghiên cứu hạn chế rủi ro cho tài xế xe công nghệ
+
+						
+                    11/02/2022 17:38
+                
+
+
+	
+    
+Hiện nay, TPHCM có khoảng 200 ngàn người lao động tham gia thị trường xe công nghệ - một lĩnh vực làm tăng tính cạnh tranh giữa các doanh nghiệp cung cấp dịch vụ vận chuyển trên nền tảng công nghệ, đồng thời thúc đẩy cạnh tranh với mô hình kinh doanh vận tải truyền thống.Tuy nhiên, loại hình này cũng mang lại nhiều thách thức cho các cơ quan quản lý. Việc không giới hạn số lượng tài xế tham gia sử dụng ứng dụng công nghệ cung cấp dịch vụ vận tải dẫn đến tình trạng gia tăng sử dụng phương tiện cá nhân, gây tắc nghẽn giao thông, ô nhiễm không khí, ảnh hưởng đến hạ tầng cơ sở giao thông. Bên cạnh đó, loại hình lao động này gây sức ép lên hệ thống pháp luật nước ta, bởi vì các khuôn khổ pháp lý hiện nay gần như không có thay đổi linh hoạt để quản lý những thách thức nảy sinh.Dịch vụ xe công nghệ ngày càng phát triển. Ảnh: InternetDịch vụ xe công nghệ ngày càng phát triển. Ảnh: InternetDịch vụ xe công nghệ ngày càng phát triển. Ảnh: InternetTrước thực tế đó, Ban Dân vận Thành ủy TPHCM đã chủ trì triển khai đề tài “Đánh giá thực trạng công tác quản lý và các phương thức tập hợp người lao động tham gia cung ứng dịch vụ xe sử dụng nền tảng ứng dụng công nghệ trên địa bàn TPHCM”.ThS. Trương Quốc Lâm, Chủ nhiệm đề tài, cho biết, kết quả khảo sát nhóm người lao động (400 người) tham gia dịch vụ xe công nghệ (bốn và hai bánh) cho thấy, thành phần tham gia vào hoạt động dịch vụ chạy xe công nghệ khá đa dạng và đang có chiều hướng biến thành một nghề chính thức với mong muốn gắn bó lâu dài. Người lao động có thể tự do lựa chọn thời gian làm việc mà không chịu sự quản lý hoặc kiểm soát của doanh nghiệp. Chỉ có10% tài xế xem đây là một “công việc tạm thời trước khi tìm việc mới”.Tuy nhiên, việc định danh mối quan hệ giữa người lao động và doanh nghiệp chưa rõ ràng. Trên danh nghĩa, đó là mối quan hệ “đối tác” nhưng quyền lợi và trách nhiệm không cân bằng, dẫn đến nhiều thiệt thòi cho người lao động. Người lao động luôn ở thế yếu, phải chịu sự quản lý một chiều từ phía đơn vị vận hành ứng dụng công nghệ như những người lệ thuộc. Bên cạnh đó, mưu sinh bằng nghề lái xe công nghệ nảy sinh các hệ luỵ đối với người lao động như thời gian làm việc quá mức, không có chế độ an sinh xã hội (bảo hiểm xã hội, bảo hiểm thất nghiệp, …), không có các khoản trợ cấp, phụ cấp cần thiết; và tình trạng nợ tài chính cá nhân tăng cao. Trong khi tài xế công nghệ gặp nhiều rủi ro về sức khỏe, thân thể và tính mạng.Khảo sát khó khăn của lao động chạy xe công nghệ  Ảnh: NNCKhảo sát khó khăn của lao động chạy xe công nghệ  Ảnh: NNCKhảo sát khó khăn của lao động chạy xe công nghệ  Ảnh: NNCNhóm tác giả đề xuất, kiến nghị Chính phủ sớm giám sát để việc các doanh nghiệp thu phí, cước phải dựa vào mức sống cơ bản của người lao động. Tránh để tình trạng để doanh nghiệp độc quyền ban hành giá cước có lợi cho doanh nghiệp. Đồng thời, quản lý, giám sát việc thực hiện trách nhiệm xã hội của doanh nghiệp đối với người lao động.Đề tài đã được Sỏ KH&CN TPHCM nghiệm thu, cung cấp những số liệu cụ thể, đề xuất giải pháp khả thi cho các cơ quan chức năng để quản lý hoạt động dịch vụ xe công nghệ và các phương thức tập hợp người lao động vào các tổ chức xã hội, nhằm đảm bảo an ninh trật tự xã hội.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                COVID-19: Tỉnh Lào Cai ứng dụng công nghệ số chăm sóc F0 tại nhà
+
+						
+                    09/02/2022 19:21
+                
+
+
+	
+    
+Giao diện Hệ thống kết nối thông tin chăm sóc sức khỏe F0 tại nhà tỉnh Lào Cai. (Ảnh chụp màn hình)Giao diện Hệ thống kết nối thông tin chăm sóc sức khỏe F0 tại nhà tỉnh Lào Cai. (Ảnh chụp màn hình)Trung tâm Chỉ huy phòng, chống COVID-19 tỉnh Lào Cai cho biết, với mục tiêu giúp các cấp chính quyền có thêm giải pháp công nghệ số để phục vụ quản lý, điều hành trong phòng, chống dịch COVID-19, đơn vị đang triển khai thí điểm ứng dụng Hệ thống kết nối thông tin chăm sóc sức khỏe F0 tại nhà tỉnh Lào Cai tại địa chỉ truy cập https://chamsocsuckhoe.laocai.gov.vn/.Đối tượng áp dụng là các F0 tại các cơ sở thu dung, Trạm Y tế lưu động và điều trị tại nhà; cán bộ quản lý, các y tá, bác sỹ đang theo dõi, điều trị các bệnh nhân COVID-19 tại nhà thông qua hệ thống.Hệ thống kết nối thông tin chăm sóc sức khỏe F0 tại nhà được triển khai từ ngày 29/1, nhằm xây dựng bảng kiểm tra sức khỏe của F0 hàng ngày; cập nhật, nhập liệu tự động để cán bộ y tế nắm được số lượng, tình trạng của F0 tại địa bàn và phân tầng điều trị; giúp cán bộ y tế và người bệnh tiết kiệm thời gian, đảm bảo hiệu quả điều trị.Theo Trung tâm Chỉ huy phòng, chống COVID-19 tỉnh Lào Cai, ngày 9/2, tỉnh ghi nhận thêm 409 ca mắc mới. Đây là số ca F0 cao nhất từ trước đến nay được ghi nhận trong ngày tại địa phương này. Trong đó, thành phố Lào Cai có số ca mắc nhiều nhất với 124 trường hợp.Như vậy, tính đến ngày 9/2, Lào Cai đã có tổng cộng 4.730 người mắc COVID-19; trong đó, 3.235 bệnh nhân đã điều trị khỏi và ra viện, 9 người tử vong, 1.496 người đang được cách ly, điều trị.Hầu hết các trường hợp đang mắc COVID-19 tại Lào Cai không có triệu chứng hoặc có triệu chứng nhẹ và vừa; chỉ có 6 trường hợp có triệu chứng nặng.Theo đánh giá phân loại cấp độ dịch, tỉnh Lào Cai, 9/9 huyện/thị xã/thành phố và 145/152 xã/phường/thị trấn ở cấp độ 1.Bảy xã/phường/thị trấn cấp độ 2, gồm: xã Nậm Pung (huyện Bát Xát), xã Dìn Chin (huyện Mường Khương); xã Sán Chải, thị trấn Si Ma Cai, xã Nàn Sín (huyện Si Ma Cai); xã Hợp Thành (thành phố Lào Cai); xã Khánh Yên Thượng (huyện Văn Bàn)./.
+    
+
+						Theo Vietnamplus
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nghiên cứu công nghệ chế biến quặng đa kim Antimon - Vàng vùng Hà Giang - Tuyên Quang
+
+						
+                    22/01/2022 13:52
+                
+
+
+	
+    
+Sản phẩm quặng tinh sau khi vê viênSản phẩm quặng tinh sau khi vê viênTrong thiên nhiên, antimon được tìm thấy trong hơn 120 loại khoáng vật. Đôi khi cũng tìm thấy antimon kim loại ở dạng tự nhiên, nhưng nói chung hay tìm thấy dưới dạng hợp chất với lưu huỳnh có tên gọi sulfua stibnit - Sb2S3 cũng là quặng chính có chứa antimon. Ở nước ta quặng antimonit đã được phát hiện tại nhiều địa phương như: Thanh Hóa, Tuyên Quang, Hà Giang, Hòa Bình, Lâm Đồng và Đắc Lắc.Khai thác và chế biến antimon đã được thực hiện tại Việt Nam từ những năm 70 của thế kỷ trước. Tùy thuộc vào đặc điểm quặng, có thể sử dụng công nghệ tuyển và chế biến sâu khác nhau. Quặng antimon vùng Hà Giang - Tuyên Quang là quặng nghèo có chứa vàng và một số kim loại quý, để thu hồi được số kim loại quý này cần có công nghệ xử lý quặng phù hợp.Cũng giống như một số loại quặng sulfua của kim loại màu nói chung, quặng sulfua của antimon có thể được xử lý bằng cả hai phương pháp hỏa luyện và thủy luyện. Cả hai phương pháp đều có thể sản xuất antimon kim loại, song hỏa luyện được coi là phương pháp luyện kim truyền thống hiện đang được áp dụng phổ biến hơn. Tùy thuộc vào tính chất, thành phần quặng khác nhau mà có các phương pháp hỏa luyện khác nhau. Đối với tinh quặng antimon giàu chứa hàm lượng Sb >40% thường được luyện trực tiếp bằng phương pháp luyện lắng để thu antimon thô. Đối với quặng antimon trung bình có hàm lượng 25-40% Sb thì sử dụng phương pháp luyện antimon trong lò đứng để sản xuất antimon thô. Đối với tinh quặng nghèo hàm lượng Sb từ 5-25% thường được đem đi thiêu sau đó thu hồi antimon trioxit và tiến hành luyện ra antimon thô.Đề tài “Nghiên cứu công nghệ chế biến quặng đa kim antimkon-vàng vùng Hà Giang-Tuyên Quang” do PGS. TS. Trần Đức Quý đến từ trường Đại học Công nghiệp làm chủ nhiệm, được thực hiện thuộc Đề án Đổi mới và hiện đại hóa công nghệ trong ngành công nghiệp khai khoáng đến năm 2015, tầm nhìn đến năm 2015. Bên cạnh việc xây dựng quy trình công nghệ chế biến sâu tinh luyện antimon vùng Hà Giang-Tuyên Quang, đề tài nghiên cứu định hướng thu hồi các kim loại quý đi kèm trong quặng (vàng) nhằm tận thu tài nguyên.Sau một thời gian thực hiện, đề tài nghiên cứu công nghệ tuyển và chế biến quặng antimony vùng Hà Giang, Tuyên Quang đã thành công với việc hoàn thành và đạt các chỉ tiêu đã đề ra. Trên cơ sở các kết quả đạt được trong quá trình nghiên cứu, có thể đưa ra các kết luận cho việc thực hiện đề tài như sau:1. Kết quả nghiên cứu đặc điểm khoáng vật của mẫu quặng antimon thông qua các phân tích khoáng tướng và thạch học cho thấy: Khoáng vật quặng chứa antimon của mỏ Cốc Táy, Chiêm Hóa, Tuyên Quang là khoáng sulfua antimonit (Sb2S3). Tập hợp khoáng vật quặng trong các mẫu nghiên cứu bao gồm: Antimonit, Arsenopyrit, Pyrit, Sphalerit và các phi quặng như: Thạch anh, cacbonat (canxit), sericit. Hàm lượng Sb trung bình trong quặng antimon vàng vùng Hà Giang, Tuyên Quang khoảng 5,28 - 5,35%.2. Nghiên cứu đã xác lập và đề xuất sơ đồ công nghệ tuyển hợp lý cho mẫu quặng antimon vàng vùng Hà Giang, Tuyên Quang bao gồm các khâu: 1 khâu tuyển chính, 1 khâu tuyển tinh, 5 khâu tuyển tách asen và 2 khâu tuyển vét. Các điều kiện và chế độ tuyển tối ưu cho khâu tuyển chính là:- Độ mịn nghiền: 87% cấp -0,074 mm;- Độ pH môi trường bùn quặng = 8, điều chỉnh bằng vôi;- Mức chi phí thuốc tuyển gồm: Pb(NO3)2800g/t để kích động khoáng antimon, thuốc tập hợp butylxantat: 250 g/t; thuốc tạo bọt 90 g/t- Trong các khâu tuyển tách asen cần bổ sung thêm CaO để đảm bảo pH, giúp quặng tinh có được chất lượng tốt hơn.Bằng sơ đồ công nghệ tuyển và các điều kiện, chế độ thuốc tuyển tối ưu nói trên có thể thu được 2 sản phẩm:+ Sản phẩm giàu asen có hàm lượng Sb 17,03%; As 12,64%; Au 8,1 g/t tương ứng với thực thu Sb 28,58%; Au 62,61%.+ Sản phẩm quặng tinh antimon có hàm lượng Sb 40,68%; As 0,75%; Au 1,75 g/t ứng với thực thu Sb 63,26%; Au 12,54%.Với sơ đồ thí nghiệm Hình 6.1 đã nhận được quặng tinh vàng có hàm lượng 1,75 g/t thực thu toàn bộ vàng 14,67% góp phần tận thu tài nguyên vàng.3. Nghiên cứu công nghệ chế biến sâu đã xác lập và đề xuất sơ đồ công nghệ luyện hợp lý cho mẫu quặng tinh antimon vàng vùng Hà Giang, Tuyên Quang bao gồm các khâu: vê viên quặng tinh antimon, thiêu bay hơi, hoàn nguyên, hỏa tinh luyện và điện phân tinh luyện. Chế độ công nghệ cụ thể như sau:- Vê viên: chất kết dính vôi 2%, bentonit 2% (so với quặng tinh); nước 120 ml/kg quặng tinh.- Thiêu bay hơi: Nhiệt độ 1100 độ C; chiều cao cột liệu 700 mm; hiệu suất thu hồi Sb 92,07%.- Hoàn nguyên: Than cốc 12%; nhiệt độ 950 độ C, thời gian 90 phút, phụ gia Na2CO3 12%; hiệu suất thu hồi đạt 89,75%.- Hỏa tinh luyện: nhiệt độ 900 độ C, chu kỳ vớt xỉ 15 phút/lần, hỗn hợp phụ gia Na2CO3 và Na2SO4 tỷ lệ 1:1, tiêu hao phụ gia 10%; hiệu suất thu hồi đạt ~ 85%.- Điện phân tinh luyện: Nhiệt độ 80±2 độ C, khoảng cách giữa 2 điện cực trái dấu 5 cm, chu kỳ đảo chiều 20s/1s, mật độ dòng catot 1,6 A/dm2, mật độ dòng anot 2 A/dm2; hiệu suất thu hồi kim loại đạt 94,6%.Với chế độ công nghệ nêu trên, Sb kim loại thu được đạt 99,65%.4. Đã nghiên cứu định hướng khả năng thu hồi vàng trong quặng tinh asen chứa vàng và bùn dương cực của quá trình điện phân tinh luyện. Tiến hành nấu luyện mẻ lớn 410 kg hỗn hợp bùn dương cực (số lượng ít, khoảng 36 kg) và khoáng vật sau tuyển thiêu với hàm lượng vàng trung bình là 21 g/t theo sơ đồ định hướng xử lý bùn dương cực đã đề xuất thu được hỗn hợp chì (khoảng 39 kg). Hòa tách lượng chì này trong axit nitric và nấu luyện cặn hòa tách thành vàng có khối lượng khoảng 7,5 g; hàm lượng đạt 99,9% Au.*Có thể tìm đọc toàn văn báo cáo kết quả nghiên cứu (Mã số 14295/2017) tại Cục Thông tin khoa học và công nghệ quốc gia.
+    
+
+						Cục Thông tin KH&CN quốc gia
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Sản xuất thử nghiệm 2 giống mía mới K88-92 và K88-200 tại một số tỉnh vùng Đồng bằng sông Cửu Long
+
+						
+                    22/01/2022 13:48
+                
+
+
+	
+    
+Ngoài những yếu tố khách quan và chủ quan thì hiện nay sản xuất mía đường tại Đồng bằng sông Cửu Long cũng như một số vùng trong cả nước vẫn còn tồn tại nhiều bất cập, việc tiếp cận giống mía mới và tiếp thu các tiến bộ kỹ thuật, các yếu tố mới trong quy trình canh tác mía còn rất yếu, triển khai còn chậm và không chịu đầu tư. Để kéo dài thời gian khai thác của một giống trong sản xuất thì việc tổ chức sản xuất và nhân giống luôn giữ một vai trò đặc biệt quan trọng, khi trồng hom giống khỏe, đạt tiêu chuẩn chất lượng hom giống tốt, không bị sâu bệnh hại, sức sống mạnh hơn, đặc biệt thời gian mọc mầm sẽ nhanh hơn khi chúng ta sử dụng hom giống từ mía nguyên liệu (vì phải trải qua những giai đoạn chuyển hóa) mía mới mọc mầm trong thời gian này rủi ro xảy ra rất lớn (từ các yếu tố dưới mặt đất và hạn hán,…) và đây cũng là một trong những nguyên nhân làm mùa vụ trồng mía ngày càng muộn. Mặt khác, đất trồng mía trong vùng gần như là đất chua (độ pH thấp, đa số dưới 4,5), làm ảnh hưởng rất lớn đến việc hấp thu phân bón của bộ rễ, dẫn đến hiệu quả sử dụng phân bón không cao, mức chi phí đầu vào lớn, dẫn đến hiệu quả của sản xuất thấp, làm ảnh hưởng đến sức cạnh tranh của cây mía với các loại cây trồng có giá trị kinh tế khác.Ngoài ra, cũng như các loại cây trồng khác, việc cung cấp dinh dưỡng từ trước tới nay ở các vùng miền nói chung chủ yếu là yếu tố đa lượng, yếu tố trung và vi lượng gần như chưa được quan tâm lưu ý tới, do vậy làm ảnh hưởng lớn đến khả năng sinh trưởng, phát triển và khả năng chống chịu của cây, không phát huy hết được tiềm năng vốn có của vùng cũng như của các giống trong sản xuất. Tuy nhiên, để giúp người trồng mía nâng cao được hiệu quả sản xuất, tăng cường sức cạnh tranh của cây mía với các loại cây trồng khác, cũng như đối mặt với các yếu tố về biến đổi khí hậu thì quy trình canh tác mía phải không ngừng được cải thiện sao cho phù hợp với yêu cầu của thực tiễn và phù hợp với đặc điểm của các giống trong sản xuất để phát huy ưu điểm và hạn chế nhược điểm của giống, tăng cường khả năng sử dụng phân bón, nâng cao hiệu quả sản xuất.Xuất phát từ những khó khăn trên và trước yêu cầu cấp thiết của sản xuất, để góp phần bổ sung giống mía mới vào sản xuất, nâng cao hiệu quả và năng lực cạnh tranh của cây mía, ThS. Lê Thị Thường đến từ Viện Nghiên cứu Mía Đường cùng các đồng nghiệp thực hiện dự án “Sản xuất thử nghiệm 2 giống mía mới K88-92 và K88-200 tại một số tỉnh vùng Đồng bằng sông Cửu Long”.Sau một thời gian tiến hành nghiên cứu nghiêm túc và khoa học, đề tài đã thu được một số kết quả như sau:- Kết quả đánh giá từ các thử nghiệm về hoàn thiện quy trình nhân giống và quy trình thâm canh mía nguyên liệu trên giống K88-92 và K88-200 cho thấy các yếu tố cần hoàn thiện đều thể hiện được các ưu điểm vượt trội so với công thức đối chứng.- Mô hình sản xuất thử nhân giống có năng suất, từ 94 đến 110 tấn/ha/vụ, lãi thuần thu được trên 50 triệu đồng/ha và vượt mô hình đối chứng trên 20 triệu đồng/ha, giá thành giảm từ 43 đến 128 ngàn đồng/tấn mía giống.- Mô hình sản xuất thử thâm canh có năng suất trên 125 tấn/ha/vụ, vượt đối chứng 11 đến 23%, năng suất quy 10 CCS đạt trên 146 tấn/ha/vụ vượt mô hình đối chứng 15 đến 24%, lãi thuần vượt từ 14 đến 30 triệu đồng/ha, giá thành giảm từ 47 đến 140 ngàn đồng/tấn mía 10 CCS.- Các tiến bộ kỹ thuật được hoàn thiện dễ áp dụng trên diện rộng, mang lại hiệu quả kinh tế cao, tiết kiệm chi phí sản xuất, không bị lãng phí, cải tạo đất và sản xuất theo hướng bền vững.Có thể tìm đọc toàn văn báo cáo kết quả nghiên cứu (Mã số 14303) tại Cục Thông tin khoa học và công nghệ quốc gia.Ngoài những yếu tố khách quan và chủ quan thì hiện nay sản xuất mía đường tại Đồng bằng sông Cửu Long cũng như một số vùng trong cả nước vẫn còn tồn tại nhiều bất cập, việc tiếp cận giống mía mới và tiếp thu các tiến bộ kỹ thuật, các yếu tố mới trong quy trình canh tác mía còn rất yếu, triển khai còn chậm và không chịu đầu tư. Để kéo dài thời gian khai thác của một giống trong sản xuất thì việc tổ chức sản xuất và nhân giống luôn giữ một vai trò đặc biệt quan trọng, khi trồng hom giống khỏe, đạt tiêu chuẩn chất lượng hom giống tốt, không bị sâu bệnh hại, sức sống mạnh hơn, đặc biệt thời gian mọc mầm sẽ nhanh hơn khi chúng ta sử dụng hom giống từ mía nguyên liệu (vì phải trải qua những giai đoạn chuyển hóa) mía mới mọc mầm trong thời gian này rủi ro xảy ra rất lớn (từ các yếu tố dưới mặt đất và hạn hán,…) và đây cũng là một trong những nguyên nhân làm mùa vụ trồng mía ngày càng muộn. Mặt khác, đất trồng mía trong vùng gần như là đất chua (độ pH thấp, đa số dưới 4,5), làm ảnh hưởng rất lớn đến việc hấp thu phân bón của bộ rễ, dẫn đến hiệu quả sử dụng phân bón không cao, mức chi phí đầu vào lớn, dẫn đến hiệu quả của sản xuất thấp, làm ảnh hưởng đến sức cạnh tranh của cây mía với các loại cây trồng có giá trị kinh tế khác.Ngoài ra, cũng như các loại cây trồng khác, việc cung cấp dinh dưỡng từ trước tới nay ở các vùng miền nói chung chủ yếu là yếu tố đa lượng, yếu tố trung và vi lượng gần như chưa được quan tâm lưu ý tới, do vậy làm ảnh hưởng lớn đến khả năng sinh trưởng, phát triển và khả năng chống chịu của cây, không phát huy hết được tiềm năng vốn có của vùng cũng như của các giống trong sản xuất. Tuy nhiên, để giúp người trồng mía nâng cao được hiệu quả sản xuất, tăng cường sức cạnh tranh của cây mía với các loại cây trồng khác, cũng như đối mặt với các yếu tố về biến đổi khí hậu thì quy trình canh tác mía phải không ngừng được cải thiện sao cho phù hợp với yêu cầu của thực tiễn và phù hợp với đặc điểm của các giống trong sản xuất để phát huy ưu điểm và hạn chế nhược điểm của giống, tăng cường khả năng sử dụng phân bón, nâng cao hiệu quả sản xuất.Xuất phát từ những khó khăn trên và trước yêu cầu cấp thiết của sản xuất, để góp phần bổ sung giống mía mới vào sản xuất, nâng cao hiệu quả và năng lực cạnh tranh của cây mía, ThS. Lê Thị Thường đến từ Viện Nghiên cứu Mía Đường cùng các đồng nghiệp thực hiện dự án “Sản xuất thử nghiệm 2 giống mía mới K88-92 và K88-200 tại một số tỉnh vùng Đồng bằng sông Cửu Long”.Sau một thời gian tiến hành nghiên cứu nghiêm túc và khoa học, đề tài đã thu được một số kết quả như sau:- Kết quả đánh giá từ các thử nghiệm về hoàn thiện quy trình nhân giống và quy trình thâm canh mía nguyên liệu trên giống K88-92 và K88-200 cho thấy các yếu tố cần hoàn thiện đều thể hiện được các ưu điểm vượt trội so với công thức đối chứng.- Mô hình sản xuất thử nhân giống có năng suất, từ 94 đến 110 tấn/ha/vụ, lãi thuần thu được trên 50 triệu đồng/ha và vượt mô hình đối chứng trên 20 triệu đồng/ha, giá thành giảm từ 43 đến 128 ngàn đồng/tấn mía giống.- Mô hình sản xuất thử thâm canh có năng suất trên 125 tấn/ha/vụ, vượt đối chứng 11 đến 23%, năng suất quy 10 CCS đạt trên 146 tấn/ha/vụ vượt mô hình đối chứng 15 đến 24%, lãi thuần vượt từ 14 đến 30 triệu đồng/ha, giá thành giảm từ 47 đến 140 ngàn đồng/tấn mía 10 CCS.- Các tiến bộ kỹ thuật được hoàn thiện dễ áp dụng trên diện rộng, mang lại hiệu quả kinh tế cao, tiết kiệm chi phí sản xuất, không bị lãng phí, cải tạo đất và sản xuất theo hướng bền vững.Có thể tìm đọc toàn văn báo cáo kết quả nghiên cứu (Mã số 14303) tại Cục Thông tin khoa học và công nghệ quốc gia.
+    
+
+						Cục Thông tin KH&CN quốc gia
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Khởi động đào tạo cán bộ nòng cốt về chuyển đổi số cho địa phương trong tháng 1
+
+						
+                    18/01/2022 16:47
+                
+
+
+	
+    
+Tập huấn 10.000 cán bộ chuyển đổi số trên toàn quốcTheo Bộ TT&TT, để làm nên những câu chuyện chuyển đổi số thành công, nguồn nhân lực để triển khai chuyển đổi số đóng vai trò cốt lõi. Tại Chương trình chuyển đổi số quốc gia được phê duyệt hồi tháng 6/2020, Thủ tướng Chính phủ đã giao Bộ TT&TT chủ trì nhiệm vụ xây dựng chương trình nâng cao nhận thức, đào tạo kỹ năng về chuyển đổi số, phát triển Chính phủ số cho cán bộ, công chức, viên chức và người lao động trong cơ quan nhà nước.Trong phát biểu tại phiên họp lần thứ nhất của Ủy ban Quốc gia về Chuyển đổi số ngày 30/11/2021, Thủ tướng Chính phủ cũng đã nêu rõ định hướng, để chuyển đổi số trong thời gian tới cần tập trung đào tạo, nâng cao chất lượng nguồn nhân lực cho chuyển đổi số.Cụ thể hóa các nội dung chỉ đạo của Thủ tướng Chính phủ, trong năm 2022, Bộ TT&TT tổ chức Chương trình bồi dưỡng, tập huấn về chuyển đổi số cho đội ngũ 10.000 cán bộ, công chức, viên chức và người lao động tại các bộ, ngành và địa phương đến cấp xã, bao gồm cả các cơ quan truyền thông, báo chí.Kế hoạch triển khai Chương trình bồi dưỡng, tập huấn này đã được Phó Cục trưởng Cục Tin học hóa Trần Thị Quốc Hiền giới thiệu tới các Sở TT&TT trên toàn quốc tại hội nghị trực tuyến chia sẻ, phổ biến kinh nghiệm chuyển đổi số được Bộ TT&TT tổ chức mới đây.Cán bộ chuyển đổi số của các Sở TT&TT là 1 trong những đối tượng tham gia Chương trình bồi dưỡng, tập huấn về chuyển đổi số cho 10.000 cán bộ, công chức, viên chức, người lao động (Ảnh minh họa)Cán bộ chuyển đổi số của các Sở TT&TT là 1 trong những đối tượng tham gia Chương trình bồi dưỡng, tập huấn về chuyển đổi số cho 10.000 cán bộ, công chức, viên chức, người lao động (Ảnh minh họa)Đại diện Cục Tin học hóa nêu rõ: Chương trình hướng tới mục tiêu nâng cao chất lượng đội ngũ cán bộ quản lý và cán bộ trực tiếp làm công tác chuyển đổi số trong cơ quan nhà nước. Tạo lực lượng nòng cốt trong tổ chức triển khai, qua đó hình thành mạng lưới chuyển đổi số quốc gia đồng bộ, xuyên suốt từ Trung ương đến cấp xã.Các đối tượng tham gia Chương trình bồi dưỡng, tập huấn gồm có: Lãnh đạo các bộ, ngành, địa phương; cán bộ chuyển đổi số của đơn vị chuyên trách về CNTT của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; cán bộ chuyển đổi số của Sở TT&TT các tỉnh, thành phố trực thuộc Trung ương; cán bộ chuyển đổi số của các sở, ngành khác tại địa phương; cán bộ chuyển đổi số của UBND cấp huyện, xã; và cán bộ lãnh đạo, cán bộ chuyển đổi số tại các cơ quan truyền thông, báo chí.Cũng trong thông tin giới thiệu nhanh về Chương trình bồi dưỡng, tập huấn chuyển đổi số cho 10.000 cán bộ, công chức, viên chức trong cơ quan nhà nước và trong các cơ quan truyền thông, báo chí trên toàn quốc, bà Trần Thị Quốc Hiền cũng cho biết: Nội dung bồi dưỡng, tập huấn được biên tập bảo đảm phù hợp cho từng đối tượng, tập trung vào 4 nội dung chính gồm: Nâng cao nhận thức chung về chuyển đổi số; Chính phủ số; Kinh tế số; Xã hội số.Chương trình sẽ được tổ chức trực tiếp kết hợp trực tuyến hoặc 100% trực tuyến qua Nền tảng học trực tuyến mở đại trà - MOOCs. “Hiện nay, Cục Tin học hóa đang gấp rút hoàn thiện phiên bản 1.0 của Nền tảng học trực tuyến”, bà Trần Thị Quốc Hiền cho hay.Hình thành lực lượng nòng cốt trong chuyển đổi số tại địa phươngTrong công văn mới gửi các Sở TT&TT, Cục Tin học hóa nhấn mạnh, để triển khai thành công Chương trình bồi dưỡng, tập huấn về chuyển đổi số cho 10.000 cán bộ, công chức, viên chức và người lao động trên toàn quốc, đòi hỏi phải có sự phối hợp, tham gia tích cực của các cơ quan, trong đó các địa phương đóng vai trò rất lớn.Vì thế, Cục Tin học hóa đã đề nghị các Sở TT&TT tỉnh, thành phố cử cán bộ tham gia đội ngũ nòng cốt để triển khai các nhiệm vụ bồi dưỡng, tập huấn về chuyển đổi số tại địa phương, ưu tiên Giám đốc Trung tâm CNTT hoặc Giám đốc đơn vị sự nghiệp trực thuộc Sở có chức năng đào tạo, bồi dưỡng. Đây là lực lượng nòng cốt trong triển khai chuyển đổi số tại địa phương và sẽ tham gia vào Mạng lưới hỗ trợ chuyển đổi số quốc gia.Bên cạnh đó, Cục Tin học hóa còn đề nghị các Sở TT&TT huy động, giới thiệu thêm nhân sự có năng lực của Sở sẵn sàng tham gia vào Chương trình bồi dưỡng, tập huấn chuyển đổi số cho 10.000 cán bộ, công chức, viên chức và người lao động trong cơ quan nhà nước trên toàn quốc. Dự kiến, khóa đào tạo cho đội ngũ nòng cốt triển khai các nhiệm vụ bồi dưỡng, tập huấn về chuyển đổi số sẽ được bắt đầu trong tháng 1/2022.“Cục Tin học hóa xác định đây là một trong những nhiệm vụ trọng tâm hàng đầu của Cục trong năm 2022 và có ý nghĩa hết sức quan trọng, đòi hỏi sự phối hợp, tham gia tích cực của các cơ quan liên quan, trong đó có vai trò rất lớn từ các địa phương để giúp tổ chức triển khai Chương trình bồi dưỡng, tập huấn thành công”, đại diện Cục Tin học hóa một lần nữa nhấn mạnh.
+    
+
+						Theo Ictnews
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Hải Dương: Trồng lúa hữu cơ kết hợp nuôi rươi 
+
+						
+                    05/01/2022 06:39
+                
+
+
+	
+    
+Rươi hay “lộc trời” là loài nhuyễn thể thuộc ngành Giun đốtvốn ưa sống trong môi trường nước mặn hoặc nước lợ, nhưng phải thật sạch. Thịt rươi rất giàu dinh dưỡng và thường được chế biến thành những món ăn ngon như chả, rươi chiên trứng, rươi kho, rươi xào, canh rươi, mắm rươi, nem rươi, …Những năm gần đây, rươi xuất hiện tại các ruộng lúa ngày càng ít do thói quen canh tác sai lầm – lạm dụng phân bón hóa học, thuốc trừ sâu, thuốc bảo vệ thực vật – khiến đất bị chai cứng, môi trường nhiễm độc, nhiều hệ sinh vật và côn trùng, bao gồm rươi không còn điều kiện phát triển.Rươi là loài thủy sản cho giá trị kinh tế rất cao với giá thành có thời điểm lên tới gần 1 triệu đồng/kg.Rươi là loài thủy sản cho giá trị kinh tế rất cao với giá thành có thời điểm lên tới gần 1 triệu đồng/kg.Rươi là loài thủy sản cho giá trị kinh tế rất cao với giá thành có thời điểm lên tới gần 1 triệu đồng/kg.Nhận ra vấn đề và được các chuyên gia, nhà khoa học tư vấn, người dân tại một số xã trên địa bàn tỉnh Hải Dương, Quảng Ninh, Thái Bình, TP. Hải Phòng,… đã bắt đầu chuyển đổi sang sản xuất lúa gạo theo phương thức canh tác hữu cơ – từ bỏ hóa chất và thay bằng chế phẩm sinh học, phân bón hữu cơ,… Môi trường cũng nhờ vậy mà được cải tạo và phục hồi, giúp rươi sinh sôi trở lại.Muốn tối ưu hiệu quả trồng lúa hữu cơ kết hợp nuôi rươi, bên cạnh việc lựa chọn những giống lúa chất lượng cao, nhà nông có thể chủ động bổ sung thêm rươi giống (mua từ các cơ sở sản xuất giống) vào ruộng để đảm bảo mật độ thả 250 – 300 con/m2. Do yêu cầu tiên quyết của quy trình canh tác hữu cơ là tuyệt đối không dùng hóa chất, việc duy trì và tăng cường nguồn cung cấp dinh dưỡng cho cây sẽ cần lượng phân bón hữu cơ hơn mức bình thường. Ngoài ra, nhà nông cũng cần thay đổi nhận thức - tránh làm sạch cỏ trên ruộng (nhất là bằng thuốc diệt cỏ), đồng thời phun thêm chế phẩm sinh học – chứa những vi sinh vật hữu ích (effective microorganism) hoạt động mạnh khi được đưa vào môi trường và làm lệch sự cân bằng theo hướng có lợi.Tại xã An Thanh, huyện Tứ Kỳ, tỉnh Hải Dương - được xem là "thủ phủ" của rươi, trong mùa vụ 2021, bà con ở đây đã áp dụng giải pháp chế phẩm sinh học do Công ty Cổ phần Emi Nhật Bản cung cấp để cải tạo môi trường tại vùng trồng lúa hữu cơ kết hợp nuôi rươi rộng 70 hecta. Kết quả sau 4 tháng phun hai loại chế phẩm Emina–P và BT–Emi được đánh giá là hết sức khả quan. Hầu hết các loại bệnh (đạo ôn, khô vằn, bạc lá, ...) và địch hại (rầy, sâu cuốn lá, ...) đều được kiểm soát tốt mà không gây ảnh hưởng xấu tới sự sinh trưởng của rươi trong ruộng. Theo ghi nhận cuối vụ, có những hộ đạt năng suất thu hoạch trung bình 15 – 18 kg rươi thương phẩm và 180 – 200 kg lúa trên 01 sào ruộng. Để so sánh, doanh thu từ 01 sào lúa được canh tác bằng phương thức thông thường chỉ đạt khoảng 1,75 triệu đồng, tức 49 triệu đồng/ha; trong khi cũng 01 sào lúa trong mô hình sản xuất lúa – rươi hữu cơ kết hợp lại mang về 1,4 triệu đồng từ lúa, cộng thêm 4 – 6 triệu đồng từ rươi, tổng đạt 5,4 – 7,4 triệu đồng/sào (151 – 207 triệu đồng/ha và 10,57 – 14,49 tỷ đồng/70 ha). Năng suất này thậm chí sẽ cao hơn nữa nếu bà con có thêm thời gian cải tạo đất – vốn đã bị nhiễm độc quá lâu – bằng vi sinh.Mô hình thành công tại Tứ Kỳ thực sự đã mở ra một hướng đi mới rất hứa hẹn, đáng để các địa phương khác có cùng điều kiện thổ nhưỡng tham khảo và nhân rộng.Muốn tối ưu hiệu quả trồng lúa hữu cơ kết hợp nuôi rươi, bên cạnh việc lựa chọn những giống lúa chất lượng cao, nhà nông có thể chủ động bổ sung thêm rươi giống (mua từ các cơ sở sản xuất giống) vào ruộng để đảm bảo mật độ thả 250 – 300 con/m2. Do yêu cầu tiên quyết của quy trình canh tác hữu cơ là tuyệt đối không dùng hóa chất, việc duy trì và tăng cường nguồn cung cấp dinh dưỡng cho cây sẽ cần lượng phân bón hữu cơ hơn mức bình thường. Ngoài ra, nhà nông cũng cần thay đổi nhận thức - tránh làm sạch cỏ trên ruộng (nhất là bằng thuốc diệt cỏ), đồng thời phun thêm chế phẩm sinh học – chứa những vi sinh vật hữu ích (effective microorganism) hoạt động mạnh khi được đưa vào môi trường và làm lệch sự cân bằng theo hướng có lợi.Tại xã An Thanh, huyện Tứ Kỳ, tỉnh Hải Dương - được xem là "thủ phủ" của rươi, trong mùa vụ 2021, bà con ở đây đã áp dụng giải pháp chế phẩm sinh học do Công ty Cổ phần Emi Nhật Bản cung cấp để cải tạo môi trường tại vùng trồng lúa hữu cơ kết hợp nuôi rươi rộng 70 hecta. Kết quả sau 4 tháng phun hai loại chế phẩm Emina–P và BT–Emi được đánh giá là hết sức khả quan. Hầu hết các loại bệnh (đạo ôn, khô vằn, bạc lá, ...) và địch hại (rầy, sâu cuốn lá, ...) đều được kiểm soát tốt mà không gây ảnh hưởng xấu tới sự sinh trưởng của rươi trong ruộng. Theo ghi nhận cuối vụ, có những hộ đạt năng suất thu hoạch trung bình 15 – 18 kg rươi thương phẩm và 180 – 200 kg lúa trên 01 sào ruộng. Để so sánh, doanh thu từ 01 sào lúa được canh tác bằng phương thức thông thường chỉ đạt khoảng 1,75 triệu đồng, tức 49 triệu đồng/ha; trong khi cũng 01 sào lúa trong mô hình sản xuất lúa – rươi hữu cơ kết hợp lại mang về 1,4 triệu đồng từ lúa, cộng thêm 4 – 6 triệu đồng từ rươi, tổng đạt 5,4 – 7,4 triệu đồng/sào (151 – 207 triệu đồng/ha và 10,57 – 14,49 tỷ đồng/70 ha). Năng suất này thậm chí sẽ cao hơn nữa nếu bà con có thêm thời gian cải tạo đất – vốn đã bị nhiễm độc quá lâu – bằng vi sinh.Mô hình thành công tại Tứ Kỳ thực sự đã mở ra một hướng đi mới rất hứa hẹn, đáng để các địa phương khác có cùng điều kiện thổ nhưỡng tham khảo và nhân rộng.                                           
+    
+
+						Hải Đăng - Đức Quyết
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Đồng Nai: Trao các giải thưởng về KH&CN 
+
+						
+                    28/12/2021 17:00
+                
+
+
+	
+    
+Các hội thi được Sở KH&CN Đồng Nai tổ chức trong năm 2021 gồm: Cuộc thi Khởi nghiệp và đổi mới sáng tạo; Chương trình Phát huy sáng kiến, sáng tạo trong lao động và học tập; Giải thưởng Sản phẩm truyền thông khoa học và công nghệ; Hội thi Nông dân giỏi Ứng dụng tiến bộ khoa học kỹ thuật vào sản xuất nông nghiệp; Cuộc thi “Thiết kế nhãn hiệu, kiểu dáng công nghiệp cho các sản phẩm chương trình mỗi xã một sản phẩm”.Năm nay, có gần 500 giải pháp tham gia các cuộc thi. Tiêu biểu trong số đó có thể kể đến: Thiết bị theo dõi và phần mềm quản lý sức khỏe gia đình; Chế biến các sản phẩm từ bưởi; Hệ thống tưới thông minh; Bộ bàn ghế thông minh; Phương pháp chăm sóc lúa nước theo hướng hữu cơ mang lại hiệu quả; Phương pháp chăm sóc cây mai ngày tết; Ứng dụng KH&CN trong chiết xuất tinh dầu sachi; Hệ thống ép bẹ chuối cấy mô lấy sợi xuất khẩu; Ứng dụng công nghệ trong chăn nuôi bò vỗ béo; Máy hỗ trợ chấm trắc nghiệm; Thiết bị cảnh báo sai tư thế ngồi học ở học sinh; Thiết bị khám và phát cấp thuốc tự động cho bệnh nhân COVID-19 trong bệnh viện; Máy cắt cành cây ca cao; Thiết bị rửa tay tự động và sấy khô; Hệ thống phòng cháy chữa cháy thông minh trong trường trung học cơ sở;…Trao giải cho các tác giả đoạt các giải thưởng về KH&CN  Ảnh: SĐNTrao giải cho các tác giả đoạt các giải thưởng về KH&CN  Ảnh: SĐNTrao giải cho các tác giả đoạt các giải thưởng về KH&CN  Ảnh: SĐNÔng Huỳnh Minh Hậu, Phó Giám đốc Sở KH&CN cho biết, trong những năm qua, các hội thi, giải thưởng của Đồng Nai không chỉ là nơi thi thố mà còn là môi trường học tập, nghiên cứu, sáng tạo, ứng dụng KH&CN.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Chương trình Vườn ươm sáng tạo KHCN trẻ TPHCM: Nhiều nghiên cứu được ứng dụng thực tiễn
+
+						
+                    17/12/2021 18:03
+                
+
+
+	
+    
+Chương trình Vườn ươm sáng tạo KHCN trẻ TPHCM được triển khai từ năm 1996, dành cho các nhà khoa học, sinh viên dưới 35 tuổi nhằm mục đích khuyến khích, phát huy sức sáng tạo của tuổi trẻ trong nghiên cứu khoa học.Qua 25 năm, Chương trình đã tiếp nhận gần 2.000 hồ sơ đăng kí từ các giảng viên, nghiên cứu viên, cán bộ trẻ của 70 trường đại học, cao đẳng, học viện, trung tâm, viện nghiên cứu trên địa bàn Thành phố. Chương trình đã hỗ trợ kinh phí thực hiện cho hơn 400 nhiệm vụ, với tổng kinh phí gần 30 tỷ đồng. Trong đó, nhiều kết quả nghiên đã được chuyển giao, ứng dụng vào thực tiễn cuộc sống như “Nghiên cứu hệ thống xử lý nước cấp cho những vùng thiên tai” của TS Nguyễn Thị Thủy, Trường Đại học Công nghiệp Thực phẩm TPHCM; “Nghiên cứu chế tạo phòng thí nghiệm trên chip (lab-on-a-chip) với giá thành thấp giúp thực hiện phản ứng LAMP khuếch đại ADN tại chỗ ứng dụng trong xét nghiệm nhanh các bệnh truyền nhiễm phổ biến tại Việt Nam” của KS Nguyễn Hoàng Tuấn, Trường Đại học Quốc tế TPHCM; “Thiết kế mô hình tổ chức hoạt động trải nghiệm khoa học ngoài giờ lên lớp để phát triển kỹ năng sống cho học sinh tiểu học” của ThS Nguyễn Văn Hiến, Trường Đại học Sư phạm TPHCM; “Nghiên cứu thiết kế mô hình Robot lặn có khả năng khảo sát ngầm và lấy mẫu nước phục vụ quan trắc môi trường” của TS Trần Ngọc Huy, Trường Đại học Bách khoa TPHCM; “Nghiên cứu thiết kế và chế tạo buồng khử khuẩn” của ThS Tống Nhựt Phương, Trường Đại học Bách khoa TPHCM;…Robot lặn khảo sát ngầm và lấy mẫu nước phục vụ quan trắc môi trường. Ảnh: NNCRobot lặn khảo sát ngầm và lấy mẫu nước phục vụ quan trắc môi trường. Ảnh: NNCRobot lặn khảo sát ngầm và lấy mẫu nước phục vụ quan trắc môi trường. Ảnh: NNCNgoài ra, hầu hết các đề tài của Vườn ươm đều có giá trị tham khảo để xây dựng quy trình quản lý, sản xuất. Kết quả của nhiều đề tài đã được xuất bản như từ đề tài “Khảo sát thành phần loài và xây dựng bộ sưu tập mẫu các loài cây thân gỗ trên hệ sinh thái gò đồi thuộc huyện Củ Chi, TPHCM” và “Điều tra, đánh giá và xây dựng bộ sưu tập cây thuốc huyện Củ Chi, TPHCM” đã được in thành sách tham khảo; đề tài “Thiết kế mô hình vật lý điều khiển Robot không dây và phát triển một số modul thu thập dữ liệu”, “Nghiên cứu tác dụng dược lý của phân đoạn cây hà thủ ô trắng (Streptocaulon Turentas Asclepiadaceae) phối hợp với hà thủ ô đỏ trong điều trị Cholesterol huyết” được in thành tài liệu giảng dạy...Buồng khử khuẩn có thể ứng dụng trong phòng chống COVID-19. Ảnh: NNCBuồng khử khuẩn có thể ứng dụng trong phòng chống COVID-19. Ảnh: NNCBuồng khử khuẩn có thể ứng dụng trong phòng chống COVID-19. Ảnh: NNCTrong lĩnh vực khoa học xã hội và nhân văn, các đề tài có xu hướng chú ý đến sự phát triển của thanh thiếu niên thành phố, góp phần xây dựng cơ sở lý luận giúp định hướng tổ chức các hoạt động cho đối tượng thanh thiếu nhi của tổ chức đoàn hội. Một số đề tài có thể kể đến như: Tác động của truyền thông đại chúng đến đời sống sinh viên TP.HCM hiện nay; Xây dựng tiêu chí tác động của các chương trình truyền thông tiết kiệm năng lượng đối với thanh niên tại TP.HCM; Tìm hiểu kỹ năng xã hội và khả năng thích ứng các kỹ năng đó của học sinh tiểu học trong nhà trường tại TP.HCM;…Các kết quả trên của Vườn ươm được công bố tại hội nghị tổng kết do Sở KH&CN TPHCM phối hợp với Thành đoàn TP HCM tổ chức ngày 16/12.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Ninh Thuận: Đưa nông nghiệp công nghệ cao thành mũi nhọn kinh tế
+
+						
+                    15/12/2021 15:26
+                
+
+
+	
+    
+Mô hình sản xuất dưa lưới theo hướng nông nghiệp công nghệ cao tại xã Phước Tiến, huyện Bác Ái (Ninh Thuận). (Ảnh: Nguyễn Thành/TTXVN)Mô hình sản xuất dưa lưới theo hướng nông nghiệp công nghệ cao tại xã Phước Tiến, huyện Bác Ái (Ninh Thuận). (Ảnh: Nguyễn Thành/TTXVN)Tỉnh Ninh Thuận đang đẩy mạnh ứng dụng công nghệ cao vào sản xuất nông nghiệp để hình thành các vùng, dự án có quy mô và sản xuất ra các mặt hàng nông sản có chất lượng cao đáp ứng nhu cầu thị trường; đưa nông nghiệp công nghệ cao trở thành mũi nhọn trong phát triển kinh tế của địa phương.Giai đoạn 2021-2025, tỉnh Ninh Thuận đặt mục tiêu tốc độ tăng trưởng giá trị ngành nông nghiệp đạt từ 3-4%/năm; trong đó, tốc độ tăng trưởng giá trị sản xuất nông nghiệp ứng dụng công nghệ cao đạt từ 30-40%/năm.Đến năm 2025, Ninh Thuận có từ 3-5 vùng nông nghiệp công nghệ cao với diện tích sản xuất nông nghiệp ứng dụng công nghệ cao đạt 1.000ha, giá trị sản xuất nông nghiệp ứng dụng công nghệ cao đạt 700 triệu đồng/ha.Ninh Thuận phấn đấu đến năm 2025 có khoảng 30 dự án nông nghiệp ứng dụng công nghệ cao hoạt động có hiệu quả; trong đó mỗi huyện có từ 4-6 dự án, ưu tiên lựa chọn phát triển sản phẩm đặc thù có tiềm năng xuất khẩu.Sản lượng sản xuất tôm giống toàn tỉnh đạt trên 50 tỷ con, chủ động sản xuất khoảng 30% tôm thẻ chân trắng bố mẹ và 40% tôm sú bố mẹ; 100% cơ sở đủ điều kiện sản xuất, ương dưỡng giống thủy sản và được giám sát an toàn dịch bệnh.Để thực hiện mục tiêu đề ra, tỉnh Ninh Thuận tập trung huy động các nguồn lực triển khai thực hiện tám nhóm nhiệm vụ, giải pháp. Đó là, tăng cường tuyên truyền về phát triển nông nghiệp ứng dụng công nghệ cao; xây dựng các cơ chế, chính sách thu hút đầu tư, hỗ trợ phát triển nông nghiệp ứng dụng công nghệ cao.Đồng thời, đầu tư cơ sở vật chất kỹ thuật các vùng sản xuất, khu nông nghiệp công nghệ cao; tăng cường nghiên cứu, lựa chọn giống và các quy trình, công nghệ sản xuất.Cùng với đó, Ninh Thuận đẩy mạnh phát triển chế biến sâu, liên kết sản xuất, xúc tiến thương mại, mở rộng thị trường tiêu thụ sản phẩm; phát triển nguồn nhân lực phục vụ sản xuất nông nghiệp ứng dụng công nghệ cao; nâng cao hiệu quả công tác thu hút, sử dụng các nguồn lực và đẩy nhanh thực hiện chuyển đổi số đối với các hoạt động phát triển nông nghiệp ứng dụng công nghệ cao.Theo ông Lê Huyền, Phó Chủ tịch Ủy ban Nhân dân tỉnh Ninh Thuận, phát triển nông nghiệp ứng dụng công nghệ cao và chuyển đổi số trong nông nghiệp là xu hướng chủ đạo và tất yếu trong xu thế hội nhập.Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XIV, nhiệm kỳ 2020-2025 đã xác định phát triển nông nghiệp ứng dụng công nghệ cao gắn với công nghiệp chế biến, xuất khẩu và phát triển du lịch là một trong những nhiệm vụ trọng tâm để tạo sự đột phá đưa nông nghiệp công nghệ cao trở thành mũi nhọn trong phát triển kinh tế của địa phương.Ninh Thuận có điều kiện khí hậu khắc nghiệt nắng nóng quanh năm, nhưng chính nắng gió nhiều lại là lợi thế để tỉnh phát triển theo hướng nông nghiệp ứng dụng công nghệ cao. Quan điểm của tỉnh là lấy doanh nghiệp làm trung tâm gắn với đổi mới, sáng tạo, hợp tác, liên kết, ứng dụng khoa học kỹ thuật, công nghệ tiên tiến, công nghệ số vào quản lý, quản trị và sản xuất để nâng cao giá trị, sức cạnh tranh của các sản phẩm nông nghiệp của địa phương.Thời gian qua, Ninh Thuận áp dụng nhiều chính sách ưu đãi nhằm thu hút, hỗ trợ các doanh nghiệp, hợp tác xã đẩy mạnh hoạt động ứng dụng công nghệ cao vào sản xuất. Trong giai đoạn 2016-2021, trên địa bàn Ninh Thuận có 15 dự án đầu tư vào nông nghiệp ứng dụng công nghệ cao với quy mô diện tích khoảng 250ha.Từ đó, hình thành nhiều mô hình ứng dụng khoa học công nghệ, công nghệ cao vào sản xuất giống cây trồng, vật nuôi và giống thủy sản cho năng suất, chất lượng cao; ứng dụng trong phòng, trừ dịch bệnh cây trồng, vật nuôi, thủy sản; ứng dụng công nghệ tưới nước tiết kiệm; công nghệ thâm canh, sản xuất theo tiêu chuẩn VietGAP, GlobalGAP, ISO, ISO/IEC 17025, HACCP, hữu cơ.Nhiều mô hình ứng dụng công nghệ nhà lưới, nhà màng; công nghệ sinh học, vi sinh; công nghệ sản xuất nông nghiệp không dùng đất; công nghệ bảo quản, chế biến sản phẩm; công nghệ máy móc, tự động hóa trong sản xuất.Các mô hình sản xuất nông nghiệp ứng dụng công nghệ cao đã đem lại hiệu quả kinh tế cao, phù hợp với thực tế của Ninh Thuận và đang khẳng định được vị thế trong điều kiện hiện nay.Điển hình như mô hình sản xuất măng tây xanh của Trang trại nông nghiệp hữu cơ Tiên Tiến (huyện Ninh Phước); mô hình sản xuất nho rượu của Công ty trách nhiệm hữu hạn Ladora Farm (huyện Ninh Sơn); mô hình trồng dưa lưới của Trung tâm Nghiên cứu và Chuyển giao công nghệ tăng trưởng xanh (huyện Bác Ái); mô hình sản xuất tôm sú bố mẹ sạch bệnh của Công ty TNHH Moana (huyện Thuận Nam); mô hình trồng hoa lan trong nhà lưới (huyện Ninh Sơn)...Qua khảo sát, giá trị sản xuất trên 1 ha đất đầu tư sản xuất nông nghiệp theo mô hình ứng dụng công nghệ cao đạt trung bình khoảng 600 triệu đồng/ha/năm, một số mô hình như trồng dưa lưới, măng tây xanh, nuôi tôm, ốc hương đạt trên 1 tỷ đồng/ha/năm.Theo đánh giá của ngành nông nghiệp Ninh Thuận, thời gian qua những hoạt động nghiên cứu, áp dụng tiến bộ khoa học, công nghệ vào phục vụ sản xuất nông nghiệp của tỉnh đã mang lại nhiều kết quả tốt, nhiều mô hình sản xuất đem lại hiệu quả kinh tế cao.Bên cạnh đó, những hoạt động này còn góp phần tạo sự chuyển biến tích cực về thay đổi tư duy của người dân trong việc đẩy mạnh ứng dụng tiến bộ khoa học-công nghệ vào sản xuất, tạo ra những sản phẩm chất lượng đáp ứng nhu cầu ngày càng cao của thị trường.Để thực hiện hiệu quả việc phát triển nông nghiệp ứng dụng công nghệ cao, thời gian tới Ninh Thuận tiếp tục đẩy mạnh liên kết “4 nhà - nhà nước, nhà khoa học, nhà nông, nhà doanh nghiệp” trong phát triển nông nghiệp công nghệ cao. Đồng thời, tỉnh hỗ trợ, tạo điều kiện doanh nghiệp, hợp tác xã đầu tư nông nghiệp công nghệ cao liên kết với các hộ nông dân sản xuất theo chuỗi giá trị hàng hóa để nâng cao giá trị sản phẩm nông nghiệp, bảo vệ môi trường, cải thiện đời sống và làm giàu cho người nông dân./.
+    
+
+						Theo Vietnam+
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Dự báo mặn xâm nhập sớm ở đồng bằng Sông Cửu Long
+
+						
+                    18/11/2021 18:12
+                
+
+
+	
+    
+Dự báo của Viện Khoa học thủy lợi miền Nam về nguồn nước mùa khô năm 2021-2022, ở mức trung bình như 2020-2021, mặn xâm nhập sớm, sâu, nước về ít ngay từ đầu mùa khô và có thể xảy ra những biến động bất thường ở bất cứ thời điểm nào do vận hành thuỷ điện. Vì vậy, song song với xây dựng kế hoạch xuống giống phù hợp với điều kiện của vùng, các địa phương cần chủ động chuẩn bị các giải pháp ứng phó, phòng chống hạn mặn.Cụ thể, vùng thượng ĐBSCL, bao gồm phần đất tỉnh An Giang, Đồng Tháp, thượng nguồn Long An, Kiên Giang và TP Cần Thơ, có thuận lợi hơn về nguồn nước so với các vùng khác trên đồng bằng. Dự báo từ tháng 12/2021 - 2/2022, mực nước bình quân có khả năng thấp hơn so với trung bình nhiều năm 20-50cm. Vùng này nên chủ động xuống giống vụ Đông Xuân ngay khi lũ rút hoặc kết thúc vụ Thu Đông. Đối với vùng cao, vùng có khả năng bảo vệ tốt thì lũ rút đến đâu xuống giống đến đó. Vùng thấp có thể chủ động bơm tát, rút ngắn thời gian giữa 2 vụ.Dự báo mặn đến sớm vào mùa khô năm 2021-2022 ở ĐBSCL Ảnh: InternetDự báo mặn đến sớm vào mùa khô năm 2021-2022 ở ĐBSCL Ảnh: InternetDự báo mặn đến sớm vào mùa khô năm 2021-2022 ở ĐBSCL Ảnh: InternetVùng giữa ĐBSCL, bao gồm phần đất thuộc TP Cần Thơ, Tiền Giang, Long An, Kiên Giang, Hậu Giang, Đồng Tháp, Vĩnh Long và vùng được kiểm soát mặn ở Bạc Liêu, Sóc Trăng, Trà Vinh, Bến Tre, có thể bị ảnh hưởng bởi triều cường đến tháng 2/2022. Tháng 1, 2/2022 mặn với nồng độ 4g/l có thể xâm nhập sâu 50-65km, ảnh hưởng đến việc lấy nước của các cống. Khi lấy ngọt hoặc tưới cho cây trồng cần kiểm tra chặt chẽ độ mặn, nhất là đối với cây ăn quả.Vùng ven biển ĐBSCL, bao gồm các tỉnh (Long An, Bến Tre, Trà Vinh, Sóc Trăng, Bạc Liêu, Cà Mau, Kiên Giang) có thể bị ảnh hưởng đến sản xuất cả mặn và ngọt. Mặn bất thường, hạn hán thiếu nước có thể xảy ra ở các vùng chưa có kiểm soát mặn triệt để. Tháng 12/2021 mặn có thể vào sâu 20-30km vùng cửa sông. Tháng 1-2/2022 mặn vào sâu 50-65km, cuối tháng 3 mặn có thể ở xâm nhập 45-60km. Mặn xuất hiện sớm và kéo dài có thể làm ảnh hưởng đến nguồn nước và sản xuất ở các hệ thống thuỷ lợi ven biển như Gò Công, bắc Bến Tre, vùng ven biển Trà Vinh và hệ thống thủy lợi Long Phú-Tiếp Nhật (Sóc Trăng).
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Mô hình sinh kế dựa vào mùa nước nổi giúp nông dân tăng thu nhập đến 150% 
+
+						
+                    15/11/2021 13:34
+                
+
+
+	
+    
+Sáng 12/11, Liên minh Bảo tồn thiên nhiên Quốc Tế (IUCN) đã tổ chức hội thảo tổng kết dự án “Mô hình sinh kế dựa vào mùa nước nổi hỗ trợ chiến lược trữ lũ tại đồng bằng sông Cửu Long”.Hội thảo cho biết, từ năm 2018 đến 2021, dự án mô hình sinh kế dựa vào mùa nước nổi tại ba tỉnh vùng thượng nguồn đồng bằng sông Cửu Long gồm An Giang, Đồng Tháp, và Long An đã được IUCN Việt Nam triển khai. Đó là các mô hình như du lịch sinh thái sen, mô hình kết hợp cá sen, lúa mùa nổi, nuôi cá mùa lũ và các loại cây rau nổi khác nhau (ấu, hẹ nước, v.v.), hỗ trợ đa dạng hóa nông nghiệp thông qua thích ứng với các điều kiện khí hậu.Người dân được tập huấn về kỹ thuật rút tơ sen. Nguồn: IUCNNgười dân được tập huấn về kỹ thuật rút tơ sen. Nguồn: IUCNNgười dân được tập huấn về kỹ thuật rút tơ sen. Nguồn: IUCNMục tiêu của dự án là trình diễn các mô hình sinh kế dựa vào mùa nước nổi trên diện tích 450 héc-ta, bảo tồn và khôi phục 6,7 triệu m3 trong tổng lượng trữ lũ.Theo anh Tăng Phương Giản - điều phối viên của chương trình, trước đây, người dân đồng bằng sông Cửu Long thường để nước lũ tràn đồng thì thời gian gần đây, để canh tác quanh năm, người dân lên đê bao, ngăn lũ vào đồng. Mô hình sinh kế dựa vào mùa nước nổi khuyến khích người dân phá bỏ đê bao, cho nước chảy vào đồng, nhằm bảo tồn nguồn nước lũ. Nước có không gian để đi vào, trữ trong đồng, bồi đắp phù sa, tăng độ phì nhiêu cho đất, giảm nhu cầu phân bón cho cây trồng trong mùa khô, đồng thời tăng các loài thủy sinh tự nhiên, cải thiện đa dạng sinh học và hệ sinh thái canh tác nông nghiệp.Kết quả, dự án đã được thực hiện trên diện tích trên 600 héc-ta, góp phần bảo tồn và khôi phục 9 triệu m3 nước lũ.Để có được kết quả này, dự án đã thực hiện các hoạt động đào tạo cho hơn 1.000 nông dân tại 3 tỉnh về xây dựng và thực hiện các mô hình sinh kế dựa vào mùa nước nổi ít rủi ro nhưng đem lại lợi nhuận, cả bên ngoài và bên trong các đê bao. Trung bình, người nông dân có thể tăng thu nhập 25%-150% từ các mô hình sinh kế dựa vào mùa nước nổi, so với không tận dụng được mùa nước nổi.Theo Ths. Trần Chế Linh – điều phối viên Ban Quản lý Dự án Quản lý nước thích ứng Biến đổi khí hậu, đơn cử như trong dự án Ao dẫn dụ cá cạnh ruộng sen tại xã Vĩnh Trung huyện Tịnh Biên (An Giang), bà con thu lợi nhuận trung bình 55 triệu/ha. Mô hình trồng sen lấy ngó, thực hiện trên địa bàn xã Vĩnh Châu B, Vĩnh Thạnh và Vĩnh Lợi, huyện Tân Hưng, tỉnh Long An có 5 hộ tham gia với tổng diện tích 24ha, lợi nhuận trung bình 29,3 triệu đồng/ha.Mô hình trồng lúa mùa nước nổi ở Tân Hưng, Long An. Nguồn: IUCNMô hình trồng lúa mùa nước nổi ở Tân Hưng, Long An. Nguồn: IUCNMô hình trồng lúa mùa nước nổi ở Tân Hưng, Long An. Nguồn: IUCNMô hình trồng lúa mùa nước nổi ở Tân Hưng, Long An. Nguồn: IUCNPGS.TS Hồ Thanh Bình – ĐH An Giang, cho biết, trở ngại lớn nhất khi phát triển các mô hình này chính là làm sao khuyến khích được khách hàng sẵn sàng trả tiền mua sản phẩm. Điều này sẽ kích thích người dân gắn bó hơn với các mô hình sau khi dự án kết thúc.“Theo báo cáo của Long An, Tập đoàn Lộc Trời thu mua lúa [mùa nước nổi] với giá 15.000 đồng/kg, như vậy khi bán ra thị trường, giá gạo có thể gần bằng với gạo ST25. Điều này sẽ gây trở ngại trong việc thuyết phục người tiêu dùng sẵn sàng bỏ tiền ra mua vì gạo chưa có thương hiệu” – PGS.TS Hồ Thanh Bình nói.Ngoài việc chú trọng chất lượng, cũng cần phát triển các sản phẩm giá trị gia tăng, xây dựng thương hiệu phù hợp để khách hàng biết và đánh giá đúng với giá trị - PGS Hồ Thanh Bình nói. Trong vấn đề này, chính sách của nhà nước là yếu tố quyết định, chứ doanh nghiệp hay nông dân khó lòng làm được. Các sản phẩm sinh ra từ các mô hình mùa nước nổi vừa để sản xuất vừa để bảo vệ môi trường nên cần đưa vào nhóm sản phẩm nhà nước hỗ trợ tiêu thụ giúp bảo vệ môi trường.“Trách nhiệm của nhà nước là khuyến khích các công nghệ, mô hình sáng kiến sinh kế như vậy. Gạo lúa mùa nước nổi có giá trị hỗ trợ hệ sinh thái phát triển bền vững và đồng hành cùng người dân miền Tây trong câu chuyện thuận thiên,” ông Bình nói.Ông đề xuất, các sản phẩm từ mô hình sinh kế dựa vào mùa nước nổi ở đồng bằng sông Cửu Long rất phù hợp với các nước châu Âu – thị trường chủ trọng đến việc sản xuất an toàn, thân thiện với môi trường; vì thế, nhà nước có thể hỗ trợ doanh nghiệp xây dựng chiến lược, chuỗi giá trị phù hợp với yêu cầu của thị trường này, đưa các sản phẩm trên trở thành đặc sản mang lại giá trị kinh tế của đồng bằng sông Cửu Long. Có như vậy, mô hình này mới bền vững.
+    
+
+						Thụy Minh 
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nghiên cứu hoàn thiện quy trình kỹ thuật nuôi ong nội năng suất cao và chế tạo máy tách nước thuỷ phần mật ong
+
+						
+                    05/11/2021 09:51
+                
+
+
+	
+    
+Đề tài tiến hành nghiên cứu đề xuất 02 quy trình: (1) Công nghệ kỹ thuật cải tiến kích thước cầu ong, ghép 02 chúa kế vương trong đàn ong nội; (2) Chế tạo máy tách nước thuỷ phần mật ong không sử dụng nhiệt đốt góp phần tăng năng suất và chất lượng mật ong.Ông Nguyễn Hoài Lâm thay mặt nhóm nghiên cứu báo cáo kết quả trước Hội đồng đánh giá, nghiệm thuVới quy trình cải tiến kích thước cầu ong, ghép 02 chúa kế vương trong đàn ong nội, nhóm nghiên cứu đã tiến hành cải tiến cầu ong bản cầu từ 2,7 cm thành 3cm, độ rộng từ 21cm lên 22cm, diện tích bán tổ từ 33cm x 20cm thành 35cm x 21cm, đồng thời không thay đổi độ dài cầu giúp nhiệt độ và độ ẩm trong tổ luôn đảm bảo ở mức lý tưởng. Việc tăng diện tích bánh tổ giúp phát triển số lượng đàn ong, từ đó tăng sản lượng mật. Bên cạnh đó, việc thay chúa bằng phương pháp chúa kế vương (2 chúa một đàn) giúp giữ ổn định, duy trì số lượng đàn ong trong thời gian thay chúa, từ đó tăng sản lượng mật lên 20%.Với quy trình chế tạo máy tách nước thuỷ phần mật ong không sử dụng nhiệt đốt đã giúp loại bỏ tạp chất, diệt men, ép và tách nước trong mật, đảm bảo hàm lượng nước trong mật luôn dưới 21%, đáp ứng các yêu cầu về hàm lượng thủy phần, mùi thơm, độ sạch... nâng cao chất lượng mật ong phục vụ xuất khẩu.Kết quả nghiên cứu cho thấy, việc ứng dụng 02 quy trình trên giúp giải quyết những vấn đề tồn tại trong quy trình nuôi ong truyền thống, đảm bảo chất lượng mật trong quá trình sơ chế, bảo quản, mang lại lợi ích kinh tế lớn cho các hộ nuôi ong.Để góp phần hoàn thiện đề tài, Hội đồng khoa học đề nghị nhóm nghiên cứu bổ sung kết quả kiểm nghiệm, quy trình vận hành, hoàn thiện sơ đồ thiết kế đối với các thiết bị sử dụng trong 02 quy trình công nghệ, đồng thời, đánh giá cao ý nghĩa thực tiễn của đề tài trong việc góp phần phát triển nghề nuôi ong nói riêng và ngành nông nghiệp ứng dụng công nghệ cao trên địa bàn thành phố nói chung./.Đề tài tiến hành nghiên cứu đề xuất 02 quy trình: (1) Công nghệ kỹ thuật cải tiến kích thước cầu ong, ghép 02 chúa kế vương trong đàn ong nội; (2) Chế tạo máy tách nước thuỷ phần mật ong không sử dụng nhiệt đốt góp phần tăng năng suất và chất lượng mật ong.Ông Nguyễn Hoài Lâm thay mặt nhóm nghiên cứu báo cáo kết quả trước Hội đồng đánh giá, nghiệm thuÔng Nguyễn Hoài Lâm thay mặt nhóm nghiên cứu báo cáo kết quả trước Hội đồng đánh giá, nghiệm thuVới quy trình cải tiến kích thước cầu ong, ghép 02 chúa kế vương trong đàn ong nội, nhóm nghiên cứu đã tiến hành cải tiến cầu ong bản cầu từ 2,7 cm thành 3cm, độ rộng từ 21cm lên 22cm, diện tích bán tổ từ 33cm x 20cm thành 35cm x 21cm, đồng thời không thay đổi độ dài cầu giúp nhiệt độ và độ ẩm trong tổ luôn đảm bảo ở mức lý tưởng. Việc tăng diện tích bánh tổ giúp phát triển số lượng đàn ong, từ đó tăng sản lượng mật. Bên cạnh đó, việc thay chúa bằng phương pháp chúa kế vương (2 chúa một đàn) giúp giữ ổn định, duy trì số lượng đàn ong trong thời gian thay chúa, từ đó tăng sản lượng mật lên 20%.Với quy trình chế tạo máy tách nước thuỷ phần mật ong không sử dụng nhiệt đốt đã giúp loại bỏ tạp chất, diệt men, ép và tách nước trong mật, đảm bảo hàm lượng nước trong mật luôn dưới 21%, đáp ứng các yêu cầu về hàm lượng thủy phần, mùi thơm, độ sạch... nâng cao chất lượng mật ong phục vụ xuất khẩu.Kết quả nghiên cứu cho thấy, việc ứng dụng 02 quy trình trên giúp giải quyết những vấn đề tồn tại trong quy trình nuôi ong truyền thống, đảm bảo chất lượng mật trong quá trình sơ chế, bảo quản, mang lại lợi ích kinh tế lớn cho các hộ nuôi ong.Để góp phần hoàn thiện đề tài, Hội đồng khoa học đề nghị nhóm nghiên cứu bổ sung kết quả kiểm nghiệm, quy trình vận hành, hoàn thiện sơ đồ thiết kế đối với các thiết bị sử dụng trong 02 quy trình công nghệ, đồng thời, đánh giá cao ý nghĩa thực tiễn của đề tài trong việc góp phần phát triển nghề nuôi ong nói riêng và ngành nông nghiệp ứng dụng công nghệ cao trên địa bàn thành phố nói chung./.
+    
+
+						Sở Khoa học và Công nghệ thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Phát huy công nghệ để đảm bảo cấp nước, thúc đẩy phát triển kinh tế trong tình hình mới
+
+						
+                    05/11/2021 09:21
+                
+
+
+	
+    
+
+                                    
+                                        
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                        
+                                    
+                                    
+                                        
+                                        
+                                    
+                                        
+                                        
+                                    
+                                        
+    
+
+						Theo 1thegioi
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                AI Challenge 2021: Thi giải pháp AI nhận diện chữ tiếng Việt
+
+						
+                    04/11/2021 17:05
+                
+
+
+	
+    
+Nếu có khả năng phân tích hình ảnh có chữ tiếng Việt, các hệ thống thông minh sẽ hiểu được cảnh vật xung quanh, từ đó phát triển du lịch thông minh, bảo tàng thông minh, xe tự lái, robot tự hành..., hoặc hỗ trợ người nước ngoài, người khiếm thị thông tin về môi trường sống, đặc biệt là những nơi họ mới đến.Cuộc thi AI Challenge 2021 đặt mục tiêu phát hiện và nhận diện chữ trong ảnh thu lại từ nhiều camera khác nhau ở Việt Nam. Ban tổ chức sẽ cung cấp dữ liệu về 2.000 ảnh dán nhãn thủ công chứa hơn 56.000 từ chuyên dùng và 1.000 ảnh trong bộ dữ liệu kiểm thử để các nhóm dự án huấn luyện AI.Phân tích ảnh có chữ tiếng Việt để phát triển du lịch, bảo tàng,.. thông minh  Ảnh: BTCPhân tích ảnh có chữ tiếng Việt để phát triển du lịch, bảo tàng,.. thông minh  Ảnh: BTCPhân tích ảnh có chữ tiếng Việt để phát triển du lịch, bảo tàng,.. thông minh  Ảnh: BTCĐối tượng dự thi gồm cá nhân là người Việt Nam ở trong và ngoài nước; và người nước ngoài đang sinh sống, học tập, làm việc tại Việt Nam. Thí sinh có thể đăng ký cá nhân hoặc theo đội (mỗi đội dự thi không quá 5 thành viên).Giải thưởng gồm giải Nhất 50 triệu đồng, giải Nhì 30 triệu đồng, giải Ba 20 triệu đồng và các giải Khuyến khích 5 triệu đồng/giải. Số lượng giải thưởng do Hội đồng giám khảo và Ban Tổ chức đề xuất sau khi chấm giải.Các dự án đoạt giải sẽ được tạo điều kiện thuận lợi để đăng ký giải pháp hữu ích, vườn ươm sản phẩm tiềm năng hoặc kết nối với các chuyên gia, nhà khoa học để tiếp tục hoàn thiện thuật toán, giải pháp. Những ý tưởng tốt còn được chính quyền thành phố giới thiệu đến các doanh nghiệp để hỗ trợ ứng dụng thực tế.Thời gian nhận hồ sơ dự thi đến hết ngày 27/11.Chi tiết về cuộc thi tại địa chỉ website: http://aichallenge.hochiminhcity.gov.vn
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Sở KH&CN TPHCM: Bồi dưỡng kiến thức cho đội ngũ chuyên gia thị trường KH&CN
+
+						
+                    01/11/2021 16:56
+                
+
+
+	
+    
+Đối tượng tuyển chọn thực hiện nhiệm vụ là các trường, viện; tổ chức KH&CN; đơn vị có chức năng chuyên môn trong lĩnh vực KH&CN và đủ năng lực để triển khai nhiệm vụ.Chương trình thực hiện nhằm tổ chức 2 khoá huấn luyện cho các học viên đến từ các tổ chức, doanh nghiệp KH&CN, trường viện, cơ quan quản lý liên quan đến KH&CN trên địa bàn Thành phố về: chuyển giao công nghệ, thẩm định giá công nghệ; cách thức thương mại hóa quyền sở hữu trí tuệ trong các trường đại học và các tổ chức nghiên cứu; cung cấp kiến thức về sở hữu trí tuệ, định giá tài sản trí tuệ cho doanh nghiệp khởi nghiệp.Một gian hàng tại Techmart TPHCM 2021  Ảnh: Chụp màn hìnhMột gian hàng tại Techmart TPHCM 2021  Ảnh: Chụp màn hìnhMột gian hàng tại Techmart TPHCM 2021  Ảnh: Chụp màn hìnhYêu cầu đối với các học viên sau khi hoàn thành 2 khóa đào tạo phải có kiến thức chung về ngành thẩm định giá và thẩm định giá công nghệ; am hiểu các văn bản pháp luật hiện hành có liên quan đến hoạt động thẩm định giá và thẩm định giá công nghệ; nắm được quy trình, nguyên tắc và cơ sở hình thành giá khi thẩm định giá tài sản và thẩm định giá công nghệ. Đồng thời, nắm được các kỹ thuật, mô hình để thẩm định công nghệ, thẩm định giá doanh nghiệp và tài sản vô hình tại Việt Nam. Sau một năm, học viên có báo cáo đánh giá các hoạt động của cá nhân về thị trường KH&CN và gửi về Sở KH&CN TPHCM trước ngày 15/12 hàng năm.Thông tin chi tiết nhiệm vụ tại địa chỉ www.dost.hochiminhcity.gov.vn
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Viện Nghiên cứu và Phát triển vùng xây dựng "Chương trình phát triển KH&CN giai đoạn 2021 - 2025, định hướng đến năm 2030" cho huyện Đầm Hà, tỉnh Quảng Ninh
+
+						
+                    01/11/2021 09:30
+                
+
+
+	
+    
+Xác định phát triển khoa học và công nghệ là nhiệm vụ trọng tâm, quan trọng để phát triển lực lượng sản xuất, nâng cao năng suất, chất lượng, hiệu quả, sức cạnh tranh của nền kinh tế góp phần thực hiện thắng lợi các nhiệm vụ, mục tiêu tại Nghị quyết Đại hội Đảng bộ huyện lần thứ XXV đã đặt ra. Viện Nghiên cứu và Phát triển Vùng đã tích cực phối hợp với các phòng chuyên môn và các xã, thị trấn tiến hành điều tra, khảo sát thực địa, nắm bắt nhu cầu của người dân và doanh nghiệp xây dựng Dự thảo “Chương trình phát triển Khoa học và Công nghệ huyện Đầm Hà, tỉnh Quảng Ninh giai đoạn 2021 - 2025, định hướng đến năm 2030” trình Hội đồng Khoa học và Công nghệ và các phòng chuyên môn của huyện cho ý kiến.Mô hình trồng dưa lưới công nghệ caoSau khi tiếp thu, chỉnh sửa, UBND huyện Đầm Hà đã ban hành Quyết định số 3101/QĐ-UBND ngày 13/9/2021 phê duyệt “Chương trình phát triển Khoa học và Công nghệ huyện Đầm hà, tỉnh Quảng Ninh giai đoạn 2021 - 2025, định hướng đến năm 2030” với 22 nhiệm vụ khoa học và công nghệ ưu tiên triển khai thực hiện trong các ngành/lĩnh vực; trong đó có 11 nhiệm vụ cho giai đoạn 2022 - 2023, 10 nhiệm vụ cho giai đoạn 2023 - 2025 và 01 nhiệm vụ cho giai đoạn sau năm 2025, định hướng đến năm 2030. Với tổng kinh phí dự kiến khoảng hơn 40 tỷ đồng; trong đó vốn ngân sách cấp huyện khoảng 13,8 tỷ đồng - chiếm khoảng 34,4% tổng kinh phí dự kiến; còn lại khoảng trên 65,5% tổng kinh phí triển khai thực hiện các nhiệm vụ Khoa học và Công nghệ huyện sẽ được huy động từ các nguồn vốn khác – đặc biệt là nguồn vốn xã hội hóa từ các doanh nghiệp/HTX trên địa bàn huyện.Xác định phát triển khoa học và công nghệ là nhiệm vụ trọng tâm, quan trọng để phát triển lực lượng sản xuất, nâng cao năng suất, chất lượng, hiệu quả, sức cạnh tranh của nền kinh tế góp phần thực hiện thắng lợi các nhiệm vụ, mục tiêu tại Nghị quyết Đại hội Đảng bộ huyện lần thứ XXV đã đặt ra. Viện Nghiên cứu và Phát triển Vùng đã tích cực phối hợp với các phòng chuyên môn và các xã, thị trấn tiến hành điều tra, khảo sát thực địa, nắm bắt nhu cầu của người dân và doanh nghiệp xây dựng Dự thảo “Chương trình phát triển Khoa học và Công nghệ huyện Đầm Hà, tỉnh Quảng Ninh giai đoạn 2021 - 2025, định hướng đến năm 2030” trình Hội đồng Khoa học và Công nghệ và các phòng chuyên môn của huyện cho ý kiến.Mô hình trồng dưa lưới công nghệ caoMô hình trồng dưa lưới công nghệ caoSau khi tiếp thu, chỉnh sửa, UBND huyện Đầm Hà đã ban hành Quyết định số 3101/QĐ-UBND ngày 13/9/2021 phê duyệt “Chương trình phát triển Khoa học và Công nghệ huyện Đầm hà, tỉnh Quảng Ninh giai đoạn 2021 - 2025, định hướng đến năm 2030” với 22 nhiệm vụ khoa học và công nghệ ưu tiên triển khai thực hiện trong các ngành/lĩnh vực; trong đó có 11 nhiệm vụ cho giai đoạn 2022 - 2023, 10 nhiệm vụ cho giai đoạn 2023 - 2025 và 01 nhiệm vụ cho giai đoạn sau năm 2025, định hướng đến năm 2030. Với tổng kinh phí dự kiến khoảng hơn 40 tỷ đồng; trong đó vốn ngân sách cấp huyện khoảng 13,8 tỷ đồng - chiếm khoảng 34,4% tổng kinh phí dự kiến; còn lại khoảng trên 65,5% tổng kinh phí triển khai thực hiện các nhiệm vụ Khoa học và Công nghệ huyện sẽ được huy động từ các nguồn vốn khác – đặc biệt là nguồn vốn xã hội hóa từ các doanh nghiệp/HTX trên địa bàn huyện.
+    
+
+						Viện Nghiên cứu và Phát triển Vùng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Đánh giá điều kiện và đề xuất giải pháp phát triển các trung tâm Logistics hướng đến liên kết kinh tế Vùng
+
+						
+                    26/10/2021 16:50
+                
+
+
+	
+    
+Đề tài do ThS. Hoàng Thế Nam cùng các cộng sự Trung tâm Khuyến công và Tư vấn phát triển Công nghiệp thực hiện.Thuyết minh đề tài tập trung vào 4 nội dung chủ yếu: Một là, luận giải và làm sáng tỏ vai trò của Trung tâm logistics như một mô hình kinh doanh mới, mô hình thực hiện hiệu quả liên kết kinh tế của thành phố với các tỉnh tại vùng kinh tế trọng điểm Bắc Bộ. Hai là, tập trung nghiên cứu các nguồn lực cho phát triển hệ thống logistics và Trung tâm logictics ở Hải Phòng. Ba là, trên cơ sở nghiên cứu đánh giá thực trạng, đề tài đề xuất các giải pháp đồng bộ, có tính khả thi để phát triển hệ thống logistics và Trung tâm logistics nhằm thực hiện hiệu quả liên kết kinh tế. Bốn là, đề xuất các kiến nghị với thành phố về những cơ chế chính sách nhằm phát triển logistics Hải Phòng với vai trò liên kết kinh tế Vùng.Sau khi trao đổi, thảo luận, bà Phạm Thị Sen Quỳnh – Chủ tịch Hội đồng đánh giá cao tính thực tiễn của đề tài. Nếu được triển khai, đề tài sẽ góp phần thực hiện mục tiêu tổng quát Nghị quyết số 45-NQ/TW, ngày 24/01/2019 của Bộ Chính trị về xây dựng và phát triển thành phố Hải Phòng đến năm 2030, tầm nhìn đến năm 2045: “Xây dựng và phát triển Hải Phòng trở thành thành phố đi đầu cả nước trong sự nghiệp công nghiệp hóa, hiện đại hóa; động lực phát triển của vùng Bắc Bộ và của cả nước; có công nghiệp phát triển hiện đại, thông minh, bền vững; kết cấu hạ tầng giao thông đồng bộ, hiện đại kết nối thuận lợi với trong nước và quốc tế bằng cả đường bộ, đường sắt, đường biển, đường hàng không; trọng điểm dịch vụ logistics…”.Tuy nhiên, để hoàn thiện thuyết minh đề tài, Hội đồng yêu cầu Ban chủ nhiệm chỉnh sửa tên đề tài cho phù hợp, cần chỉ rõ hơn về sự liên kết kinh tế của thành phố Hải Phòng với các tỉnh vùng kinh tế trọng điểm Bắc Bộ; nêu rõ nội hàm, khái niệm logistics, trung tâm logistics; phân tích những yếu tố tác động đến sự phát triển các trung tâm logistics; tiến hành khảo sát số liệu, xác định số phiếu khảo sát; bổ sung thêm một số căn cứ thực hiện đề tài và cần có kiến nghị đối với Trung ương, Bộ, ngành.Đây là những ý kiến góp ý để Ban chủ nhiệm hoàn thiện và đi đúng trọng tâm nghiên cứu hơn, khai thác tối đa tính mới của đề tài, phục vụ định hướng, mục tiêu chung của thành phố./.Thuyết minh đề tài tập trung vào 4 nội dung chủ yếu: Một là, luận giải và làm sáng tỏ vai trò của Trung tâm logistics như một mô hình kinh doanh mới, mô hình thực hiện hiệu quả liên kết kinh tế của thành phố với các tỉnh tại vùng kinh tế trọng điểm Bắc Bộ. Hai là, tập trung nghiên cứu các nguồn lực cho phát triển hệ thống logistics và Trung tâm logictics ở Hải Phòng. Ba là, trên cơ sở nghiên cứu đánh giá thực trạng, đề tài đề xuất các giải pháp đồng bộ, có tính khả thi để phát triển hệ thống logistics và Trung tâm logistics nhằm thực hiện hiệu quả liên kết kinh tế. Bốn là, đề xuất các kiến nghị với thành phố về những cơ chế chính sách nhằm phát triển logistics Hải Phòng với vai trò liên kết kinh tế Vùng.Sau khi trao đổi, thảo luận, bà Phạm Thị Sen Quỳnh – Chủ tịch Hội đồng đánh giá cao tính thực tiễn của đề tài. Nếu được triển khai, đề tài sẽ góp phần thực hiện mục tiêu tổng quát Nghị quyết số 45-NQ/TW, ngày 24/01/2019 của Bộ Chính trị về xây dựng và phát triển thành phố Hải Phòng đến năm 2030, tầm nhìn đến năm 2045: “Xây dựng và phát triển Hải Phòng trở thành thành phố đi đầu cả nước trong sự nghiệp công nghiệp hóa, hiện đại hóa; động lực phát triển của vùng Bắc Bộ và của cả nước; có công nghiệp phát triển hiện đại, thông minh, bền vững; kết cấu hạ tầng giao thông đồng bộ, hiện đại kết nối thuận lợi với trong nước và quốc tế bằng cả đường bộ, đường sắt, đường biển, đường hàng không; trọng điểm dịch vụ logistics…”.Tuy nhiên, để hoàn thiện thuyết minh đề tài, Hội đồng yêu cầu Ban chủ nhiệm chỉnh sửa tên đề tài cho phù hợp, cần chỉ rõ hơn về sự liên kết kinh tế của thành phố Hải Phòng với các tỉnh vùng kinh tế trọng điểm Bắc Bộ; nêu rõ nội hàm, khái niệm logistics, trung tâm logistics; phân tích những yếu tố tác động đến sự phát triển các trung tâm logistics; tiến hành khảo sát số liệu, xác định số phiếu khảo sát; bổ sung thêm một số căn cứ thực hiện đề tài và cần có kiến nghị đối với Trung ương, Bộ, ngành.Đây là những ý kiến góp ý để Ban chủ nhiệm hoàn thiện và đi đúng trọng tâm nghiên cứu hơn, khai thác tối đa tính mới của đề tài, phục vụ định hướng, mục tiêu chung của thành phố./.
+    
+
+						Sở KH&CN thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nghiên cứu đề xuất các giải pháp bảo tồn loài Thạch sùng mí Cát Bà tại Vườn Quốc gia Cát Bà
+
+						
+                    26/10/2021 16:46
+                
+
+
+	
+    
+Theo nghiên cứu, Thạch sùng mí Cát Bà là 01 trong 21 loài đặc hữu của đảo Cát Bà, có giá trị nổi bật, đặc trưng của hệ sinh thái núi đá vôi quần đảo Cát Bà. Tuy mới được phát hiện và mô tả dựa trên bộ mẫu chuẩn thu được từ đảo Cát Bà, Hải Phòng vào năm 2008 nhưng Thạch sùng mí Cát Bà đã nhanh chóng trở thành đối tượng bị săn bắt, buôn bán để làm sinh vật cảnh, được đưa vào Danh lục Đỏ IUCN (các loài cực kỳ nguy cấp trên thế giới) vào năm 2016. Từ khi được mô tả và công bố, Vườn Quốc gia Cát Bà chưa có những số liệu cụ thể về địa điểm phân bố, hiện trạng quần thể loài Thạch sùng mí Cát Bà, do vậy việc triển khai đề tài là cần thiết nhằm góp phần bảo tồn loài sinh vật này trong tương lai.Nhóm tác giả đề tài đã tiến hành nghiên cứu đặc điểm sinh thái, sinh học, hiện trạng quần thể, các nhân tố đe dọa loài và sinh cảnh sống của loài Thạch sùng mí Cát Bà trên cơ sở thiết lập 15 tuyến điều tra, khảo sát trên các đảo lớn nhỏ thuộc Vườn Quốc gia Cát Bà. Nghiên cứu cho thấy, Thạch sùng mí Cát bà phân bố chủ yếu ở độ cao ≤ 100m và sinh cảnh ưa thích là rừng thứ sinh nghèo thường xanh mưa ẩm trên núi đá vôi. Ước tính, mật độ quần thể Thạch sùng mí Cát Bà ở khu vực Trà Báu cao nhất (531 cá thể/km2), tiếp theo là các khu vực Áng Kê, khu vực rừng xung quanh trụ sở Vườn Quốc gia Cát Bà, khu vực Việt Hải, khu vực Giỏ Cùng và thấp nhất là khu vực Đầu Bê (28 cá thể/km2).Nhóm nghiên cứu khảo sát loài Thạch sùng mí Cát Bà trong khuôn khổ đề tàiNhóm nghiên cứu khảo sát loài Thạch sùng mí Cát Bà trong khuôn khổ đề tàiVới 525 mẫu cá thể Thạch sùng mí ghi nhận được, nhóm nghiên cứu nhận thấy, kích thước con đực trưởng thành thường lớn hơn con cái trưởng thành; các chỉ số đo hình thái khác ở con đực cũng lớn hơn so với con cái; trọng lượng con đực trưởng thành (đạt 16,39 ± 6,36g) lớn hơn con cái trưởng thành (đạt 15,38 ± 6,90g). Nhiệt độ trung bình tại các điểm ghi nhận Thạch sùng mí Cát Bà khoảng 19,2 - 32,40C; độ ẩm trung bình khoảng 63 - 96% tại các vách đá, hang hốc đá trong rừng trên núi đá vôi có chất lượng tốt, với độ che phủ cao khoảng 88,98 ± 21,50%.Các mối đe dọa với loài Thạch sùng mí Cát Bà được nhóm nghiên cứu ghi nhận gồm: săn bắt, buôn bán và sử dụng, phát triển du lịch thiếu kiểm soát, phá hủy sinh cảnh, biến đổi khí hậu. Theo đó, nhóm nghiên cứu đề xuất các giải pháp bảo tồn loài này với việc: đề xuất các địa điểm ưu tiên bảo tồn loài theo các tuyến khảo sát; các giải pháp về quản lý, cơ chế chính sách, tuần tra giám sát (sự quan tâm phối hợp của các ngành hữu quan, kiểm soát săn bắt và buôn bán, tuyên truyền giáo dục...); các giải pháp về nâng cao nhận thức, đề xuất các mô hình sinh kế cho cộng đồng dân cư với các đối tượng cán bộ quản lý, khách du lịch, người dân và học sinh; các giải pháp bảo tồn nguyên vị (bảo vệ sinh cảnh, bảo tồn quần thể, vùng cần ưu tiên bảo tồn) và các giải pháp bảo tồn chuyển vị (nhân nuôi sinh sản).Với kết quả nghiên cứu này, đề tài được Hội đồng khoa học đánh giá cao về tính khoa học, logic; số liệu phân tích, khảo sát có độ tin cậy cao; tuy nhiên cần làm rõ hơn các giải pháp giải quyết các mối nguy cơ, đe dọa loài hiện nay.
+    
+
+						Sở KH&CN thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Sản xuất thử nghiệm 2 giống mía mới K88-92 và K88-200 tại một số tỉnh vùng Đồng bằng sông Cửu Long
+
+						
+                    26/10/2021 16:42
+                
+
+
+	
+    
+Trong những năm qua, cây mía đã trải qua những giai đoạn thăng trầm, làm ảnh hưởng đến cuộc sống của người nông dân, giá cả luôn bấp bênh. Mặt khác, sản xuất mía thường có nhu cầu công lao động phổ thông lớn, trong khi đó lực lượng lao động nông thôn bị thu hút bởi các công ty nước ngoài nên thiếu hụt nhiều, giá nhân công tăng cao, đây là một trong những yếu tố góp phần đẩy giá thành tăng, công thu hoạch chiếm 20 – 25% giá bán 1 tấn mía (Bộ NN&PTNT, 2016). Ngoài ra, cây mía được trồng trên diện tích manh mún, nhỏ lẻ, địa hình phức tạp, nên việc áp dụng cơ giới hóa sẽ khó khăn hơn rất nhiều.Ngoài những yếu tố khách quan và chủ quan thì hiện nay sản xuất mía đường tại Đồng bằng sông Cửu Long cũng như một số vùng trong cả nước vẫn còn tồn tại nhiều bất cập, việc tiếp cận giống mía mới và tiếp thu các tiến bộ kỹ thuật, các yếu tố mới trong quy trình canh tác mía còn rất yếu, triển khai còn chậm và không chịu đầu tư. Để kéo dài thời gian khai thác của một giống trong sản xuất thì việc tổ chức sản xuất và nhân giống luôn giữ một vai trò đặc biệt quan trọng, khi trồng hom giống khỏe, đạt tiêu chuẩn chất lượng hom giống tốt, không bị sâu bệnh hại, sức sống mạnh hơn, đặc biệt thời gian mọc mầm sẽ nhanh hơn khi chúng ta sử dụng hom giống từ mía nguyên liệu (vì phải trải qua những giai đoạn chuyển hóa) mía mới mọc mầm trong thời gian này rủi ro xảy ra rất lớn (từ các yếu tố dưới mặt đất và hạn hán,…) và đây cũng là một trong những nguyên nhân làm mùa vụ trồng mía ngày càng muộn. Mặt khác, đất trồng mía trong vùng gần như là đất chua (độ pH thấp, đa số dưới 4,5), làm ảnh hưởng rất lớn đến việc hấp thu phân bón của bộ rễ, dẫn đến hiệu quả sử dụng phân bón không cao, mức chi phí đầu vào lớn, dẫn đến hiệu quả của sản xuất thấp, làm ảnh hưởng đến sức cạnh tranh của cây mía với các loại cây trồng có giá trị kinh tế khác.Ngoài ra, cũng như các loại cây trồng khác, việc cung cấp dinh dưỡng từ trước tới nay ở các vùng miền nói chung chủ yếu là yếu tố đa lượng, yếu tố trung và vi lượng gần như chưa được quan tâm lưu ý tới, do vậy làm ảnh hưởng lớn đến khả năng sinh trưởng, phát triển và khả năng chống chịu của cây, không phát huy hết được tiềm năng vốn có của vùng cũng như của các giống trong sản xuất. Tuy nhiên, để giúp người trồng mía nâng cao được hiệu quả sản xuất, tăng cường sức cạnh tranh của cây mía với các loại cây trồng khác, cũng như đối mặt với các yếu tố về biến đổi khí hậu thì quy trình canh tác mía phải không ngừng được cải thiện sao cho phù hợp với yêu cầu của thực tiễn và phù hợp với đặc điểm của các giống trong sản xuất để phát huy ưu điểm và hạn chế nhược điểm của giống, tăng cường khả năng sử dụng phân bón, nâng cao hiệu quả sản xuất.Xuất phát từ những khó khăn trên và trước yêu cầu cấp thiết của sản xuất, để góp phần bổ sung giống mía mới vào sản xuất, nâng cao hiệu quả và năng lực cạnh tranh của cây mía, ThS. Lê Thị Thường đến từ Viện Nghiên cứu Mía Đường cùng các đồng nghiệp thực hiện dự án “Sản xuất thử nghiệm 2 giống mía mới K88-92 và K88-200 tại một số tỉnh vùng Đồng bằng sông Cửu Long”.Sau một thời gian tiến hành nghiên cứu nghiêm túc và khoa học, đề tài đã thu được một số kết quả như sau:- Kết quả đánh giá từ các thử nghiệm về hoàn thiện quy trình nhân giống và quy trình thâm canh mía nguyên liệu trên giống K88-92 và K88-200 cho thấy các yếu tố cần hoàn thiện đều thể hiện được các ưu điểm vượt trội so với công thức đối chứng.- Mô hình sản xuất thử nhân giống có năng suất, từ 94 đến 110 tấn/ha/vụ, lãi thuần thu được trên 50 triệu đồng/ha và vượt mô hình đối chứng trên 20 triệu đồng/ha, giá thành giảm từ 43 đến 128 ngàn đồng/tấn mía giống.- Mô hình sản xuất thử thâm canh có năng suất trên 125 tấn/ha/vụ, vượt đối chứng 11 đến 23%, năng suất quy 10 CCS đạt trên 146 tấn/ha/vụ vượt mô hình đối chứng 15 đến 24%, lãi thuần vượt từ 14 đến 30 triệu đồng/ha, giá thành giảm từ 47 đến 140 ngàn đồng/tấn mía 10 CCS.- Các tiến bộ kỹ thuật được hoàn thiện dễ áp dụng trên diện rộng, mang lại hiệu quả kinh tế cao, tiết kiệm chi phí sản xuất, không bị lãng phí, cải tạo đất và sản xuất theo hướng bền vững.*Có thể tìm đọc toàn văn báo cáo kết quả nghiên cứu (Mã số 14303) tại Cục Thông tin khoa học và công nghệ quốc gia.
+    
+
+						Cục Thông tin KH&CN quốc gia
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Sản xuất thử nghiệm tôm thẻ chân trắng bằng công nghệ lọc tuần hoàn (RAS) tại Hải Phòng
+
+						
+                    19/10/2021 10:41
+                
+
+
+	
+    
+Dự án được phát triển dựa trên kết quả nghiên cứu của đề tài khoa học cấp thành phố mang tên “Nghiên cứu xây dựng mô hình tuần hoàn RAS nuôi tôm thẻ chân trắng cho năng suất cao phù hợp với vùng ven biển Hải Phòng” do chính tác giả Đỗ Mạnh Hào triển khai thực hiện.Ông Đỗ Mạnh Hào đang kiểm tra các thông số môi trường bể nuôi tômÔng Đỗ Mạnh Hào đang kiểm tra các thông số môi trường bể nuôi tômTrong dự án này, bên cạnh việc hoàn thiện và ứng dụng kết quả nhiệm vụ nghiên cứu khoa học trước vào thực tiễn, nhóm tác giả cũng đề xuất tích hợp sử dụng hệ thống quản lý, điều khiển thông minh để xử lý chất thải rắn nuôi tôm thẻ chân trắng đạt hiệu suất cao nhất, chất lượng tốt nhất.Công nghệ RAS có ưu điểm vượt trội là nước nuôi ít thải ra ngoài mà được đưa qua hệ thống lọc và tái tuần hoàn vào bể nuôi nên ít phụ thuộc vào nguồn nước cấp, không gây ô nhiễm môi trường. Môi trường nuôi được kiểm soát một cách chủ động, hạn chế các sự cố trong quá trình nuôi, ít phải sử dụng nhiều hóa chất và các loại kháng sinh. Do đó sẽ cho ra sản phẩm sạch và không có dư lượng kháng sinh, năng suất ổn định.Tại hội nghị tư vấn thuyết minh dự án tổ chức vào ngày 16/10 tại Sở Khoa học và Công nghệ thành phố Hải Phòng, các thành viên hội đồng đã đưa ra nhiều ý kiến giúp Ban chủ nhiệm nhiệm vụ hoàn thiện thuyết minh như: xem xét phát triển quy mô dự án; hoàn thiện quy trình nuôi; xây dựng sơ đồ khối thông minh để điều khiển theo chu kỳ hoặc theo thời gian thực; đánh giá cụ thể các chỉ tiêu, năng suất đạt được và nêu rõ đơn vị nhận chuyển giao công nghệ…Dự án dự kiến sẽ được triển khai trong 2 năm từ 2021-2023.
+    
+
+						Sở KH&CN thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Mô hình trồng cam - nuôi ong ở huyện miền núi biên giới Vũ Quang
+
+						
+                    18/10/2021 11:03
+                
+
+
+	
+    
+Nguồn gen quýNguồn gen quýCam Vũ Quang được trồng tại khu vực chủ yếu ở dạng đồi núi thấp. Nguồn: Phòng Nông nghiệp huyện Vũ QuangCam Vũ Quang được trồng tại khu vực chủ yếu ở dạng đồi núi thấp. Nguồn: Phòng Nông nghiệp huyện Vũ QuangCam Vũ Quang được trồng tại khu vực chủ yếu ở dạng đồi núi thấp. Nguồn: Phòng Nông nghiệp huyện Vũ QuangVới lợi thế về tiềm năng đất đai, những năm qua, huyện Vũ Quang - huyện miền núi biên giới đầu tiên của cả nước được công nhận đạt chuẩn huyện nông thôn mới vào năm 2020 - đã nỗ lực phát triển cây cam không chỉ như một loại cây xóa đói giảm nghèo mà còn là cây làm giàu. Hiện sản lượng cam ở Vũ Quang chiếm khoảng 35% sản lượng cam của toàn tỉnh Hà Tĩnh.Cam Vũ Quang gồm các loại giống có nguồn gen quý, phù hợp với điều kiện sinh thái đặc thù nên có chất lượng tốt. Được trồng tại khu vực chủ yếu ở dạng đồi núi thấp, độ dốc dưới 25o, tầng đất canh tác dày, thoáng khí, cam có hàm lượng dinh dưỡng cao. Năm 2017, tham gia Lễ hội Cam và Nông sản toàn tỉnh lần thứ nhất, cam Vũ Quang đoạt giải đặc biệt về chất lượng.Cam Vũ Quang gồm các loại giống có nguồn gen quý, phù hợp với điều kiện sinh thái đặc thù nên có chất lượng tốt. Được trồng tại khu vực chủ yếu ở dạng đồi núi thấp, độ dốc dưới 25o, tầng đất canh tác dày, thoáng khí, cam có hàm lượng dinh dưỡng cao. Năm 2017, tham gia Lễ hội Cam và Nông sản toàn tỉnh lần thứ nhất, cam Vũ Quang đoạt giải đặc biệt về chất lượng.Cam Vũ Quang từng đoạt giải đặc biệt về chất lượng tại Lễ hội Cam và Nông sản toàn tỉnh lần thứ nhất, năm 2017. Nguồn: Phòng Nông nghiệp huyện Vũ QuangCam Vũ Quang từng đoạt giải đặc biệt về chất lượng tại Lễ hội Cam và Nông sản toàn tỉnh lần thứ nhất, năm 2017. Nguồn: Phòng Nông nghiệp huyện Vũ QuangCam Vũ Quang từng đoạt giải đặc biệt về chất lượng tại Lễ hội Cam và Nông sản toàn tỉnh lần thứ nhất, năm 2017. Nguồn: Phòng Nông nghiệp huyện Vũ QuangMột số giống cam quý hiện nay trên địa bàn huyện Vũ Quang có thể kể đến:- Cam chanh: Là giống cam Xã Đoài, nguồn gốc từ vùng Xã Đoài, huyện Nghi Lộc, Nghệ An. Đưa lên vùng núi cao Vũ Quang, mã quả đẹp hơn, có phẩm chất quả thơm ngon, vị ngọt đậm, trồng được ở nhiều loại đất, quả chín có màu xanh vàng, bề mặt vỏ tròn nhẵn, quả hình cầu, thịt quả màu vàng tươi, nhiều nước. Năng suất cao, khối lượng quả trung bình 200 - 250 gr/quả, có 18 - 22 hạt/quả, thu hoạch vào cuối tháng 10 đến tháng 12 hằng năm.- Cam V2 (Valencia 2): Được chọn tạo từ giống Valencia Olinda, là giống cam ngọt chín muộn, khả năng thích nghi rộng, kháng bệnh tốt. Cây phân cành đều, cân đối, khả năng ra hoa đậu quả cao. Quả gần như không hạt (từ 0 đến 6 hạt, trung bình 4,5 hạt/quả trong điều kiện trồng xen). Quả dễ bảo quản và bảo quản được lâu trên cây. Quả to trung bình (190 - 250 gr/quả), hàm lượng nước cao, tỷ lệ xơ thấp, thơm, ngọt đậm, chín từ tháng 12 đến tháng 3 năm sau.- Giống cam bù Hà Tĩnh: Cây cao trung bình, khối lượng quả 180 - 220 gr, có 3 - 12 hạt/quả, ngọt đậm. Quả chín vào tháng 12 - 2. Cây cam bù là cây trồng bản địa, được xếp hạng là một trong những giống cam ngon nhất hiện có của Việt Nam, đã được người dân trồng hàng trăm năm nay. Trên địa bàn huyện, cam bù chủ yếu được trồng tại xã Sơn Thọ và Đức Lĩnh, sau đó được phát triển ra một số địa phương khác.Mô hình 2 trong 1Khoảng một nửa diện tích trồng cam trong huyện được kết hợp với việc nuôi ong lấy mật, tăng khả năng thụ phấn cho cây, giảm thiểu sử dụng thuốc bảo vệ thực vật. Nguồn: Phòng Nông nghiệp huyện Vũ QuangKhoảng một nửa diện tích trồng cam trong huyện được kết hợp với việc nuôi ong lấy mật, tăng khả năng thụ phấn cho cây, giảm thiểu sử dụng thuốc bảo vệ thực vật. Nguồn: Phòng Nông nghiệp huyện Vũ QuangKhoảng một nửa diện tích trồng cam trong huyện được kết hợp với việc nuôi ong lấy mật, tăng khả năng thụ phấn cho cây, giảm thiểu sử dụng thuốc bảo vệ thực vật. Nguồn: Phòng Nông nghiệp huyện Vũ QuangToàn huyện Vũ Quang hiện có gần 2.600 ha cam, trong đó gần 2.000 ha cho thu hoạch. Đặc biệt, hơn 5.500 hộ trồng cam, đang canh tác trên khoảng gần một nửa tổng diện tích trồng cam trong cả huyện, đã kết hợp nuôi hơn 9.000 đàn ong lấy mật. Cái được lớn nhất mà người trồng cam ở địa phương có được khi thực hiện mô hình này đó là những kiến thức hữu ích trong việc sử dụng phân bón cân đối, hợp lý, giảm thiểu ô nhiễm môi trường, hạn chế rửa trôi, xói mòn đất.Việc đặt các đàn ong dưới tán cây cam được chứng minh là quá trình sản xuất an toàn, thúc đẩy mối quan hệ công bằng sinh học, thúc đẩy việc sử dụng bền vững đất - nước - không khí cũng như giảm thiểu tất cả các dạng ô nhiễm có thể phát sinh từ các hoạt động nông nghiệp. Nhờ đó, nuôi ong mật trong vườn cam không chỉ tăng thêm nguồn thu mà còn tăng khả năng thụ phấn cho cây, giảm thiểu sử dụng thuốc bảo vệ thực vật, góp phần cải thiện môi trường sinh thái.Cam ngon lên “sàn”Bộ trưởng NN&PTNT Lê Minh Hoan với sản phẩm cam Vũ Quang trong chuyến thăm và làm việc tại huyện Vũ Quang hôm 14/10/2021. Nguồn: Phòng Nông nghiệp huyện Vũ QuangBộ trưởng NN&PTNT Lê Minh Hoan với sản phẩm cam Vũ Quang trong chuyến thăm và làm việc tại huyện Vũ Quang hôm 14/10/2021. Nguồn: Phòng Nông nghiệp huyện Vũ QuangBộ trưởng NN&PTNT Lê Minh Hoan với sản phẩm cam Vũ Quang trong chuyến thăm và làm việc tại huyện Vũ Quang hôm 14/10/2021. Nguồn: Phòng Nông nghiệp huyện Vũ QuangNăm nay, nhờ thời tiết thuận lợi, cộng với việc người dân chủ động chăm sóc và tuân thủ hướng dẫn kỹ thuật nên cam Vũ Quang cho năng suất cao (15 tấn/ha). Ước tính, sản lượng cam của toàn huyện đạt khoảng gần 30.000 tấn (tăng hơn 10.000 tấn so với năm 2020). Đây cũng là vụ cam được mùa nhất từ trước đến nay.Chất lượng sản phẩm cam Vũ Quang vụ này đã được nâng cao vì người trồng chú trọng kỹ thuật; diện tích theo tiêu chuẩn VietGap cũng được mở rộng, hiện vào khoảng 1.000 ha và dự kiến đạt 1.490 ha vào năm 2025.Giá bán cam Vũ Quang giao động từ 10 nghìn đồng/kg đến 30 nghìn đồng/kg, tùy loại. Nếu bán được mức giá bình quân khoảng 20 nghìn đồng/kg thì vụ này, nông dân Vũ Quang sẽ thu về khoảng 600 tỷ đồng.Năm nay, cam Vũ Quang cho năng suất cao (15 tấn/ha), được mùa nhất từ trước đến nay. Nguồn: Phòng Nông nghiệp huyện Vũ QuangNăm nay, cam Vũ Quang cho năng suất cao (15 tấn/ha), được mùa nhất từ trước đến nay. Nguồn: Phòng Nông nghiệp huyện Vũ QuangNăm nay, cam Vũ Quang cho năng suất cao (15 tấn/ha), được mùa nhất từ trước đến nay. Nguồn: Phòng Nông nghiệp huyện Vũ QuangNăm nay, cam Vũ Quang cho năng suất cao (15 tấn/ha), được mùa nhất từ trước đến nay. Nguồn: Phòng Nông nghiệp huyện Vũ QuangThời điểm hiện tại, vựa cam của Vũ Quang đã bắt đầu vào vụ thu hoạch. Để chủ động đầu ra, các địa phương, nhà vườn đã liên hệ các đầu mối tiêu thụ quen ở TP Vinh, Huế, Đà Nẵng... Đến nay, khách hàng đã liên hệ đặt mua một số lượng đáng kể.Về phía huyện, để hỗ trợ người dân tiêu thụ cam trong bối cảnh dịch Covid-19 diễn biến phức tạp, cấp ủy, chính quyền huyện đã xây dựng kế hoạch và các giải pháp toàn diện.Cụ thể, huyện đã chỉ đạo ngành nông nghiệp, Hội Nông dân, Hội Phụ nữ tổ chức các buổi hội thảo về liên kết chuỗi, hỗ trợ bà con nông dân livestream bán hàng online và quảng bá hình ảnh cam Vũ Quang trên các trang mạng xã hội.Bên cạnh đó, huyện còn phối hợp với Sở Công Thương làm việc với Bộ Công Thương và các sàn thương mại điện tử lớn để xây dựng gian hàng cam Vũ Quang trên Voso.vn (Viettel), Postmart.vn (Tổng Công ty Bưu điện Việt Nam), Hatiplaza.com (Sàn Thương mại điện tử Hà Tĩnh); đồng thời thúc đẩy thực hiện truy xuất nguồn gốc điện tử đối với sản phẩm cam Vũ Quang để thuận lợi cho việc kết nối lên các sàn giao dịch thương mại điện tử và tiếp cận các siêu thị, cửa hàng lớn trong và ngoài tỉnh.Huyện cũng cho rà soát đối tượng chủ phương tiện vận chuyển nông sản, chủ nhà vườn để ưu tiên tiêm phòng vaccine Covid-19; và hướng dẫn các cơ sở tuân thủ các quy định của Sở Giao thông, Sở Y tế về công tác phòng, chống dịch.Hy vọng rằng, với sự chủ động chuẩn bị trước các giải pháp, sản phẩm cam Vũ Quang sẽ được tiêu thụ ổn định khi vào chính vụ.
+    
+
+						Nguyễn Trường Thọ - Trưởng phòng Nông nghiệp huyện Vũ Quang
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Chung kết cuộc thi Ý tưởng Khởi nghiệp đổi mới sáng tạo Đại học Huế
+
+						
+                    17/10/2021 06:10
+                
+
+
+	
+    
+Nhóm dự án Flexars ký kết hợp đồng thúc đẩy tăng tốc khởi nghiệp với Đại học Huế | Ảnh: BTCCuộc
+thi bắt đầu từ tháng 6/2021 với hơn 40 ý tưởng
+đăng ký tham gia của sinh viên trong và ngoài Đại học Huế.Trải qua 4
+vòng thi: Ý tưởng, Phát triển dự án, Bán kết - Bảo vệ dự án và Chung kết - Gọi
+vốn đầu tư, Ban Tổ chức đã lựa chọn 08 ý
+tưởng dự án xuất sắc nhất bước tiếp vào vòng Chung kết.Các ý tưởng này chủ yếu về các dịch vụ
+y tế, du lịch, kỹ thuật công nghệ…Kết quả chung cuộc, giảiNhất thuộc về nhóm dự án "FlexarS - Nền tảng thuê ngoài trực tuyến" từ trường Đại học Y dược và trường Đại học Kinh tế, Đại học Huế”.Giải Nhì thuộc về nhóm dự án "HUẾ TRIP - Dịch vụ cắm trại và trải nghiệm Huế" từ trường Du lịch, trường Đại học Ngoại ngữ và trường Đại học Luật, Đại học Huế.Giải Ba thuộc về hai nhóm dự án "LAW-Tư vấn pháp luật cộng đồng" của trường Đại học Luật, Đại học Huế và dự án“FarmStay - Nông trại trải nghiệm" của trường Đại học Kinh tế, Đại học Huế.Trung tâm Khởi nghiệp và Đổi mới sáng tạo của Đại học Huế cho biết họ đã ký hợp đồng ươm tạo nhằm thúc đẩy, phát triển nhóm dự án Flexars.Nhóm dự án Flexars ký kết hợp đồng thúc đẩy tăng tốc khởi nghiệp với Đại học Huế | Ảnh: BTCNhóm dự án Flexars ký kết hợp đồng thúc đẩy tăng tốc khởi nghiệp với Đại học Huế | Ảnh: BTC
+    
+
+						Đăng Vinh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Bộ Khoa học và Công nghệ đồng hành cùng tỉnh Quảng Ninh tìm giải pháp KH&CN quản lý tổng hợp bệnh hại trên cây Ba Kích
+
+						
+                    14/10/2021 09:50
+                
+
+
+	
+    
+Tại tỉnh Quảng Ninh, Ba kích là một trong số các cây lâm sản ngoài gỗ quan trọng được UBND tỉnh xác định là một trong 17 vùng sản xuất tập trung của tỉnh. Cùng với sản phẩm Trà hoa vàng, Ba kích đã được tỉnh đăng ký là sản phẩm OCOP cấp quốc gia.Tuy nhiên, thực tế sản xuất ba kích tại tỉnh Quảng Ninh nói riêng và các tỉnh khác trên cả nước nói chung đang gặp nhiều trở ngại lớn. Năm 2020, tại huyện Ba Chẽ, Hợp tác xã Toàn Dân đã có khoảng 100 ha ba kích bị chết không rõ nguyên nhân, tỷ lệ bệnh trung bình cao nhất từ 40-50%, có những vườn tỷ lệ bệnh lên đến 70% và thậm chí không cho thu hoạch. Tại huyện Hoành Bồ, từ năm 2014 đến nay, chỉ tính riêng diện tích trồng ba kích của Công ty Cổ phần Công nghệ xanh Đông Sơn, hiện tượng cây chết vẫn chưa có chiều hướng giảm, tỷ lệ bệnh từ 20-30%.Củ và cây ba kích bị nhiễm bệnh (tại Quảng Ninh).Củ và cây ba kích bị nhiễm bệnh (tại Quảng Ninh).Theo khảo sát, đánh giá ban đầu của Viện Bảo vệ thực vật tại Quảng Ninh và một số tỉnh phía Bắc cho thấy, tuyến trùng và sinh vật hại vùng rễ/củ ba kích xuất hiện rất phổ biến trên các vườn trồng ba kích. Đây là những đối tượng gây hại mới nổi với mức nguy hiểm cao, gây thiệt hại rất lớn đối với sản xuất ba kích. Do tuyến trùng trực tiếp gây tổn thương nghiêm trọng bộ rễ/củ, làm mất khả năng hút nước và dinh dưỡng của cây. Những vết thương do tuyến trùng gây ra tạo điều kiện thuận lợi để nhiều đối tượng vi sinh vật khác xâm nhập, gây bệnh và làm cho cây chết nhanh hơn. Trước sự phát sinh, phát triển của sâu bệnh hại, nhiều nông dân phải chuyển đổi trồng ba kích sang một số loại cây trồng khác, dện tích trồng ba kích đang dần bị thu hẹp.Để giúp người dân có được giải pháp quản lý, phòng chống tổng hợp tuyến trùng và sinh vật có nguồn gốc trong đất hại cây ba kích tạo sản phẩm ba kích có chất lượng tốt. Trên cơ sở đề xuất của UBND tỉnh Quảng Ninh, Vụ Phát triển KH&CN địa phương đã phối hợp với các đơn vị liên quan tham mưu cho Bộ KH&CN đồng hành cùng tỉnh Quảng Ninh, huy động các nhà khoa học tìm kiếm giải pháp khoa học và công nghệ nhằm giải quyết một cách bền vững vấn đề bệnh hại trên cây ba kích thông qua nhiệm vụ khoa học và công nghệ cấp quốc gia “Nghiên cứu giải pháp khoa học và công nghệ quản lý tổng hợp một số bệnh chính có nguồn gốc trong đất hại cây ba kích tại Quảng Ninh và một số tỉnh phía Bắc”. Hy vọng rằng, kết quả của nhiệm vụ sẽ góp phần phát triển ổn định vùng chuyên canh cây ba kích tại Quảng Ninh và một số tỉnh phía Bắc nước ta.
+    
+
+						Vụ Phát triển KH&CN địa phương
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Thúc đẩy ứng dụng và chuyển giao công nghệ tại Vĩnh Phúc
+
+						
+                    14/10/2021 09:35
+                
+
+
+	
+    
+Tham dự buổi làm việc, về phía Cục Ứng dụng và Phát triển công nghệ có ông Phạm Thế Dũng - Phó Cục trưởng, lãnh đạo và chuyên viên phòng, đơn vị liên quan; phía Trung tâm Ứng dụng tiến bộ Khoa học và Công nghệ tỉnh Vĩnh Phúc (Trung tâm) có bà Nguyễn Thị Tĩnh - Giám đốc Trung tâm, lãnh đạo các phòng chuyên môn thuộc Trung tâm.Qua báo cáo về tình hình hoạt động của Trung tâm, trong những năm qua Trung tâm đã chú trọng đến hoạt động dịch vụ các sản phẩm khoa học và công nghệ, hiện Trung tâm đã làm chủ được được một số công nghệ như: công nghệ giống và sản xuất thương phẩm các sản phẩm nấm ăn, nấm dược liệu (đông trùng hạ thảo, nấm linh chi, nấm vân chi); công nghệ nuôi cấy mô tế bào để sản xuất một số giống cây trồng sạch bệnh, giống hoa,... Các sản phẩm dịch vụ của Trung tâm được giới thiệu tại cửa hàng giới thiệu sản phẩm khoa học và công nghệ của Trung tâm và được giới thiệu trên sàn thương mại điện tử. Bên cạnh các sản phẩm tự sản xuất, Trung tâm đã phối hợp, liên kết với một số Trung tâm Ứng dụng tiến bộ KH&CN của một số tỉnh, thành phố trong cả nước (Hải Phòng, Nghệ An, Phú Yên,...) trong việc giới thiệu, tiêu thụ các sản phẩm khoa học và công nghệ của các Trung tâm, góp phần đa dạng các sản phẩm kinh doanh dịch vụ, đồng thời mở rộng phạm vi tiêu thụ sản phẩm của các Trung tâm... Do vậy, doanh thu từ các sản phẩm, kinh doanh dịch vụ, tư vấn chuyển giao công nghệ của Trung tâm đạt khoảng trên dưới 1 tỷ đồng/năm.Trung tâm đề xuất với Bộ Khoa học và Công nghệ sớm ban hành Thông tư hướng dẫn thực hiện các quy định tại Nghị định 60/2021/NĐ-CP ngày 21/6/2021 quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập; ban hành định mức kinh tế kỹ thuật cho các dịch vụ sự nghiệp công sử dụng ngân sách nhà nước theo Quyết định số 2099/QĐ-TTg ngày 27/12/2017 của Thủ tướng Chính phủ để địa phương có cơ sở vận dụng. Đối với Cục Ứng dụng và Phát triển công nghệ, Trung tâm đề nghị hỗ trợ về thông tin công nghệ, chuyên gia công nghệ trong lĩnh vực chế biến và bảo quản sau thu hoạch; hướng dẫn Trung tâm tham gia một số Chương trình khoa học và công nghệ cấp quốc gia; tham gia các khóa đào tạo, tập huấn nâng cao trình độ chuyên môn nghiệp vụ trong và ngoài nước,…Hình ảnh tại đầu cầu tại Cục Ứng dụng và Phát triển công nghệHình ảnh tại đầu cầu tại Cục Ứng dụng và Phát triển công nghệTại buổi làm việc, Phó Cục trưởng Phạm Thế Dũng đánh giá cao các kết quả hoạt động ứng dụng và chuyển giao công nghệ của Trung tâm, đã hoàn thành tốt các nhiệm vụ được giao, hoạt động dịch vụ có nhiều đổi mới, sáng tạo đảm bảo hiệu quả, tạo việc làm và thu nhập ổn định cho cán bộ Trung tâm trong điều kiện bị ảnh hưởng của dịch bệnh Covid-19. Trong thời gian tới, phía Cục sẽ chỉ đạo phòng chuyên môn tiếp tục nghiên cứu, phối hợp với các Trung tâm địa phương hoàn thiện đề án thúc đẩy hoạt động ứng dụng và chuyển giao công nghệ, Trung tâm hỗ trợ chuyển giao công nghệ thuộc Cục hỗ trợ Trung tâm đề xuất nhiệm vụ nghiên cứu ứng dụng một số kết quả RD vào sản xuất theo nhu cầu của địa phương. Đối với Trung tâm Ứng dụng tiến bộ KH&CN tỉnh Vĩnh Phúc cần tiếp tục đẩy mạnh ứng dụng một số công nghệ trong sản xuất nấm ăn, nấm dược liệu từ đó hình thành các sản phẩm có thương hiệu trong và ngoài tỉnh; tăng cường hoạt động liên kết với các Trường đại học, Viện nghiên cứu, tổ chức khoa học và công nghệ có kết quả nghiên cứu trong lĩnh vực nông nghiệp phù hợp đặc thù của tỉnh, nhằm phát triển các sản phẩm chủ lực của tỉnh; đầu tư nguồn lực, để nâng cao chất lượng và mở rộng dịch vụ trong hoạt động ứng dụng, chuyển giao và đổi mới công nghệ tại địa phương./.
+    
+
+						Cục Ứng dụng và Phát triển công nghệ
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Thừa Thiên Huế: Ký kết hợp tác thực hiện Đề án Cố đô Khởi nghiệp giai đoạn 2021-2025
+
+						
+                    11/10/2021 15:30
+                
+
+
+	
+    
+Ông Hồ Thắng - Giám đốc Sở KH&CN và ông Bùi Đức Lợi - Chủ tịch Tập đoàn Vicoland ký kết hợp tác thực hiện Đề án Cố đô Khởi nghiệp, giai đoạn 2021-2025 trên địa bàn tỉnh Thừa Thiên Huế. | Ảnh: BTCÔng Hồ Thắng - Giám đốc Sở KH&CN và ông Bùi Đức Lợi - Chủ tịch Tập đoàn Vicoland ký kết hợp tác thực hiện Đề án Cố đô Khởi nghiệp, giai đoạn 2021-2025 trên địa bàn tỉnh Thừa Thiên Huế. | Ảnh: BTCÔng Hồ Thắng - Giám đốc Sở KH&CN và ông Bùi Đức Lợi - Chủ tịch Tập đoàn Vicoland ký kết hợp tác thực hiện Đề án Cố đô Khởi nghiệp, giai đoạn 2021-2025 trên địa bàn tỉnh Thừa Thiên Huế. | Ảnh: BTCTại buổi lễ ký kết, Sở KH&CN Thừa Thiên Huế, đã chia sẻ tầm nhìn, mục đích và mong muốn hợp tác để thu hút nguồn lực trong nước, quốc tế, với mục tiêu đến năm 2030 đưa địa phương trở thànhmột trong những trung tâm về khởi nghiệp đổi mới sáng tạo (KNĐMST) quốc gia khu vực miền Trung - Tây Nguyên.Thừa Thiên Huế cho biết việc hợp tác với các doanh nghiệp như Tập đoàn Vicoland sẽ giúp tận dụng được lợi thế của các bên, thúc đẩy sự phát triển của Hệ sinh thái KHĐMST của tỉnh theo định hướng Đề án Cố đô Khởi nghiệp. Đây là một trong những Đề án quan trọng của tỉnh với mục tiêu sẽ hỗ trợ ít nhất 10 ý tưởng, dự án khởi nghiệp, 5 doanh nghiệp khởi nghiệp trên địa bàn tỉnh nhằm phát triển thương mại hóa sản phẩm từ nay đến năm 2025.Nội dung hợp tác của hai bên bao gồm:1. Hợp tác tổ chức các sự kiện khởi nghiệp, như Ngày hội KNĐMST tỉnh, Techfest vùng, hội thảo khởi nghiệp và các chương trình nâng cao năng lực cho KNĐMST, cuộc thi KNĐMST hàng năm. Trong đó, Tập đoàn Vicoland sẽ đồng hành công tác tổ chức, tài trợ tùy theo quy mô và tình hình thực tế.2. Phát triển không gian KNĐMST, trong đó Sở KH&CN sẽ hỗ trợ về nội dung, chuyên gia tư vấn, kết nối các chương trình; Tập đoàn Vicoland cung cấp không gian mặt bằng triển khai các hoạt động, kết nối các nguồn lực sẵn có, phù hợp của Vicoland cho các hoạt động phát triển Hệ sinh thái khởi nghiệp.3. Phối hợp, cùng kết nối tìm kiếm các nguồn lực đào tạo, ươm tạo, tư vấn công nghệ và kinh doanh, phát triển thị trường, truyền thông... dựa trên tình hình nhu cầu thực tế của dự án và khả năng, nguồn lực của mỗi bên.4. Tập đoàn Vicoland sử dụng Quỹ đầu tư Khởi nghiệp sáng tạo để đầu tư cho các dự án KNĐMST. Kết nối và hỗ trợ hình thành mạng lưới các quỹ đầu tư mạo hiểm trong nước và quốc tế.5. Hợp tác tổ chức, triển khai các hoạt động xây dựng, kết nối hệ sinh thái KNĐMST tỉnh Thừa Thiên Huế với khu vực miền Trung - Tây Nguyên.6. Phối hợp tổ chức các hoạt động truyền thông phát triển mạnh, đa dạng hóa kênh thông tin, truyền thông về KNĐMST và tổ chức các hình thức ghi nhận, tôn vinh những tấm gương, doanh nghiệp khởi nghiệp thành công trên địa bàn tỉnh Thừa Thiên Huế.4. Tập đoàn Vicoland sử dụng Quỹ đầu tư Khởi nghiệp sáng tạo để đầu tư cho các dự án KNĐMST. Kết nối và hỗ trợ hình thành mạng lưới các quỹ đầu tư mạo hiểm trong nước và quốc tế.5. Hợp tác tổ chức, triển khai các hoạt động xây dựng, kết nối hệ sinh thái KNĐMST tỉnh Thừa Thiên Huế với khu vực miền Trung - Tây Nguyên.6. Phối hợp tổ chức các hoạt động truyền thông phát triển mạnh, đa dạng hóa kênh thông tin, truyền thông về KNĐMST và tổ chức các hình thức ghi nhận, tôn vinh những tấm gương, doanh nghiệp khởi nghiệp thành công trên địa bàn tỉnh Thừa Thiên Huế.
+    
+
+						Theo Sở KH&CN Thừa Thiên Huế
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Bà Rịa – Vũng Tàu: Thi giải pháp đổi mới sáng tạo nghề cá 
+
+						
+                    11/10/2021 13:22
+                
+
+
+	
+    
+Cuộc thi có tên "Đổi mới sáng tạo ngành khai thác và chế biến hải sản tỉnh Bà Rịa – Vũng Tàu năm 2021" với phương châm "Đổi mới sáng tạo - khai phá tiềm năng".Đối tượng dự thi là các cá nhân, nhóm cá nhân, tổ chức, doanh nghiệp, nhà nghiên cứu trong và ngoài nước.Nội dung dự thi bao gồm tất cả các giải pháp công nghệ và đổi mới sáng tạo, hướng tới nâng cao giá trị, giải quyết vấn đề trong các công đoạn của chuỗi cung ứng ngành khai thác và chế biến hải sản như: nuôi trồng, khai thác, bảo quản và chế biến, thương mại hóa sản phẩm,... Trong đó đặc biệt quan tâm đến các giải pháp trong chuyển đổi số, nhằm giải quyết các vấn đề của thị trường như: phương pháp đánh bắt thông minh; giải pháp theo dõi, quản lý, truy xuất nguồn gốc, bảo quản, phân phối, dự báo; giải pháp từ tàu cá lên bàn ăn, thị trường số,...Tìm giải pháp đánh bắt thông minh là một trong những mục tiêu mà Cuộc thi hướng đến.Ảnh: InternetTìm giải pháp đánh bắt thông minh là một trong những mục tiêu mà Cuộc thi hướng đến.Ảnh: InternetTìm giải pháp đánh bắt thông minh là một trong những mục tiêu mà Cuộc thi hướng đến.Ảnh: InternetHồ sơ dự thi được chấm điểm dựa trên một số tiêu chí như: Khả năng ứng dụng và phát triển công nghệ trong giải pháp; Tính đổi mới sáng tạo của giải pháp; Tác động và ý nghĩa về kinh tế - xã hội - môi trường...Cuộc thi sẽ trao: 1 giải nhất trị giá 50 triệu đồng; 4 giải tiềm năng, mỗi giải trị giá 20 triệu đồng. Bên cạnh đó, các giải pháp vào chung kết đều được hỗ trợ cố vấn, huấn luyện để hoàn thiện.Người dự thi đăng ký trực tuyến tại website, hoặc gửi trực tiếp tới Văn phòng Thúc đẩy khởi nghiệp đổi mới sáng tạo tỉnh Bà Rịa – Vũng Tàu (Số 4 Xuân Diệu, Phường 7, TP Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu. Email: startup.brvt@gmail.com - Số điện thoại: 0254.650.1999 - 0977.337.792); thời gian nhận hồ sơ đến hết ngày 15/11/2021.Tìm hiểu thêm về Cuộc thi tại đây.
+    
+
+						Kiều Anh 
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Thông báo về việc tuyển chọn tổ chức, cá nhân chủ trì thực hiện nhiệm vụ KH&CN lần 1 năm 2021
+
+						
+                    30/09/2021 13:40
+                
+
+
+	
+    
+1. Nhiệm vụ: Nghiên cứu, ứng dụng công nghệ chế biến sâu quả bơ LĐ 034 tại Lâm Đồng* Mục tiêu:- Xây dựng 01 mô hình bảo quản quả bơ sau thu hoạch có công suất 15 tấn quả/ngày.- Xây dựng 01 mô hình chế biến quả bơ thành sản phẩm: tinh dầu bơ, bột bơ.- Hình thành 01 mô hình liên kết kiểu mẫu giữa nông dân, doanh nghiệp chế biến và doanh nghiệp tiêu thụ.* Sản phẩm:- Báo cáo kết quả điều tra hiện trạng sản xuất, thu hoạch, sơ chế, bảo quản quả bơ tại Lâm Đồng.- Quy trình bảo quản quả bơ sau thu hoạch, quy trình công nghệ chế biến tinh dầu bơ, bột bơ và các thiết bị được chuyển giao cho doanh nghiệp.- 01 mô hình bảo quản quả bơ sau thu hoạch công suất 15 tấn quả/ngày;- 01 mô hình chế biến tinh dầu bơ, bột bơ: Sản phẩm 200 lít tinh dầu bơ, 2000 kg bột bơ (độ ẩm 8%, độ mịn 800-100 mesh) đảm bảo chất lượng vệ sinh an toàn thực phẩm và đảm bảo quy định tại Nghị định 15/2018/NĐ-CP của chính phủ.- 01 mô hình liên kết kiểu mẫu giữa nông dân, doanh nghiệp chế biến và doanh nghiệp tiêu thụ.- Bản đăng ký chất lượng sản phẩm bơ chế biến sâu.- Hợp đồng liên kết tiêu thụ sản phẩm trái bơ LĐ 034 giữa doanh nghiệp chế biến và hộ dân.- 01 thạc sĩ, 01 - 02 bài báo khoa học trên tạp chí chuyên ngành.2. Nhiệm vụ: Ứng dụng công nghệ “Sông trong ao” của Isarel để xây dựng mô hình nuôi cá tầm thương phẩm thích hợp với điều kiện tỉnh Lâm Đồng.* Mục tiêu:Xây dựng 01 mô hình nuôi cá tầm trong hệ thống “sông trong ao” theo công nghệ Isarel (diện tích 0,6 ha; 3 máng nuôi 125m2/ máng, khối lượng bình quân cá thương phẩm đạt 2kg/con, năng suất đạt 2,5 tấn/máng nuôi)* Sản phẩm:- Quy trình xây dựng, lắp đặt và vận hành được hệ thống sông trong ao.- Quy trình công nghệ nuôi thương phẩm cá tầm trong hệ thống “sông trong ao” tại Lâm Đồng.- 01 mô hình nuôi cá tầm trong hệ thống sông trong ao. Diện tích 0,6 ha; 3 máng nuôi 125m2/ máng, khối lượng bình quân cá thương phẩm đạt 2kg/con, năng suất đạt 2,5 tấn/máng nuôi.- 10 kỹ thuật viên được tập huấn chuyển giao kỹ thuật, 50 lượt người tham dự hội thảo giới thiệu kết quả nghiên cứu của đề tài.- 01-02 bài báo đăng trên tạp chí chuyên ngành.3. Nhiệm vụ: Ứng dụng công nghệ 4.0 trong xây dựng Bộ dư địa chí các dân tộc thiểu số tỉnh Lâm Đồng* Mục tiêu:Ứng dụng công nghệ 4.0 trong xây dựng Bộ dư địa chí các dân tộc thiểu số tỉnh Lâm Đồng phục vụ công tác lưu trữ, tìm hiểu, nghiên cứu thông tin của các tổ chức, cá nhân liên quan.* Sản phẩm:- Bộ dư địa chí các dân tộc thiểu số tỉnh Lâm Đồng;- Danh mục số hóa toàn bộ hệ thống di sản văn hóa của đồng bào dân tộc thiểu số tỉnh Lâm Đồng.- Hệ thống phầm mềm quản lý bộ dư địa chí các dân tộc thiểu số tỉnh Lâm Đồng;- Định mã QR code kết quả thông tin của các dân tộc thiểu số tỉnh Lâm Đồng.- 02 bài báo đăng trên Tạp chí khoa học chuyên ngành.Hồ sơ đăng ký tham gia tuyển chọn: theo mẫu quy định đăng trên website http://skhcn.lamdong.gov.vn/ gồm:- Bản sao giấy chứng nhận đăng ký hoạt động khoa học và công nghệ của tổ chức đăng ký chủ trì;- Đơn đăng ký chủ trì thực hiện nhiệm vụ KH&CN;- Bản thuyết minh đề cương theo mẫu quy định;- Lý lịch khoa học của chủ nhiệm và các thành viên;- Tóm tắt hoạt động KH&CN của tổ chức;- Quyết định cử chủ nhiệm nhiệm vụ của cơ quan chủ trì;- Văn bản xác nhận đồng ý của tổ chức phối hợp (nếu có);- Các văn bản pháp lý chứng minh khả năng huy động vốn (nếu có).Dự toán kinh phí thực hiện theo Quyết định 46/2016/QĐ-UBND ngày 19/8/2016 của UBND tỉnh Lâm Đồng về việc ban hành định mức chi đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước tại tỉnh Lâm Đồng.Số lượng hồ sơ tham gia tuyển chọn: gồm 15 bộ (trong đó có 02 bản chính, 13 bản sao); hồ sơ được niêm phong và gửi về Sở Khoa học và Công nghệ tỉnh Lâm Đồng, Tầng 9 Trung tâm Hành chính tỉnh Lâm Đồng, số 36 Trần Phú, Đà Lạt; Điện thoại: (0263) 3822106 - 3821377.Ngoài bì thư ghi rõ: Hồ sơ tham gia dự tuyển chủ trì nhiệm vụ KH&CN lần 1 năm 2021; Tên đề tài, dự án KH&CN dự tuyển; Tên đơn vị tham gia dự tuyển chủ trì thực hiện; Họ và tên cá nhân đăng ký chủ nhiệm đề tài, dự án KH&CN; Danh mục tài liệu, văn bản trong hồ sơ.Thời gian nhận hồ sơ: kể từ ngày ra thông báo đến 17 giờ ngày 28/11/2021 (theo dấu bưu điện).Chi tiết xin liên hệ Phòng Quản lý khoa học - Sở Khoa học và Công nghệ tỉnh Lâm Đồng - Điện thoại: 02633.822106 để được hướng dẫn cụ thể./.                                          
+    
+
+						Sở Khoa học và Công nghệ tỉnh Lâm Đồng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Nhân nuôi giống dê lai hiệu quả cao
+
+						
+                    30/09/2021 12:16
+                
+
+
+	
+    
+Tạo giống dê lai F1Số lượng dê và sản lượng sản xuất của chúng trên thế giới tăng mạnh trong những năm gần đây. Tuy nhiên, tại Việt Nam chăn nuôi dê sữa lại chưa được quan tâm đúng mức, dẫn đến năng suất sữa thấp. Riêng ở TPHCM, nguồn cung ứng luôn trong tình trạng khan hiếm vì Thành phố có số lượng đàn dê nuôi lấy sữa hiện rất ít (chỉ khoảng 1,4 kg sữa/con/ngày).Với chi phí đầu tư ban đầu thấp cho chăn nuôi dê, việc đẩy mạnh phát triển nuôi dê sữa ở các vùng ven TPHCM là rất khả thi. Tuy nhiên, câu hỏi được nhiều người chăn nuôi dê đặt ra hiện nay là, qui trình lai tạo và chăn nuôi dê sữa như thế nào để đạt được năng suất tối ưu, phù hợp với điều kiện ở TPHCM?Trước thực tế đó, nhóm tác giả Trung tâm Nghiên cứu và Chuyển giao KHCN (Trường Đại học Nông Lâm TPHCM) đã thực hiện đề tài “Nghiên cứu lai tạo dê sữa F1 (Saanen với Bách Thảo) và xây dựng mô hình chăn nuôi dê sữa khu vực TPHCM”.Cụ thể, dê Bách Thảo được tuyển chọn và mua (ở các huyện thị của tỉnh Ninh Thuận) làm đàn cái nền và dê đực giống Saanen (tại Trung Tâm Dê và Thỏ Sơn Tây). Sau khi cho phối giống giữa dê bố mẹ là Saanen và Bách Thảo, tạo ra con lai 2 máu F1. Trong đó, từ 62 con (2 con đực giống thuần Saanen và 30 con cái Saanen, 30 con cái Bách Thảo), nhóm đã thu 168 con các loại. Giống dê lai F1 được chuyển cho các nông hộ nuôi thí điểm tại huyện Bình Chánh, Cần Giờ, theo phương thức bán thâm canh trong thời gian 10 ngày đầu, chăn thả từ 4 - 6 giờ/ngày. Sau khi thích nghi, dê sẽ được nuôi nhốt hoàn toàn. Khẩu phần thức ăn do Trung tâm nghiên cứu, hoàn thiện công thức cho phù hợp theo từng giai đoạn sinh trưởng và phát triển của dê.Dê lai F1 có chiếc tai dài, cụp đặc trưng được di truyền từ dê mẹ  Ảnh: NNCDê lai F1 có chiếc tai dài, cụp đặc trưng được di truyền từ dê mẹ  Ảnh: NNCDê lai F1 có chiếc tai dài, cụp đặc trưng được di truyền từ dê mẹ  Ảnh: NNCTỷ lệ nuôi sống dê lai F1 tại mô hình của nông hộ đạt 100% ở giai đoạn 3 đến 7,5 tháng tuổi, với trọng lượng trung bình gần 35kg. Năng suất sữa ở nhóm dê lai F1 sinh trưởng trong mùa khô cao hơn so với nhóm dê Bách Thảo. Sản lượng sữa trung bình khoảng 2 kg/con/ngày, trong khi Bách Thảo là 1,2kg/con/ngày. Số ngày cho sữa cũng cao hơn, ở mức 189 ngày, so với Bách Thảo (149 ngày). Tổng sản lượng sữa ở nhóm dê lai F1 là 382 kg/chu kỳ, cao hơn nhóm dê Bách Thảo (177kg/chu kỳ), nhưng thấp hơn nhóm dê Saanen (453 kg/chu kỳ). Đối với mùa mưa, giống Bách Thảo giảm nhẹ về năng suất sữa so với mùa khô. Trong khi đó, giống dê lai F1 vẫn duy trì năng suất sữa tốt, đạt trung bình là 2,1 kg/con/ngày, số ngày cho sữa là 209 ngày.Mô hình tiềm năngQua điều tra thực tế, nhóm nghiên cứu nhận thấy, hầu hết nông dân hiện còn thiếu kiến thức về việc phối hợp khẩu phần hợp lý cho đàn dê để đạt được năng suất cao. Thức ăn chủ yếu là cám hỗn hợp chiếm đến 60% trong khẩu phần, thành phần còn lại gồm cỏ, rau, xác đậu nành, xác dừa. Điều này cho thấy nông dân chưa biết khai thác và phối hợp các phụ phẩm sẵn có để giảm chi phí cho thức ăn công nghiệp. Ngoài ra, một vài hộ cho dê ăn cám hỗn hợp, pha loãng với nước, dễ ảnh hưởng đến việc giảm hoạt động của cơ quan tiêu hóa dạ cỏ, tập tính nhai lại trên dê và giảm lượng nước bọt tiết ra để đổ vào môi trường dạ cỏ. Bên cạnh đó, tập tính dê thích những thức ăn có độ ẩm vừa phải, vì vậy các nông hộ cần tránh việc cho những thức ăn quá khô và hạt bụi, rất dễ ảnh hưởng đến hệ thống hô hấp, đây là một trong những nguyên nhân gây gia tăng tỷ lệ viêm phổi trên đàn.Theo nhóm nghiên cứu, thời tiết ẩm ướt không thích hợp và ảnh hưởng đến năng suất cho sữa của dê. Cụ thể, nhóm dê Saanen thường bị ho, sổ mũi, đau mắt… nhiều hơn so với Bách Thảo và dê lai F1. Điều này cho thấy, dê lai F1 có thể đã nhận được những ưu thế di truyền từ mẹ để thích nghi với những điều kiện thời tiết tại khu vực TPHCM.Mô hình nuôi dê lai ít chi phí và diện tích hơn so với nuôi bò sữa  Ảnh: NNCMô hình nuôi dê lai ít chi phí và diện tích hơn so với nuôi bò sữa  Ảnh: NNCMô hình nuôi dê lai ít chi phí và diện tích hơn so với nuôi bò sữa  Ảnh: NNCTheo TS. Lê Thụy Bình Phương, Chủ nhiệm đề tài, để tiếp nhận mô hình chăn nuôi dê sữa, nông hộ nên xây dựng chuồng sàn với khoảng cách giữa các thanh sàn là 1,5 cm, phân ô chuồng cho các giai đoạn tuổi khác nhau của dê (hậu bị, mang thai, tiết sữa, đực giống...). Ngoài ra, nông hộ nên làm mái che cao hoặc thiết kế quạt hút ở 2 đầu dãy chuồng để tăng độ thông thoáng. Đồng thời, cần thực hiện đúng quy trình nuôi dưỡng, vệ sinh chuồng trại, phòng bệnh,… như đã được hướng dẫn.TS Phương cho biết thêm, lợi nhuận từ sữa khi nuôi dê lai F1 cao so với nuôi dê thuần ở cả hai giống Saanen và Bách Thảo. Qua thống kê với đàn F1 ở 6 nông hộ tham gia trong quá trình triển khai thực tế mô hình (10 con), lợi nhuận từ sữa trong năm đầu tiên ở nhóm dê lai F1 là 82,6 triệu đồng, trong khi đó với dê Bách Thảo chỉ ở mức 58,4 triệu đồng. Như vậy, mô hình chăn nuôi dê lấy sữa thích hợp cho các nông hộ với chi phí đầu tư, diện tích nuôi nhỏ hơn so với bò sữa và có thể nhân rộng cho các khu vực như ngoại thành TPHCM.Đề tài nghiên cứu đã được Sở KH&CN TPHCM nghiệm thu trong năm nay.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Ninh Bình cung cấp 100% dịch vụ công mức độ 4
+
+						
+                    25/09/2021 15:39
+                
+
+
+	
+    
+Cụ thể, tổng số dịch vụ công trực tuyến mức độ 4 được cung cấp là 1.226 dịch vụ, trong đó có 1.002 dịch vụ cấp tỉnh; 151 dịch vụ cấp huyện; 55 dịch vụ cấp xã; 18 dịch vụ của BHXH và Công an tỉnh.Điều này có nghĩa là, người dân và doanh nghiệp thực hiện thủ tục hành chính trên môi trường mạng mọi lúc, mọi nơi, và nhờ đó tiết kiệm thời gian, chi phí; bảo vệ môi trường, phòng chống dịch bệnh. Quá trình xử lý hồ sơ của cơ quan hành chính nhà nước cũng được minh bạch hóa triệt để, tránh phiền hà cho người dân và doanh nghiệp.Cổng dịch vụ công trực tuyến tỉnh Ninh Bình. Nguồn: Bộ TT&TT.Cổng dịch vụ công trực tuyến tỉnh Ninh Bình. Nguồn: Bộ TT&TT.Cổng dịch vụ công trực tuyến tỉnh Ninh Bình. Nguồn: Bộ TT&TT.Tỷ lệ dịch vụ công trực tuyến mức độ 4 là một trong những chỉ tiêu cơ bản đầu tiên và quan trọng thuộc mục tiêu “Cung cấp dịch vụ chất lượng phục vụ xã hội” của Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021-2025, định hướng đến năm 2030 được phê duyệt tại Quyết định số 942/QĐ-TTg ngày 15/6/2021 của Thủ tướng Chính phủ.Tính đến tháng 6/2021, cả nước có 6 bộ ngành, địa phương đưa 100% dịch vụ công trực tuyến lên mức 4, gồm Bộ Thông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam, Bến Tre, Tây Ninh, Lạng Sơn.
+    
+
+						Bích Ngọc 
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Giới thiệu công nghệ truyền thông cho doanh nghiệp
+
+						
+                    24/09/2021 14:10
+                
+
+
+	
+    
+Chia sẻ về xu hướng bán hàng qua mạng xã hội (Social Commerce) cho doanh nghiệp vừa và nhỏ, ông Phạm Minh Toàn, CEO Time Universal Communications, cho rằng, doanh nghiệp nên ưu tiên livestream làm chiến lược bán hàng hàng đầu; đồng thời chuyển đổi mọi hoạt động sang online và kiên trì xuất hiện trên các nền tảng xã hội của người tiêu dùng.Đại biểu giới thiệu công nghệ truyền thông cho doanh nghiệp tại Hội thảoẢnh: Chụp màn hìnhĐại biểu giới thiệu công nghệ truyền thông cho doanh nghiệp tại Hội thảoẢnh: Chụp màn hìnhĐại biểu giới thiệu công nghệ truyền thông cho doanh nghiệp tại Hội thảoẢnh: Chụp màn hìnhÔng Trần Duy Hào, Công ty Cổ phần giải pháp chuyên gia STAR GLOBAL, cho biết, trong mùa dịch, người mua chuyển hướng sang giao dịch online thay vì đếncửa hàng. Tuy nhiên, các sản phẩm, đặc biệt có giá trị cao thì khách hàng vẫn muốn có trải nghiệm trực tiếp trước khi mua. Mặt khác, nhiều doanh nghiệp không có cửa hàng hoặc cửa hàng nằm ở vị trí không thuận lợi. Website tương tác 3D/360 - Giải pháp tham quan từ xa và bán hàng online bằng công nghệ thực tế ảo VR/AR do STAR GLOBAL xây dựng, có thể tháo gỡ những vấn đề trên cho doanh nghiệp. Giải pháp có thể chạy trên nền tảng website hiện hữu, tích hợp vào các trang mạng xã hội khác của doanh nghiệp, tích hợp đa phương tiện (video, audio, thư viện ảnh, google map,…), cho phép khách tham quan từ xa với hướng dẫn viên ảo và tham khảo thông tin sản phẩm với hình ảnh chân thực.Giải pháp đã được một số nơi áp dụng như Hệ thống Chiếu sáng thông minh – Công viên Phần mềm Quang Trung; Dự án Du lịch tương tác thông minh 3D/360 tại SaiGon Skydeck (Bitexco Financial Tower); Trường học tương tác thông minh 3D/360 (Đại học Quốc gia Hà Nội); Bảo tàng số (Bảo tàng phụ nữ Nam bộ tại TPHCM);…Sản phẩm đã được số hóa 3D Ảnh: Chụp màn hìnhSản phẩm đã được số hóa 3D Ảnh: Chụp màn hìnhSản phẩm đã được số hóa 3D Ảnh: Chụp màn hìnhTrong khi đó, ông Phạm Quang Vinh, Giám đốc sản phẩm Cyberbot, Trung tâm Không gian mạng Viettel thì giới thiệu nền tảng trợ lý ảo Viettel Cyberbot - ứng dụng giao tiếp, đối thoại qua tin nhắn (Chatbot) hoặc cuộc gọi (Callbot) trực tiếp với khách hàng tự động, thay thế cho tư vấn viên trả lời. Cyberbot có thể ứng dụng đa dạng các ngành nghề như ngân hàng, giáo dục, y tế, hành chính công,..Công nghệ nhận dạng giọng nói tự động của Viettel Cyberbot có độ chính xác lên đến 95%, đồng thời hỗ trợ đa dạng giọng nói Bắc, Trung, Nam. Ngoài ra, Viettel Cyberbot còn nhận dạng được người nói, cảm xúc, độ tuổi, giới tính,...Thời gian qua Cyber-Callbot đã được 11 tỉnh ứng dụng để gọi nhắc người dân cài đặt ứng dụng Bluezone; gọi tới bệnh nhân F0 COVID-19, điều trị bằng thuốc Molnupiravir, nhắc nhở dùng thuốc đúng giờ, thu thập triệu chứng cung cấp cho các y bác sỹ làm hồ sơ nghiên cứu lâm sàng,... Ngoài ra, tổng đài tiếp nhận cuộc gọi, giải đáp thông tin hành chính công, các vấn đề liên quan đến dịch COVID-19 cũng đã được số hóa các nghiệp vụ, thủ tục hành chính công lên hệ thống Callbot. Toàn bộ các văn bản khẩn về COVID-19 tại một số tỉnh đã được chuyển đổi thành kịch bản sẵn sàng giải đáp tự động 24/7,.....
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                THCM: Triển khai ứng dụng tra cứu thông tin bệnh nhân COVID-19
+
+						
+                    22/09/2021 11:29
+                
+
+
+	
+    
+Ứng dụng “Tìm người thân - Danh sách người mất vì COVID-19” (https://benhnhancovid.info) ra đời từ sáng kiến của các đơn vị như Đảng ủy Khối cơ sở Bộ Công Thương tại TPHCM, Tổng Công ty Phát điện 3, Bộ Tư lệnh, Bệnh viện Nhiệt đới TPHCM, Công ty TNHH MTV Phát triển Công viên phần mềm Quang Trung và Hội Tin học TPHCM.Đây là chương trình xã hội thiện nguyện nhằm góp phần chia sẻ nỗi đau của cộng đồng và của gia đình có người qua đời vì COVID-19. Với ứng dụng này, ngay tại nhà hay bất cứ nơi đâu, thân nhân có thể tra cứu và nắm bắt kịp thời thông tin của người bệnh - người đã mất vì COVID-19.Ngoài ra, ứng dụng còn bảo đảm sự liên thông các dữ liệu của bệnh nhân COVID-19 từ lúc vào bệnh viện cho đến khi xuất viện. Bệnh nhân sẽ được xác định danh tính và dữ liệu được cập nhật chính xác thông qua mã QR Code. Từ đó, thân nhân có thể tra cứu thông tin về hiện trạng của người bệnh, người mất theo phân cấp từng cơ sở y tế, cơ sở an táng, quận, huyện, thành phố,...Người dùng có thể tra cứu thông tin về bệnh nhân COVID-19  Ảnh: Chụp màn hìnhNgười dùng có thể tra cứu thông tin về bệnh nhân COVID-19  Ảnh: Chụp màn hìnhNgười dùng có thể tra cứu thông tin về bệnh nhân COVID-19  Ảnh: Chụp màn hìnhĐối với những người tử vong, dữ liệu của họ sẽ được cập nhật liên tục cho đến khi tro cốt được giao tận tay cho gia đình. Ứng dụng cũng cho phép số hoá toàn bộ dữ liệu của nạn nhân đã mất, giúp cho các cán bộ chiến sĩ Nhà Tang lễ thuộc Bộ Tư lệnh TPHCM giảm tải khối lượng công việc thủ công hiện nay.Trong thời gian đầu, ngoài thông tin được cập nhật tại Nhà Tang lễ thuộc Bộ tư lệnh TPHCM và Bệnh viện Nhiệt đới, ứng dụng sẽ được triển khai đến các bệnh viện dã chiến, bệnh viện có điều trị bệnh nhân COVID-19 và các cơ sở y tế khác, cũng như chuyển giao cho các tỉnh thành khác nếu có nhu cầu sử dụng. Ứng dụng được thiết kế trên nhiều nền tảng Web-app, Mobile-app, vận hành trên hệ điều hành iOS và Android.Trước đó, Sở Y tế TPHCM đã triển khai hệ thống tra cứu thông tin người bệnh COVID-19 tại địa chỉ https://tracuuf0.medinet.org.vn gồm 2 tính năng: tra cứu thông tin người bệnh COVID-19 đang điều trị; và nhắn tin thông báo tình trạng người bệnh COVID-19 đến thân nhân.Trước đó, Sở Y tế TPHCM đã triển khai hệ thống tra cứu thông tin người bệnh COVID-19 tại địa chỉ https://tracuuf0.medinet.org.vn gồm 2 tính năng: tra cứu thông tin người bệnh COVID-19 đang điều trị; và nhắn tin thông báo tình trạng người bệnh COVID-19 đến thân nhân.
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Hội nghị phát động đề xuất nhiệm vụ khoa học và công nghệ phục vụ phòng chống Covid-19
+
+						
+                    21/09/2021 10:07
+                
+
+
+	
+    
+Sở Khoa học và Công nghệ hiện đang tiếp nhận đề xuất nhiệm vụ KH&CN cấp thành phố năm 2021 (đợt 2) tập trung vào 5 lĩnh vực: Khoa học xã hội và nhân văn; Công nghiệp, Giao thông, Đô thị; Sử dụng hợp lý tài nguyên và môi trường; Nông, Lâm nghiệp, Thủy sản; Chăm sóc, bảo vệ và nâng cao sức khỏe nhân dân, với các loại hình nghiên cứu như: đề tài; dự án đề án khoa học. Trong tình hình Covid-19 diễn biến phức tạp, khó lường, những nhiệm vụ KH&CN nghiên cứu phục vụ hiệu quả cho công tác phòng, chống dịch sẽ được khuyến khích và ưu tiên xem xét.TS. Trần Quang Tuấn - Giám đốc Sở Khoa học và Công nghệ phát biểu tại Hội nghị phát động đề xuất nhiệm vụ khoa học và công nghệ phục vụ phòng chống dịch bệnh Covid-19Phát biểu tại hội nghị, TS. Trần Quang Tuấn - Giám đốc Sở KH&CN kêu gọi mỗi cá nhân, tập thể, nhà khoa học trong và ngoài thành phố với tri thức, tâm huyết và trách nhiệm hãy quan tâm đề xuất nhiều nhiệm vụ thiết thực, khả thi, hiệu quả góp phần cùng cả nước chiến thắng đại dịch Covid-19, Sở KH&CN sẽ tạo mọi điều kiện thuận lợi nhất trong quá trình xem xét, thẩm định, phê duyệt để các nhiệm vụ này có thể sớm được triển khai và đưa vào ứng dụng trong cuộc sống.Từ 1/9/2021, Trung tâm Phát triển KHCN và Đổi mới sáng tạo đã sản xuất hàng nghìn chai dung dịch Anolyte sát khuẩn tay dạng xịt và can dung dịch Anolyte phun khử trùng, diệt khuẩn để gửi tặng các cơ quan, đoàn thể, bệnh viện, doanh nghiệp, trường học trên địa bàn thành phố góp phần thực hiện công tác phòng chống dịch bệnh. Tại hội nghị này, Sở KH&CN tiếp tục trao tặng dung dịch sát khuẩn phòng, chống Covid-19 cho các tổ chức, đơn vị tham gia.Ngay tại hội nghị, nhiều tổ chức, doanh nghiệp đã tích cực hưởng ứng, hỗ trợ kinh phí sản xuất dung dịch sát khuẩn gửi tặng đồng bào Hà Nội, thành phố Hồ Chí Minh và các tỉnh phía Nam chống dịch. Tiêu biểu là Công ty Xi măng Vicem Hải Phòng, Công ty cổ phần Hàng Hải Liên Minh, Công ty TNHH Thủy sản Bảo Minh, Công ty TNHH Phương Nghĩa,...Sở Khoa học và Công nghệ hiện đang tiếp nhận đề xuất nhiệm vụ KH&CN cấp thành phố năm 2021 (đợt 2) tập trung vào 5 lĩnh vực: Khoa học xã hội và nhân văn; Công nghiệp, Giao thông, Đô thị; Sử dụng hợp lý tài nguyên và môi trường; Nông, Lâm nghiệp, Thủy sản; Chăm sóc, bảo vệ và nâng cao sức khỏe nhân dân, với các loại hình nghiên cứu như: đề tài; dự án đề án khoa học. Trong tình hình Covid-19 diễn biến phức tạp, khó lường, những nhiệm vụ KH&CN nghiên cứu phục vụ hiệu quả cho công tác phòng, chống dịch sẽ được khuyến khích và ưu tiên xem xét.TS. Trần Quang Tuấn - Giám đốc Sở Khoa học và Công nghệ phát biểu tại Hội nghị phát động đề xuất nhiệm vụ khoa học và công nghệ phục vụ phòng chống dịch bệnh Covid-19TS. Trần Quang Tuấn - Giám đốc Sở Khoa học và Công nghệ phát biểu tại Hội nghị phát động đề xuất nhiệm vụ khoa học và công nghệ phục vụ phòng chống dịch bệnh Covid-19Phát biểu tại hội nghị, TS. Trần Quang Tuấn - Giám đốc Sở KH&CN kêu gọi mỗi cá nhân, tập thể, nhà khoa học trong và ngoài thành phố với tri thức, tâm huyết và trách nhiệm hãy quan tâm đề xuất nhiều nhiệm vụ thiết thực, khả thi, hiệu quả góp phần cùng cả nước chiến thắng đại dịch Covid-19, Sở KH&CN sẽ tạo mọi điều kiện thuận lợi nhất trong quá trình xem xét, thẩm định, phê duyệt để các nhiệm vụ này có thể sớm được triển khai và đưa vào ứng dụng trong cuộc sống.Từ 1/9/2021, Trung tâm Phát triển KHCN và Đổi mới sáng tạo đã sản xuất hàng nghìn chai dung dịch Anolyte sát khuẩn tay dạng xịt và can dung dịch Anolyte phun khử trùng, diệt khuẩn để gửi tặng các cơ quan, đoàn thể, bệnh viện, doanh nghiệp, trường học trên địa bàn thành phố góp phần thực hiện công tác phòng chống dịch bệnh. Tại hội nghị này, Sở KH&CN tiếp tục trao tặng dung dịch sát khuẩn phòng, chống Covid-19 cho các tổ chức, đơn vị tham gia.Ngay tại hội nghị, nhiều tổ chức, doanh nghiệp đã tích cực hưởng ứng, hỗ trợ kinh phí sản xuất dung dịch sát khuẩn gửi tặng đồng bào Hà Nội, thành phố Hồ Chí Minh và các tỉnh phía Nam chống dịch. Tiêu biểu là Công ty Xi măng Vicem Hải Phòng, Công ty cổ phần Hàng Hải Liên Minh, Công ty TNHH Thủy sản Bảo Minh, Công ty TNHH Phương Nghĩa,...
+    
+
+						Sở KH&CN thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Quận Hoàn Kiếm thí điểm đi chợ hộ cho người dân trên ứng dụng
+
+						
+                    14/09/2021 10:35
+                
+
+
+	
+    
+
+    
+
+						Theo Ictnews
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Ứng dụng các giải pháp công nghệ số trong lĩnh vực y tế
+
+						
+                    11/09/2021 17:30
+                
+
+
+	
+    
+Phó Giám đốc Sở KH&CN Phạm Thị Sen Quỳnh phát biểu khai mạc Hội thảoKhai mạc Hội thảo, bà Phạm Thị Sen Quỳnh - Phó Giám đốc Sở KH&CN cho biết, trong bối cảnh dịch Covid-19 diễn biến phức tạp, thế giới đã và đang phải đối mặt với những tác động tiêu cực của dịch bệnh, đe dọa và kéo lùi sự phát triển của mỗi quốc gia, trong đó có Việt Nam. Do đó, chuyển đổi số càng trở nên quan trọng và trở thành nhu cầu bức thiết của cả nước, của các địa phương, các ngành, các doanh nghiệp, đặc biệt là lĩnh vực y tế. Do vậy, Sở KH&CN tổ chức hội thảo nhằm giúp các tổ chức, đơn vị có nhu cầu tiếp cận với các giải pháp công nghệ chuyển đổi số trong lĩnh vực y tế.Hội thảo giới thiệu thông tin về ứng dụng công nghệ số toàn diện tại các cơ sở khám chữa bệnh, góp phần giảm tải bệnh viện, nâng cao chất lượng khám chữa bệnh, sử dụng hồ sơ bệnh án điện tử tiến tới không sử dụng bệnh án giấy, hình thành các bệnh viện thông minh; xây dựng nền tảng quản trị y tế thông minh dựa trên công nghệ số. Cụ thể như: Hướng dẫn đăng ký online tiêm vắc-xin Covid-19; Giải pháp chuyển đổi số trong lĩnh vực y tế; MOSS CLINIC - Giải pháp tổng thể về quản lý phòng khám, trung tâm y tế, tuyến y tế xã phường;MedOn - Giải pháp Y tế số cho bác sĩ và người bệnh; Phần mềm quản lý an toàn thực phẩm phòng ngừa Covid-19; Phần mềm quản lý bệnh viện VNPT HIS...Trong khuôn khổ sự kiện, đại biểu quan tâm trao đổi về các giải pháp công nghệ số được giới thiệu và bày tỏ mong muốn thời gian tới sẽ có nhiều ứng dụng công nghệ số trong lĩnh vực y tế, góp phần thay đổi mạnh mẽ mô hình, cách thức quản lý và phục vụ tối ưu nhu cầu nhân dân, đặc biệt trong bối cảnh dịch Covid-19 có thể diễn biến kéo dài.Phó Giám đốc Sở KH&CN Phạm Thị Sen Quỳnh phát biểu khai mạc Hội thảoPhó Giám đốc Sở KH&CN Phạm Thị Sen Quỳnh phát biểu khai mạc Hội thảoKhai mạc Hội thảo, bà Phạm Thị Sen Quỳnh - Phó Giám đốc Sở KH&CN cho biết, trong bối cảnh dịch Covid-19 diễn biến phức tạp, thế giới đã và đang phải đối mặt với những tác động tiêu cực của dịch bệnh, đe dọa và kéo lùi sự phát triển của mỗi quốc gia, trong đó có Việt Nam. Do đó, chuyển đổi số càng trở nên quan trọng và trở thành nhu cầu bức thiết của cả nước, của các địa phương, các ngành, các doanh nghiệp, đặc biệt là lĩnh vực y tế. Do vậy, Sở KH&CN tổ chức hội thảo nhằm giúp các tổ chức, đơn vị có nhu cầu tiếp cận với các giải pháp công nghệ chuyển đổi số trong lĩnh vực y tế.Hội thảo giới thiệu thông tin về ứng dụng công nghệ số toàn diện tại các cơ sở khám chữa bệnh, góp phần giảm tải bệnh viện, nâng cao chất lượng khám chữa bệnh, sử dụng hồ sơ bệnh án điện tử tiến tới không sử dụng bệnh án giấy, hình thành các bệnh viện thông minh; xây dựng nền tảng quản trị y tế thông minh dựa trên công nghệ số. Cụ thể như: Hướng dẫn đăng ký online tiêm vắc-xin Covid-19; Giải pháp chuyển đổi số trong lĩnh vực y tế; MOSS CLINIC - Giải pháp tổng thể về quản lý phòng khám, trung tâm y tế, tuyến y tế xã phường;MedOn - Giải pháp Y tế số cho bác sĩ và người bệnh; Phần mềm quản lý an toàn thực phẩm phòng ngừa Covid-19; Phần mềm quản lý bệnh viện VNPT HIS...Trong khuôn khổ sự kiện, đại biểu quan tâm trao đổi về các giải pháp công nghệ số được giới thiệu và bày tỏ mong muốn thời gian tới sẽ có nhiều ứng dụng công nghệ số trong lĩnh vực y tế, góp phần thay đổi mạnh mẽ mô hình, cách thức quản lý và phục vụ tối ưu nhu cầu nhân dân, đặc biệt trong bối cảnh dịch Covid-19 có thể diễn biến kéo dài.
+    
+
+						Sở KH&CN thành phố Hải Phòng
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
+		
+                Sở KH&CN TPHCM đặt hàng nhiệm vụ xây dựng công cụ quản lý chợ 
+
+						
+                    10/09/2021 18:15
+                
+
+
+	
+    
+Nhiệm vụ được thực hiện nhằm hỗ trợ cơ quan quản lý nhà nước ứng dụng các mô hình, giải pháp KH&CN trong việc nâng cao chất lượng hiệu quả công tác quản lý, chỉ đạo, điều hành tại các chợ trên địa bàn các quận, huyện và TP Thủ Đức; đồng thời, kết nối thông tin trong công tác quản lý, chỉ đạo, điều hành các chợ giữa cơ quan quản lý chuyên ngành (Sở Công thương, Sở Tài chính) và cơ quan quản lý nhà nước địa phương (UBND TP Thủ Đức, quận, huyện).Một chợ truyền thống tại TPHCM  Ảnh:InternetMột chợ truyền thống tại TPHCM  Ảnh:InternetMột chợ truyền thống tại TPHCM  Ảnh:InternetĐối tượng đăng ký thực hiện nhiệm vụ là các tổ chức nghiên cứu, trường đại học, viện nghiên cứu, doanh nghiệp, tổ chức KH&CN có chức năng phù hợp, đủ năng lực và kinh nghiệm để triển khai nhiệm vụ. Ưu tiên việc xây dựng nhiệm vụ có khả năng nhân rộng. Đơn vị đăng ký thực hiện sẽ được nhận 100% kinh phí thực hiện nhiệm vụ từ nguồn ngân sách sự nghiệp KH&CN của Thành phố.Hồ sơ đăng ký thực hiện gửi qua email: qlcoso.skhcn@tphcm.gov.vnThời gian tiếp nhận hồ sơ đến hết ngày 25/9/2021
+    
+
+						Kiều Anh
+
+
+
+
+
+
+
++++++++++++++++++++++++
++++++++++++++++
+++++++++++++++
